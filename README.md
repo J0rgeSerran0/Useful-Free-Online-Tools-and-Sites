@@ -84,7 +84,7 @@ List of some useful free online tools and sites
 - [**ASCII, Hex, Binary, Decimal, Base64 Converter** - (*Multiple converter at the same time*)](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 - [**Base64 Encoder & Decorder** - (*Converts text to Base64 or decode Base64 to text. Supports UTF-8*)](https://www.appdevtools.com/base64-encoder-decoder)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
-- [**Case Converter** - (*Converts text to lowercase, UPPERCASE, camelCase, PascalCase, snake_case, Capital Case, and more*)](https://www.appdevtools.com/case-converter)
+- [**Case Converter** - (*Converts text to lowercase, UPPERCASE, camelCase, PascalCase, snake_case, and more*)](https://www.appdevtools.com/case-converter)
 - [**Code Beautify** - (*Converts between different formats, supporting a wide variety*)](https://codebeautify.org/)
 - [**Code Syntax** - (*Converts your code snippets into pretty-printed HTML format*)](http://hilite.me/)
 - [**Code Syntax Highlighting** - (*Converts your code into HTML format supporting a lot of programming languages*)](https://tohtml.com/)
