@@ -10,7 +10,8 @@ List of some useful free online tools and sites
 - [`Colors`](#colors)
 - [`Diagrams & Design`](#diagrams_and_design)
 - [`Fonts`](#fonts) 
-- [`Icons, Images & Logos`](#icons_images_and_logos)
+- [`Icons & Logos`](#icons_and_logos)
+- [`Images`](#images)
 - [`Miscelanea`](#miscelanea)
 - [`Network`](#network)
 - [`Photography`](#photography)
@@ -58,13 +59,16 @@ List of some useful free online tools and sites
 ## <a name="fonts"></a>**Fonts**
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 
-## <a name="icons_images_and_logos"></a>**Icons, Images & Logos**
+## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**IconFinder** - (*Big library of free icons (with some payment icons too)*)](https://www.iconfinder.com/)
 - [**Icons8** - (*Free icons, illustrations, photos, music, and design tools*)](https://icons8.com/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
+
+## <a name="images"></a>**Images**
+- [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 
 ## <a name="miscelanea"></a>**Miscelanea**
 - [**Dictation** - (*Speech recognition to write emails and documents in Google Chrome*)](https://dictation.io/)
