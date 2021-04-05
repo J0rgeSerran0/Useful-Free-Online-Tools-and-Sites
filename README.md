@@ -4,6 +4,7 @@ List of some useful free online tools and sites
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
 - [`APIs`](#apis)
+- [`Audio`](#audio)
 - [`Calculators & Converters`](#calculators_and_converters)
 - [`CloudComputing`](#cloud_computing)
 - [`Colors`](#colors)
@@ -28,6 +29,9 @@ List of some useful free online tools and sites
 
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
+
+## <a name=""></a>**Audio**
+- [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
