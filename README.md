@@ -41,6 +41,7 @@ List of some useful free online tools and sites
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
 
 ## <a name="cloud_computing"></a>**Cloud Computing**
+- [**Azure Services** - (*Useful list of all the Azure Services*)](https://azureservices.io/)
 - [**CNCF Cloud Native Interactive Landscape** - (*Trail Map*)](https://landscape.cncf.io/)
 - [**CNCF Cloud Native Interactive Card Mode** - (*Card Mode*)](https://landscape.cncf.io/card-mode)
 - [**CNCF Cloud Native Interactive Members** - (*Members*)](https://landscape.cncf.io/members)
