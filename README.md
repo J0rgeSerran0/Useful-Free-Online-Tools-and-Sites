@@ -13,6 +13,7 @@ List of some useful free online tools and sites
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
 - [`Miscelanea`](#miscelanea)
+- [`Music`](#music)
 - [`Network`](#network)
 - [`Photography`](#photography)
 - [`Programmer Utilities`](#programmer_utilities)
@@ -77,6 +78,9 @@ List of some useful free online tools and sites
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
+
+## <a name="music"></a>**Music**
+- [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 
 ## <a name="network"></a>**Network**
 - [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
