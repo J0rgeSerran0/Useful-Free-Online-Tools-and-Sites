@@ -91,6 +91,7 @@ List of some useful free online tools and sites
 
 ## <a name="photography"></a>**Photography**
 - [**EXIF Viewer** - (*View the EXIF metadata of an image file if exists*)](https://www.appdevtools.com/exif-viewer)
+- [**Moon Phases (2021)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2021#)
 - [**Photography Calculator** - (*Online tools for photographers*)](https://www.photoandtips.com/photography-calculator/)
 
 ## <a name="programmer_utilities"></a>**Programmer Utilities**
