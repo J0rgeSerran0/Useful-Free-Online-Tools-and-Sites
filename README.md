@@ -15,7 +15,7 @@ List of some useful free online tools and sites
 - [`Miscelanea`](#miscelanea)
 - [`Music`](#music)
 - [`Network`](#network)
-- [`Photography`](#photography)
+- [`Photography & Photographers`](#photography_and_photographers)
 - [`Programmer Utilities`](#programmer_utilities)
 - [`Programming Languages`](#programming_languages)
 - [`Retro`](#retro)
@@ -89,7 +89,7 @@ List of some useful free online tools and sites
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
 
-## <a name="photography"></a>**Photography**
+## <a name="photography_and_photographers"></a>**Photography & Photographers**
 - [**EXIF Viewer** - (*View the EXIF metadata of an image file if exists*)](https://www.appdevtools.com/exif-viewer)
 - [**Moon Phases (2021)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2021#)
 - [**Photography Calculator** - (*Online tools for photographers*)](https://www.photoandtips.com/photography-calculator/)
