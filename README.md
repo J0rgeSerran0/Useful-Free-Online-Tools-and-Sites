@@ -12,6 +12,7 @@ List of some useful free online tools and sites
 - [`Fonts`](#fonts) 
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
+- [`JSON`](#json)
 - [`Miscelanea`](#miscelanea)
 - [`Music`](#music)
 - [`Network`](#network)
@@ -73,6 +74,12 @@ List of some useful free online tools and sites
 ## <a name="images"></a>**Images**
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 
+## <a name="json"></a>**JSON**
+- [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
+- [**JSON Editor** - (*Online editor for JSON files*)](https://www.appdevtools.com/json-editor)
+- [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
+- [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
+
 ## <a name="miscelanea"></a>**Miscelanea**
 - [**Dictation** - (*Speech recognition to write emails and documents in Google Chrome*)](https://dictation.io/)
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
@@ -106,9 +113,6 @@ List of some useful free online tools and sites
 - [**Diff Checker** - (*Compares to find the differences between two texts*)](https://www.appdevtools.com/diff-checker)
 - [**Hash Generator** - (*Tool to generate a hash value of a string supporting a lot of algorithms*)](https://www.appdevtools.com/hash-generator)
 - [**Hex to Decimal Converter** - (*Converts Hexadecimal to Binary*)](https://www.easycalculation.com/hex-converter.php)
-- [**JSON Editor** - (*Online editor for JSON files*)](https://www.appdevtools.com/json-editor)
-- [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
-- [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
 - [**Password Generator** - (*Generates a password with multiple options*)](https://www.appdevtools.com/password-generator)
 - [**Regular Expression Tester** - (*Tester for Regular Expressions*)](https://www.appdevtools.com/regular-expression-tester)
