@@ -140,6 +140,7 @@ List of some useful free online tools and sites
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
+- [**WeTransfer** - (*Transfer files and share them with other users*)](https://wetransfer.com/)
 
 ## <a name="shopping_prices_and_stores"></a>**Shopping, Prices & Stores**
 - [**CamelCamelCamel** - (*Prices tracker for an Amazon product*)](https://camelcamelcamel.com/)
