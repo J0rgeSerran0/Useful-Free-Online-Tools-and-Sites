@@ -21,6 +21,7 @@ List of some useful free online tools and sites
 - [`Programming Languages`](#programming_languages)
 - [`Retro`](#retro)
 - [`Search`](#search)
+- [`Security`](#security)
 - [`Sharing`](#sharing)
 - [`Shopping Prices & Stores`](#shopping_prices_and_stores)
 - [`Social Networks`](#social_networks)
@@ -137,6 +138,9 @@ List of some useful free online tools and sites
 - [**Biblioteca Universidad Complutense** - (*Spanish - Search books, articles and other documents of this University Library*)](https://biblioteca.ucm.es/librose)
 - [**Internet Archive** - (*Search web, books, video, audio, software and images*)](https://archive.org/search.php?query=)
 - [**Scholar Google** - (*Search academic information*)](https://scholar.google.com/)
+
+## <a name="search"></a>**Security**
+- [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
