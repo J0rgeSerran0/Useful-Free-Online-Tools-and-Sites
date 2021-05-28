@@ -26,6 +26,7 @@ List of some useful free online tools and sites
 - [`Shopping Prices & Stores`](#shopping_prices_and_stores)
 - [`Social Networks`](#social_networks)
 - [`Strings`](#strings)
+- [`Technology`](#technology)
 - [`Time`](#time)
 - [`Weather`](#weather)
 - [`Web`](#web)
@@ -161,6 +162,9 @@ List of some useful free online tools and sites
 
 ## <a name="strings"></a>**Strings**
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
+
+## <a name="technology"></a>**Technology**
+- [**The Google Cemetery** - (*List of dead Google products/services*)](https://gcemetery.co/)
 
 ## <a name="time"></a>**Time**
 - [**Greenwich Mean Time** - (*Check current time anywhere*)](https://greenwichmeantime.com/)
