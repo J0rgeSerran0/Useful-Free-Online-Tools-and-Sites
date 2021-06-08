@@ -163,10 +163,13 @@ List of some useful free online tools and sites
 - [**YouTube Downloader** - (*Download Youtube to mp4 & mp3*)](https://youtubedownloader.sh/)
 
 ## <a name="status"></a>**Status**
+- [**AWS Status** - (*Amazon Web Service Status*)](https://status.aws.amazon.com/)
+- [**Azure Status** - (*Microsoft Azure Status*)](https://status.azure.com/es-es/status)
 - [**Azure DevOps Status** - (*Status of the Azure DevOps Services*)](https://status.dev.azure.com/)
 - [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
 - [**Fastly** - (*Service Status*)](https://status.fastly.com/)
 - [**GitHub Status** - (*GitHub Status*)](https://www.githubstatus.com/)
+- [**Xbox Status** - (*Microsoft Xbox Status - En-us*)](https://support.xbox.com/en-US/xbox-live-status)
 
 ## <a name="strings"></a>**Strings**
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
