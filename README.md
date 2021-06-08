@@ -25,6 +25,7 @@ List of some useful free online tools and sites
 - [`Sharing`](#sharing)
 - [`Shopping Prices & Stores`](#shopping_prices_and_stores)
 - [`Social Networks`](#social_networks)
+- [`Status`](#status)
 - [`Strings`](#strings)
 - [`Technology`](#technology)
 - [`Time`](#time)
@@ -94,7 +95,6 @@ List of some useful free online tools and sites
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 
 ## <a name="network"></a>**Network**
-- [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
 - [**IP Number Converter** - (*Converts between IP addresses and numbers supporting both IPv4 and IPv6*)](https://www.appdevtools.com/ip-number-converter)
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
@@ -161,6 +161,11 @@ List of some useful free online tools and sites
 - [**Twitter Video Downloader** - (*Download Twitter Videos to Mp4 & Mp3*)](https://www.savetweetvid.com/)
 - [**Twitter Downloader** - (*Download Twitter Videos and Gifs*)](https://downloaders.hashtagsforlikes.co/twitter-downloader)
 - [**YouTube Downloader** - (*Download Youtube to mp4 & mp3*)](https://youtubedownloader.sh/)
+
+## <a name="status"></a>**Status**
+- [**Azure DevOps Status** - (*Status of the Azure DevOps Services*)](https://status.dev.azure.com/)
+- [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
+- [**Fastly** - (*Service Status*)](https://status.fastly.com/)
 
 ## <a name="strings"></a>**Strings**
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
