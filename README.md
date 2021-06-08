@@ -166,6 +166,7 @@ List of some useful free online tools and sites
 - [**Azure DevOps Status** - (*Status of the Azure DevOps Services*)](https://status.dev.azure.com/)
 - [**Downdetector** - (*Real-time problem & outage monitoring*)](https://downdetector.com/)
 - [**Fastly** - (*Service Status*)](https://status.fastly.com/)
+- [**GitHub Status** - (*GitHub Status*)](https://www.githubstatus.com/)
 
 ## <a name="strings"></a>**Strings**
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
