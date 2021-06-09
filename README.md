@@ -76,6 +76,7 @@ List of some useful free online tools and sites
 
 ## <a name="images"></a>**Images**
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
+- [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 
 ## <a name="json"></a>**JSON**
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
