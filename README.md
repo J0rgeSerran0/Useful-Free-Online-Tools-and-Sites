@@ -14,7 +14,7 @@ List of some useful free online tools and sites
 - [`Images`](#images)
 - [`JSON`](#json)
 - [`Miscelanea`](#miscelanea)
-- [`Music`](#music)
+- [`Music & Sounds`](#music)
 - [`Network`](#network)
 - [`Photography & Photographers`](#photography_and_photographers)
 - [`Productivity`](#productivity)
@@ -95,6 +95,7 @@ List of some useful free online tools and sites
 
 ## <a name="music"></a>**Music**
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
+- [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
 
 ## <a name="network"></a>**Network**
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
