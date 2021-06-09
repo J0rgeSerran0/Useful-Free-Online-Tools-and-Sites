@@ -112,6 +112,7 @@ List of some useful free online tools and sites
 - [**Pomodoro Tracker** - (*Online Pomodoro Tool*)](https://pomodoro-tracker.com/)
 
 ## <a name="programmer_utilities"></a>**Programmer Utilities**
+- [**.NET Development Tools** - (*GUID Generator, Hash Generator & Machine Key Generator*)](https://martincostello.com/tools/)
 - [**ASCII, Hex, Binary, Decimal, Base64 Converter** - (*Multiple converter at the same time*)](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 - [**Base64 Encoder & Decorder** - (*Converts text to Base64 or decode Base64 to text. Supports UTF-8*)](https://www.appdevtools.com/base64-encoder-decoder)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
