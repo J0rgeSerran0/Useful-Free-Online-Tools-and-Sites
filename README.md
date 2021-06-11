@@ -62,6 +62,7 @@ List of some useful free online tools and sites
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 
 ## <a name="cron"></a>**Cron**
+- [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
 - [**Cron Schedule Tool** - (*Quick and simple editor for cron schedule expressions*)](https://crontab.guru/)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
