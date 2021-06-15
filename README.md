@@ -10,6 +10,7 @@ List of some useful free online tools and sites
 - [`Colors`](#colors)
 - [`Cron`](#cron)
 - [`Diagrams & Design`](#diagrams_and_design)
+- [`Email`](#email)
 - [`Fonts`](#fonts) 
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
@@ -69,6 +70,10 @@ List of some useful free online tools and sites
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
+
+## <a name="email"></a>**Email**
+- [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
+- [**TempMail** - (*Create a temporary email address*)](https://temp-mail.org/en)
 
 ## <a name="fonts"></a>**Fonts**
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
