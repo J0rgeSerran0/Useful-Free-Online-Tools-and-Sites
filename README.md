@@ -5,6 +5,7 @@ List of some useful free online tools and sites
 
 - [`APIs`](#apis)
 - [`Audio`](#audio)
+- [`Barcodes`](#barcodes)
 - [`Calculators & Converters`](#calculators_and_converters)
 - [`CloudComputing`](#cloud_computing)
 - [`Colors`](#colors)
@@ -43,6 +44,13 @@ List of some useful free online tools and sites
 
 ## <a name=""></a>**Audio**
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
+
+## <a name=""></a>**Barcodes**
+- [**EAN 8** - (*Generates EAN8 Barcode*)](https://barcode.tec-it.com/en/EAN8)
+- [**EAN 13** - (*Generates EAN13 Barcode*)](https://barcode.tec-it.com/en/EAN13)
+- [**EAN 14** - (*Generates EAN14 Barcode*)](https://barcode.tec-it.com/en/EAN14)
+- [**UPC-A** - (*Generates UPC-A Barcode*)](https://barcode.tec-it.com/en/UPCA)
+- [**UPC-E** - (*Generates UPC-E Barcode*)](https://barcode.tec-it.com/en/UPCE)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
