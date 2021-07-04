@@ -109,6 +109,7 @@ List of some useful free online tools and sites
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 
 ## <a name="miscelanea"></a>**Miscelanea**
+- [**Avion Safety Network** - (*Database of aerial accidents since 1930*)](https://aviation-safety.net/)
 - [**Dictation** - (*Speech recognition to write emails and documents in Google Chrome*)](https://dictation.io/)
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
