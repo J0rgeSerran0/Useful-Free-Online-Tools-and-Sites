@@ -10,6 +10,7 @@ List of some useful free online tools and sites
 - [`CloudComputing`](#cloud_computing)
 - [`Colors`](#colors)
 - [`Cron`](#cron)
+- [`Data`](#data)
 - [`Diagrams & Design`](#diagrams_and_design)
 - [`Email`](#email)
 - [`Fonts`](#fonts) 
@@ -74,6 +75,9 @@ List of some useful free online tools and sites
 ## <a name="cron"></a>**Cron**
 - [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
 - [**Cron Schedule Tool** - (*Quick and simple editor for cron schedule expressions*)](https://crontab.guru/)
+
+## <a name="data"></a>**Data**
+- [**Data Comparer** - (*Compare your data and find differences between them*)](https://slothman.dev/data-comparer/)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
