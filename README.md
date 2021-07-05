@@ -30,7 +30,7 @@ List of some useful free online tools and sites
 - [`Shopping Prices & Stores`](#shopping_prices_and_stores)
 - [`Social Networks`](#social_networks)
 - [`Status`](#status)
-- [`Strings`](#strings)
+- [`Strings and Texts`](#strings_and_texts)
 - [`Technology`](#technology)
 - [`Time`](#time)
 - [`Videos`](#videos)
@@ -213,7 +213,8 @@ List of some useful free online tools and sites
 - [**GitHub Status** - (*GitHub Status*)](https://www.githubstatus.com/)
 - [**Xbox Status** - (*Microsoft Xbox Status - En-us*)](https://support.xbox.com/en-US/xbox-live-status)
 
-## <a name="strings"></a>**Strings**
+## <a name="strings_and_texts"></a>**Strings and Texts**
+- [**Random text generator** - (*Create dummy text for all your layout needs*)](https://slothman.dev/text-generator/)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 
 ## <a name="technology"></a>**Technology**
