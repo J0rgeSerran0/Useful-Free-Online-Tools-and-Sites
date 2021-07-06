@@ -152,7 +152,7 @@ List of some useful free online tools and sites
 - [**Binary to Hexadecimal Converter** - (*Binary to hex conversion tool*)](https://www.binaryhexconverter.com/binary-to-hex-converter)
 - [**Binary to Octal Converter** - (*Binary to octal conversion tool*)](https://www.binaryhexconverter.com/binary-to-octal-converter)
 - [**Case Converter** - (*Converts text to lowercase, UPPERCASE, camelCase, PascalCase, snake_case, and more*)](https://www.appdevtools.com/case-converter)
-- [**Case Converter** - (*Convert your text to different cases [UPPERCASE, lowercase, camelCase, PascalCase, snake_case, kebah-case...]*)](https://slothman.dev/case-converter/)
+- [**Case Converter** - (*Convert your text to different cases [UPPERCASE, lowercase, camelCase, PascalCase, snake_case, kebab-case...]*)](https://slothman.dev/case-converter/)
 - [**Code Beautify** - (*Converts between different formats, supporting a wide variety*)](https://codebeautify.org/)
 - [**Code Syntax** - (*Converts your code snippets into pretty-printed HTML format*)](http://hilite.me/)
 - [**Code Syntax Highlighting** - (*Converts your code into HTML format supporting a lot of programming languages*)](https://tohtml.com/)
