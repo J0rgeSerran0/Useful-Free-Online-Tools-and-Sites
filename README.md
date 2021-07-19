@@ -45,6 +45,7 @@ List of some useful free online tools and sites
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
 
 ## <a name=""></a>**Audio**
+- [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
 
 ## <a name=""></a>**Barcodes**
