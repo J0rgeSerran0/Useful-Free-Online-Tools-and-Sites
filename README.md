@@ -120,6 +120,7 @@ List of some useful free online tools and sites
 - [**Dictation** - (*Speech recognition to write emails and documents in Google Chrome*)](https://dictation.io/)
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
+- [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
 
