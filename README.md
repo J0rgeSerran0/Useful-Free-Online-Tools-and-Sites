@@ -106,6 +106,7 @@ List of some useful free online tools and sites
 ## <a name="images"></a>**Images**
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
+- [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 
 ## <a name="json"></a>**JSON**
