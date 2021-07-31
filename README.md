@@ -127,7 +127,14 @@ List of some useful free online tools and sites
 
 ## <a name="music"></a>**Music**
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
+- [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
+- [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
+- [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
 - [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
+- [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
+- [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
+- [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
+- [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 
 ## <a name="network"></a>**Network**
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
