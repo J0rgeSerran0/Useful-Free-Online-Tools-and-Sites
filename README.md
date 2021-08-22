@@ -29,6 +29,7 @@ List of some useful free online tools and sites
 - [`Security`](#security)
 - [`Sharing`](#sharing)
 - [`Shopping Prices & Stores`](#shopping_prices_and_stores)
+- [`Slides`](#slides)
 - [`Social Networks`](#social_networks)
 - [`Status`](#status)
 - [`Strings and Texts`](#strings_and_texts)
@@ -227,6 +228,9 @@ List of some useful free online tools and sites
 ## <a name="shopping_prices_and_stores"></a>**Shopping, Prices & Stores**
 - [**CamelCamelCamel** - (*Prices tracker for an Amazon product*)](https://camelcamelcamel.com/)
 - [**Keepa** - (*International Amazon Prices*)](https://keepa.com/#!)
+
+## <a name="slides"></a>**Slides**
+- [**View PPS Online** - (*Open and view PPS documents online*)](https://products.groupdocs.app/viewer/pps)
 
 ## <a name="social_networks"></a>**Social Networks**
 - [**EmojiTerra** - (*Emojis to copy and paste*)](https://emojiterra.com/)
