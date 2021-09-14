@@ -4,6 +4,7 @@ List of some useful free online tools and sites
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
 - [`APIs`](#apis)
+- [`Audio, Music & Sounds`](#audio)
 - [`Barcodes`](#barcodes)
 - [`Calculators & Converters`](#calculators_and_converters)
 - [`CloudComputing`](#cloud_computing)
@@ -17,7 +18,6 @@ List of some useful free online tools and sites
 - [`Images`](#images)
 - [`JSON`](#json)
 - [`Miscelanea`](#miscelanea)
-- [`Music & Sounds`](#music)
 - [`Network`](#network)
 - [`Photography & Photographers`](#photography_and_photographers)
 - [`Productivity`](#productivity)
@@ -43,6 +43,21 @@ List of some useful free online tools and sites
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
 - [**API Directory** - (*Search the Largest API Directory on the Web*)](https://www.programmableweb.com/category/all/apis)
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
+
+## <a name="music"></a>**Audio, Music and Sounds**
+- [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
+- [**Bandlab** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
+- [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
+- [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
+- [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
+- [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
+- [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
+- [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
+- [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
+- [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
+- [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
+- [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
+- [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 
 ## <a name=""></a>**Barcodes**
 - [**EAN 8** - (*Generates EAN8 Barcode*)](https://barcode.tec-it.com/en/EAN8)
@@ -119,21 +134,6 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
-
-## <a name="music"></a>**Music and Audio Utilities**
-- [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
-- [**Bandlab** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
-- [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
-- [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
-- [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
-- [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
-- [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
-- [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
-- [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
-- [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
-- [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
-- [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
-- [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 
 ## <a name="network"></a>**Network**
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
