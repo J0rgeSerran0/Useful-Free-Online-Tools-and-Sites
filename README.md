@@ -127,6 +127,7 @@ List of some useful free online tools and sites
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
 
 ## <a name="music"></a>**Music**
+- [**Bandlab** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
 - [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
