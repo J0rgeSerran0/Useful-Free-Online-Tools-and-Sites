@@ -107,6 +107,7 @@ List of some useful free online tools and sites
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
+- [**iconApe** - (*500K vector Logo, Icons!*)](https://iconape.com/)
 - [**IconFinder** - (*Big library of free icons (with some payment icons too)*)](https://www.iconfinder.com/)
 - [**Icons8** - (*Free icons, illustrations, photos, music, and design tools*)](https://icons8.com/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
