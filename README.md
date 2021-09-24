@@ -7,7 +7,7 @@ List of some useful free online tools and sites
 - [`Audio, Music & Sounds`](#audio)
 - [`Barcodes`](#barcodes)
 - [`Calculators & Converters`](#calculators_and_converters)
-- [`CloudComputing`](#cloud_computing)
+- [`Cloud Computing`](#cloud_computing)
 - [`Colors`](#colors)
 - [`Cron`](#cron)
 - [`Data`](#data)
