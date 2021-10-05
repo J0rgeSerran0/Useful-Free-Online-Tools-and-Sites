@@ -141,6 +141,7 @@ List of some useful free online tools and sites
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
 - [**IP Number Converter** - (*Converts between IP addresses and numbers supporting both IPv4 and IPv6*)](https://www.appdevtools.com/ip-number-converter)
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
+- [**SSL Server Test** - (*Deep analysis of the configuration of any SSL web server on the public Internet*)](https://www.ssllabs.com/ssltest/analyze.html)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
 
 ## <a name="photography_and_photographers"></a>**Photography & Photographers**
