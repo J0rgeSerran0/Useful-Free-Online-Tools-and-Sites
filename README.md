@@ -268,6 +268,7 @@ List of some useful free online tools and sites
 - [**WorldTimerServer** - (*Current Time in UTC/GMT*)](https://www.worldtimeserver.com/current_time_in_UTC.aspx)
 
 ## <a name="videos"></a>**Videos**
+- [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
 
 ## <a name="weather"></a>**Weather**
