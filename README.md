@@ -19,6 +19,7 @@ List of some useful free online tools and sites
 - [`JSON`](#json)
 - [`Miscelanea`](#miscelanea)
 - [`Network`](#network)
+- [`OS (Operating System)`](#os)
 - [`Photography & Photographers`](#photography_and_photographers)
 - [`Productivity`](#productivity)
 - [`Programmer Utilities`](#programmer_utilities)
@@ -136,6 +137,7 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
+- [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="network"></a>**Network**
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
@@ -143,6 +145,9 @@ List of some useful free online tools and sites
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
 - [**SSL Server Test** - (*Deep analysis of the configuration of any SSL web server on the public Internet*)](https://www.ssllabs.com/ssltest/analyze.html)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
+
+## <a name="os"></a>**OS (Operating System)**
+- [**UUP Dump** - (*Download UUP files from Windows Update servers with ease*)](https://uupdump.net/)
 
 ## <a name="photography_and_photographers"></a>**Photography & Photographers**
 - [**EXIF Viewer** - (*View the EXIF metadata of an image file if exists*)](https://www.appdevtools.com/exif-viewer)
