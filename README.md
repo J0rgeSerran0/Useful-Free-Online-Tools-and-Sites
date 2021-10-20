@@ -17,6 +17,7 @@ List of some useful free online tools and sites
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
 - [`JSON`](#json)
+- [`Knowledge`](#knowledge)
 - [`Miscelanea`](#miscelanea)
 - [`Network`](#network)
 - [`OS (Operating System)`](#os)
@@ -108,9 +109,12 @@ List of some useful free online tools and sites
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
+- [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
+- [**freepik** - (*graphic resources for all*)](https://www.freepik.es/)
 - [**iconApe** - (*500K vector Logo, Icons!*)](https://iconape.com/)
 - [**IconFinder** - (*Big library of free icons (with some payment icons too)*)](https://www.iconfinder.com/)
 - [**Icons8** - (*Free icons, illustrations, photos, music, and design tools*)](https://icons8.com/)
+- [**Noun Project** - (*Icons and Photos for Everything*)](https://thenounproject.com/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
@@ -128,6 +132,10 @@ List of some useful free online tools and sites
 - [**JSON Editor Online** - (*Online editor for JSON files*)](https://jsoneditoronline.org/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
+
+## <a name="knowledge"></a>**Knowledge**
+- [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
+- [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
 
 ## <a name="miscelanea"></a>**Miscelanea**
 - [**Avion Safety Network** - (*Database of aerial accidents since 1930*)](https://aviation-safety.net/)
@@ -188,7 +196,9 @@ List of some useful free online tools and sites
 - [**Hexadecimal to Binary Converter** - (*Hex to binary converter tool*)](https://www.binaryhexconverter.com/hex-to-binary-converter)
 - [**Hexadecimal to Decimal Converter** - (*Hex to decimal converter tool*)](https://www.binaryhexconverter.com/hex-to-decimal-converter)
 - [**Invert Text Case** - (*Invert Text Case Online*)](https://textedit.tools/invertcase)
+- [**Lorem Flickr** - (*Generates Lorem Ipsum photos with Creative Commons license*)](https://loremflickr.com/)
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
+- [**Lorem Picsum** - (*Generates Lorem Ipsum photos*)](https://picsum.photos/)
 - [**Octal to Binary Converter** - (*Octal to binary converter tool*)](https://www.binaryhexconverter.com/octal-to-binary-converter)
 - [**Octal to Decimal Converter** - (*Octal to decimal converter tool*)](https://www.binaryhexconverter.com/octal-to-decimal-converter)
 - [**Password Generator** - (*Generates a password with multiple options*)](https://www.appdevtools.com/password-generator)
