@@ -52,6 +52,7 @@ List of some useful free online tools and sites
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
 - [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
+- [**Free Online Metronome** - (*Online Metronome*)](https://www.8notes.com/metronome/)
 - [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
 - [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
