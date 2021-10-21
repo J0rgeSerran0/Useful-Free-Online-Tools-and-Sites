@@ -57,6 +57,7 @@ List of some useful free online tools and sites
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
 - [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
 - [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
+- [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
