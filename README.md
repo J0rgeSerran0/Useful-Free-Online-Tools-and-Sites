@@ -96,6 +96,7 @@ List of some useful free online tools and sites
 
 ## <a name="data"></a>**Data**
 - [**Data Comparer** - (*Compare your data and find differences between them*)](https://slothman.dev/data-comparer/)
+- [**DeDupeList** - (*Remove duplicate lines from a list*)](https://dedupelist.com/)
 - [**Remove Duplicate** - (*Online tool to remove duplicate lines*)](https://removeduplicateonline.com/)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
