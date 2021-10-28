@@ -72,10 +72,25 @@ List of some useful free online tools and sites
 - [**UPC-E** - (*Generates UPC-E Barcode*)](https://barcode.tec-it.com/en/UPCE)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
+- [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
+- [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
+- [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
+- [**Currency Converter** - (*Convert between Currency units*)](https://convertlive.com/c/convert/currency)
+- [**Data Size Converter** - (*Convert between Data size units*)](https://convertlive.com/c/convert/data-size)
 - [**Easy Calculation** - (*Free Calculators and Converters*)](https://www.easycalculation.com/)
+- [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
+- [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
+- [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
+- [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
+- [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
+- [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
+- [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
+- [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
+- [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
+- [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 
 ## <a name="cloud_computing"></a>**Cloud Computing**
 - [**Azure Services** - (*Useful list of all the Azure Services*)](https://azureservices.io/)
