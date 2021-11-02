@@ -150,6 +150,7 @@ List of some useful free online tools and sites
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
 - [**JSON Editor** - (*Online editor for JSON files*)](https://www.appdevtools.com/json-editor)
 - [**JSON Editor Online** - (*Online editor for JSON files*)](https://jsoneditoronline.org/)
+- [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 
