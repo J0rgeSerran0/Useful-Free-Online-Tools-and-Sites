@@ -171,9 +171,11 @@ List of some useful free online tools and sites
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="network"></a>**Network**
+- [**Fast** - (*Test the speed and performance of your internet connection*)](https://fast.com/es/)
 - [**IP Lookup** - (*Look up for the geolocation of a given IP address. Supports both IPv4 and IPv6*)](https://www.appdevtools.com/ip-lookup)
 - [**IP Number Converter** - (*Converts between IP addresses and numbers supporting both IPv4 and IPv6*)](https://www.appdevtools.com/ip-number-converter)
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
+- [**Speed Test** - (*Test the speed and performance of your internet connection*)](https://www.speedtest.net/)
 - [**SSL Server Test** - (*Deep analysis of the configuration of any SSL web server on the public Internet*)](https://www.ssllabs.com/ssltest/analyze.html)
 - [**What is my IP Address?** - (*Your IP information*)](https://whatismyipaddress.com/)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
