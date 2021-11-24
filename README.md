@@ -135,6 +135,7 @@ List of some useful free online tools and sites
 - [**iconApe** - (*500K vector Logo, Icons!*)](https://iconape.com/)
 - [**IconFinder** - (*Big library of free icons (with some payment icons too)*)](https://www.iconfinder.com/)
 - [**Icons8** - (*Free icons, illustrations, photos, music, and design tools*)](https://icons8.com/)
+- [**Iconshock** - (*Free icons*)](https://www.iconshock.com/freeicons/)
 - [**Noun Project** - (*Icons and Photos for Everything*)](https://thenounproject.com/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
