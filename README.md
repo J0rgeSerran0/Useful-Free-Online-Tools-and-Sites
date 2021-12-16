@@ -3,6 +3,7 @@ List of some useful free online tools and sites
 
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
+- [`Agile`](#agile)
 - [`APIs`](#apis)
 - [`Audio, Music & Sounds`](#audio)
 - [`Barcodes`](#barcodes)
@@ -41,6 +42,9 @@ List of some useful free online tools and sites
 - [`Weather`](#weather)
 - [`Web`](#web)
 - [`Webcams`](#webcams)
+
+## <a name="agile"></a>**Agile**
+- [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
 
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
