@@ -68,7 +68,7 @@ List of some useful free online tools and sites
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
-- [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)![image](https://user-images.githubusercontent.com/6237500/147640598-635481ad-db07-4fc7-a95e-de4f7388fd27.png)
+- [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
 ## <a name=""></a>**Barcodes**
