@@ -143,7 +143,7 @@ List of some useful free online tools and sites
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
 
 ## <a name="ia"></a>**IA**
-- [**Dream** - (**)](https://app.wombo.art/)
+- [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
 - [**Generated Photos** - (*Photos generated completely by IA - [some samples here](https://generated.photos/faces)*)](https://generated.photos/face-generator/new)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
