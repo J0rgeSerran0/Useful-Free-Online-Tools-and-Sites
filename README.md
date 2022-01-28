@@ -144,7 +144,7 @@ List of some useful free online tools and sites
 
 ## <a name="ia"></a>**IA**
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
-- [**Generated Photos** - (*Photos generated completely by IA - [some samples here](https://generated.photos/faces)*)](https://generated.photos/face-generator/new)
+- [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 
