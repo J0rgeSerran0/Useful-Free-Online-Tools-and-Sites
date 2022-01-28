@@ -125,7 +125,6 @@ List of some useful free online tools and sites
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
-- [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
 - [**Visme** - (*Visual brand experiences*)](https://dashboard.visme.co/v2/projects/own)
 
@@ -144,6 +143,7 @@ List of some useful free online tools and sites
 
 ## <a name="ia"></a>**IA**
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
+- [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
