@@ -4,6 +4,7 @@ List of some useful free online tools and sites
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
 - [`Agile`](#agile)
+- [`AI`](#ai)
 - [`APIs`](#apis)
 - [`Audio, Music & Sounds`](#audio)
 - [`Barcodes`](#barcodes)
@@ -16,7 +17,6 @@ List of some useful free online tools and sites
 - [`Email`](#email)
 - [`Fonts`](#fonts) 
 - [`GPS`](#gps) 
-- [`IA`](#ia)
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
 - [`JSON`](#json)
@@ -46,6 +46,14 @@ List of some useful free online tools and sites
 
 ## <a name="agile"></a>**Agile**
 - [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
+
+## <a name="ai"></a>**AI**
+- [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
+- [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
+- [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
+- [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
+- [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
+- [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
@@ -140,13 +148,6 @@ List of some useful free online tools and sites
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
 - [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
-
-## <a name="ia"></a>**IA**
-- [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
-- [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
-- [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
-- [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
-- [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
