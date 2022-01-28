@@ -16,6 +16,7 @@ List of some useful free online tools and sites
 - [`Email`](#email)
 - [`Fonts`](#fonts) 
 - [`GPS`](#gps) 
+- [`IA`](#ia)
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images`](#images)
 - [`JSON`](#json)
@@ -140,6 +141,12 @@ List of some useful free online tools and sites
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
 - [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
+
+## <a name="ia"></a>**IA**
+- [**Dream** - (**)](https://app.wombo.art/)
+- [**Generated Photos** - (*Photos generated completely by IA - [some samples here](https://generated.photos/faces)*)](https://generated.photos/face-generator/new)
+- [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
+- [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
