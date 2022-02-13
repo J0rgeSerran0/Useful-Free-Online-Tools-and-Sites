@@ -117,6 +117,7 @@ List of some useful free online tools and sites
 - [**CNCF Cloud Native Interactive Serverless** - (*Serverless*)](https://landscape.cncf.io/serverless)
 
 ## <a name="colors"></a>**Colors**
+- [**Color Hunt** - (*Color Palettes for Designers and Artirst*)](https://colorhunt.co/)
 - [**Color Picker** - (*Pick a color from the palette and get the color code in HEX, RGB, and HSL*)](https://www.appdevtools.com/color-picker)
 - [**Colordot** - (*A color picker for humans*)](https://color.hailpixel.com/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
