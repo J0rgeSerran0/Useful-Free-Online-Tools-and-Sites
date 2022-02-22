@@ -305,6 +305,7 @@ List of some useful free online tools and sites
 ## <a name="social_networks"></a>**Social Networks**
 - [**EmojiTerra** - (*Emojis to copy and paste*)](https://emojiterra.com/)
 - [**Fancy Text Decorator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://fancytextdecorator.com/)
+- [**Free YouTube Downloader Online** - (*Download the YouTube content easily*)](https://myconverters.com/en/youtube-downloader/)
 - [**Full Emoji List** - (*Emoji List*)](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [**Giphy** - (*GIFs & Stickers*)](https://giphy.com/)
 - [**Meme Generator** - (*Meme Generator*)](http://memegenerator.net/)
@@ -313,6 +314,7 @@ List of some useful free online tools and sites
 - [**Twitter Video Downloader** - (*Download Twitter Videos to Mp4 & Mp3*)](https://www.savetweetvid.com/)
 - [**Twitter Downloader** - (*Download Twitter Videos and Gifs*)](https://downloaders.hashtagsforlikes.co/twitter-downloader)
 - [**YouTube Downloader** - (*Download Youtube to mp4 & mp3*)](https://youtubedownloader.sh/)
+- [**YouTube Downloader** - (*Convert and download Youtube videos in MP3, MP4, 3GP for free*)](https://yt1s.com/en170)
 
 ## <a name="status"></a>**Status**
 - [**AWS Status** - (*Amazon Web Service Status*)](https://status.aws.amazon.com/)
