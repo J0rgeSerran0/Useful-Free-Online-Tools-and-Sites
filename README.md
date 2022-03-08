@@ -171,6 +171,7 @@ List of some useful free online tools and sites
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
+- [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 
 ## <a name="json"></a>**JSON**
