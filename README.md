@@ -22,6 +22,7 @@ List of some useful free online tools and sites
 - [`JSON`](#json)
 - [`Knowledge`](#knowledge)
 - [`Miscelanea`](#miscelanea)
+- [`Musical Production`](#musical_production)
 - [`Network`](#network)
 - [`OS (Operating System)`](#os)
 - [`Photography & Photographers`](#photography_and_photographers)
@@ -197,6 +198,13 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
+
+## <a name="musical_production"></a>**Musical Production**
+- [**Audiomack** - (*Is aFree limitless music sharing and discovery platform for artists, tastemakers, labels, and fans*)](https://audiomack.com/)
+- [**Bandcamp** - (*Discover amazing new music and directly support the artists who make it*)](https://bandcamp.com/)
+- [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
+- [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
+- [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
 
 ## <a name="network"></a>**Network**
 - [**Fast** - (*Test the speed and performance of your internet connection*)](https://fast.com/es/)
