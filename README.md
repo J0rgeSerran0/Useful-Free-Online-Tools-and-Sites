@@ -15,6 +15,7 @@ List of some useful free online tools and sites
 - [`Data`](#data)
 - [`Diagrams & Design`](#diagrams_and_design)
 - [`Email`](#email)
+- [`Excel`](#excel)
 - [`Fonts`](#fonts) 
 - [`GPS`](#gps) 
 - [`Icons & Logos`](#icons_and_logos)
@@ -145,6 +146,9 @@ List of some useful free online tools and sites
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
 - [**Guerrilla Mail** - (*Temporary Email*)](https://www.guerrillamail.com/)
 - [**TempMail** - (*Create a temporary email address*)](https://temp-mail.org/en)
+
+## <a name="excel"></a>**Excel**
+- [**Excel Password Recovery Online** - (*Recovers a document open password to all versions of encrypted MS Office Excel files (.xls and .xlsx)*)](https://www.lostmypass.com/file-types/ms-excel/)
 
 ## <a name="fonts"></a>**Fonts**
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
