@@ -66,6 +66,7 @@ List of some useful free online tools and sites
 ## <a name="audio"></a>**Audio, Music and Sounds**
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
 - [**Bandlab** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
+- [**BBC Sound Effects** - (*Search BBC Sound Effects - Buy sound button to use a sound commercially*)](https://sound-effects.bbcrewind.co.uk/)
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
 - [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
@@ -78,6 +79,7 @@ List of some useful free online tools and sites
 - [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
 - [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
+- [**Pizabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
