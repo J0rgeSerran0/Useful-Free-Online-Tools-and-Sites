@@ -72,6 +72,7 @@ List of some useful free online tools and sites
 - [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
 - [**Free Online Metronome** - (*Online Metronome*)](https://www.8notes.com/metronome/)
 - [**Free Sound** - (*Collaborative database of Creative Commons Licensed sounds*)](https://freesound.org/)
+- [**LALALAI** - (*Extract vocal, accompaniment and various instruments from any audio*)](https://www.lalal.ai/)
 - [**Loudness Penalty** - (*Find out if your music will be turned down by YouTube, Spotify, TIDAL, Apple Sound Check and more*)](https://www.loudnesspenalty.com/)
 - [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
 - [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
@@ -84,6 +85,7 @@ List of some useful free online tools and sites
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
+- [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
