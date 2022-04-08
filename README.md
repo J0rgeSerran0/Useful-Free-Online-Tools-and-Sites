@@ -65,7 +65,8 @@ List of some useful free online tools and sites
 
 ## <a name="audio"></a>**Audio, Music and Sounds**
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
-- [**Bandlab** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
+- [**BandLab Mix Editor** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
+- [**BandLab Song Starter** - (*Bandlab Song Starter for musicians inspiration*)](https://www.bandlab.com/songstarter)
 - [**BBC Sound Effects** - (*Search BBC Sound Effects - Buy sound button to use a sound commercially*)](https://sound-effects.bbcrewind.co.uk/)
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
@@ -84,6 +85,7 @@ List of some useful free online tools and sites
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
+- [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
