@@ -85,6 +85,7 @@ List of some useful free online tools and sites
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
+- [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
