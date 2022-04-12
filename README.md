@@ -314,6 +314,7 @@ List of some useful free online tools and sites
 - [**Scholar Google** - (*Search academic information*)](https://scholar.google.com/)
 
 ## <a name="search"></a>**Security**
+- [**SHA 256 Algorithm** - (*Text, Bin, Hex - Sha256 Algorithm Explained*)](https://sha256algorithm.com/)
 - [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
 
 ## <a name="sharing"></a>**Sharing**
