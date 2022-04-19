@@ -14,6 +14,7 @@ List of some useful free online tools and sites
 - [`Cron`](#cron)
 - [`Data`](#data)
 - [`Diagrams & Design`](#diagrams_and_design)
+- [`Documents`](#documents)
 - [`Email`](#email)
 - [`Excel`](#excel)
 - [`Fonts`](#fonts) 
@@ -148,6 +149,9 @@ List of some useful free online tools and sites
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
 - [**Visme** - (*Visual brand experiences*)](https://dashboard.visme.co/v2/projects/own)
+
+## <a name="documents"></a>**Documents**
+- [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 
 ## <a name="email"></a>**Email**
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
