@@ -151,6 +151,7 @@ List of some useful free online tools and sites
 - [**Visme** - (*Visual brand experiences*)](https://dashboard.visme.co/v2/projects/own)
 
 ## <a name="documents"></a>**Documents**
+- [**Adobe Compress PDF** - (*Drag and drop a PDF to reduce its file size fast*)](https://www.adobe.com/in/acrobat/online/compress-pdf.html)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 
 ## <a name="email"></a>**Email**
