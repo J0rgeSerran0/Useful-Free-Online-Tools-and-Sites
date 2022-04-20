@@ -152,7 +152,9 @@ List of some useful free online tools and sites
 
 ## <a name="documents"></a>**Documents**
 - [**Adobe Compress PDF** - (*Drag and drop a PDF to reduce its file size fast*)](https://www.adobe.com/in/acrobat/online/compress-pdf.html)
+- [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
+- [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 
 ## <a name="email"></a>**Email**
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
