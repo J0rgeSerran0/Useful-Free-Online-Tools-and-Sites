@@ -20,7 +20,7 @@ List of some useful free online tools and sites
 - [`Fonts`](#fonts) 
 - [`GPS`](#gps) 
 - [`Icons & Logos`](#icons_and_logos)
-- [`Images`](#images)
+- [`Images and Graphics`](#images_and_graphics)
 - [`JSON`](#json)
 - [`Knowledge`](#knowledge)
 - [`Miscelanea`](#miscelanea)
@@ -186,7 +186,7 @@ List of some useful free online tools and sites
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
-## <a name="images"></a>**Images**
+## <a name="images_and_graphics"></a>**Images and Graphics**
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
@@ -194,6 +194,7 @@ List of some useful free online tools and sites
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
+- [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 
 ## <a name="json"></a>**JSON**
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
