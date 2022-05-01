@@ -226,6 +226,7 @@ List of some useful free online tools and sites
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
 - [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
+- [**Vocal Remover** - (*Separate voice from music out of a song free with powerful AI algorithms*)](https://vocalremover.org/)
 
 ## <a name="network"></a>**Network**
 - [**Fast** - (*Test the speed and performance of your internet connection*)](https://fast.com/es/)
