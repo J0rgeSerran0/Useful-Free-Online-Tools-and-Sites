@@ -65,6 +65,7 @@ List of some useful free online tools and sites
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
 
 ## <a name="audio"></a>**Audio, Music and Sounds**
+- [**Audio Converter** - (*Convert audio files to MP3, WAV, OGG*)](https://vocalremover.org/converter)
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
 - [**BandLab Mix Editor** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
 - [**BandLab Song Starter** - (*Bandlab Song Starter for musicians inspiration*)](https://www.bandlab.com/songstarter)
@@ -76,6 +77,7 @@ List of some useful free online tools and sites
 - [**Free Sound** - (*Collaborative database of Creative Commons Licensed sounds*)](https://freesound.org/)
 - [**LALALAI** - (*Extract vocal, accompaniment and various instruments from any audio*)](https://www.lalal.ai/)
 - [**Loudness Penalty** - (*Find out if your music will be turned down by YouTube, Spotify, TIDAL, Apple Sound Check and more*)](https://www.loudnesspenalty.com/)
+- [**Microphone Test** - (*Check it works properly and find out useful details about it*)](https://vocalremover.org/mic-test)
 - [**MIDI CC List for Continuous Controllers** - (*Use this list to set up your MIDI controller and manipulate your MIDI data*)](https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/)
 - [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
@@ -221,12 +223,18 @@ List of some useful free online tools and sites
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="musical_production"></a>**Musical Production**
+- [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
+- [**Audio Joiner** - (*Join multiple audio tracks into one*)](https://vocalremover.org/joiner)
 - [**Audiomack** - (*Is aFree limitless music sharing and discovery platform for artists, tastemakers, labels, and fans*)](https://audiomack.com/)
 - [**Bandcamp** - (*Discover amazing new music and directly support the artists who make it*)](https://bandcamp.com/)
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
+- [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
+- [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
 - [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
+- [**Tempo Changer** - (*Speed up or slow down audio playback without affecting the pitch*)](https://vocalremover.org/tempo)
 - [**Vocal Remover** - (*Separate voice from music out of a song free with powerful AI algorithms*)](https://vocalremover.org/)
+- [**Voice Recorder** - (*Record your voice and add Reverb and EQ before download it*)](https://vocalremover.org/online-voice-recorder)
 
 ## <a name="network"></a>**Network**
 - [**Fast** - (*Test the speed and performance of your internet connection*)](https://fast.com/es/)
