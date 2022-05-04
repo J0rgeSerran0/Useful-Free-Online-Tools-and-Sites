@@ -353,6 +353,7 @@ List of some useful free online tools and sites
 - [**Free YouTube Downloader Online** - (*Download the YouTube content easily*)](https://myconverters.com/en/youtube-downloader/)
 - [**Full Emoji List** - (*Emoji List*)](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [**Giphy** - (*GIFs & Stickers*)](https://giphy.com/)
+- [**Instagram Downloader** - (*Download Photos, Videos, IGTV & carousel*)](https://igram.io/)
 - [**Meme Generator** - (*Meme Generator*)](http://memegenerator.net/)
 - [**TweetDeck** - (*Twitter Web Client*)](https://tweetdeck.twitter.com/)
 - [**Twitter Symbols** - (*Add symbols easily to your Twitter messages*)](https://es.piliapp.com/twitter-symbols/)
