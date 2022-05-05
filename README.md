@@ -131,9 +131,12 @@ List of some useful free online tools and sites
 - [**CNCF Cloud Native Interactive Serverless** - (*Serverless*)](https://landscape.cncf.io/serverless)
 
 ## <a name="colors"></a>**Colors**
-- [**Color Hunt** - (*Color Palettes for Designers and Artirst*)](https://colorhunt.co/)
+- [**Color Hunt** - (*Color Palettes for Designers and Artist*)](https://colorhunt.co/)
+- [**ColorKit Color Palettes** - (*Color Palette Inspiration*)](https://colorkit.co/palettes/)
+- [**Color Palette from Image** - (*Generate a Color Palette from an Image*)](https://colorkit.co/color-palette-from-image/)
 - [**Color Picker** - (*Pick a color from the palette and get the color code in HEX, RGB, and HSL*)](https://www.appdevtools.com/color-picker)
 - [**Colordot** - (*A color picker for humans*)](https://color.hailpixel.com/)
+- [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 
 ## <a name="cron"></a>**Cron**
@@ -276,6 +279,7 @@ List of some useful free online tools and sites
 - [**Code Beautify** - (*Converts between different formats, supporting a wide variety*)](https://codebeautify.org/)
 - [**Code Syntax** - (*Converts your code snippets into pretty-printed HTML format*)](http://hilite.me/)
 - [**Code Syntax Highlighting** - (*Converts your code into HTML format supporting a lot of programming languages*)](https://tohtml.com/)
+- [**Code To Image** - (*Create screenshots of code or text to share on social media*)](https://codetoimage.com/)
 - [**Data Generator** - (*Create any data sets you need [JSON, XML, CSV, YAML, SQL]*)](https://slothman.dev/data-generator/)
 - [**Decimal to Binary Converter** - (*Decimal to binary converter tool*)](https://www.binaryhexconverter.com/decimal-to-binary-converter)
 - [**Decimal to Hexadecimal Converter** - (*Decimal to hex converter tool*)](https://www.binaryhexconverter.com/decimal-to-hex-converter)
@@ -304,12 +308,12 @@ List of some useful free online tools and sites
 - [**Telerik Code Converter** - (*Converts between from/to C# & VB.NET*)](https://converter.telerik.com/)
 - [**Text Capitalize** - (*Text Capitalizer Online*)](https://textedit.tools/capitalize)
 - [**Text Editor** - (*Write text in this online editor with your prefer syntax*)](https://www.appdevtools.com/text-editor)
-- [**Text to camelCase** - (*Text to camelCase Online Conterter*)](https://textedit.tools/camelcase)
-- [**Text to kebab-case** - (*Text to kebab-case (dash-case) Online Conterter*)](https://textedit.tools/kebabcase)
-- [**Text to Lower Case** - (*Text to Lower Case Online Conterter*)](https://textedit.tools/lowercase)
-- [**Text to snake_case** - (*Text to Snake Case Online Conterter*)](https://textedit.tools/snakecase)
-- [**Text to Tittle Case** - (*Text to Title Case Online Conterter*)](https://textedit.tools/titlecase)
-- [**Text to Upper case** - (*Text to Uppercase Online Conterter*)](https://textedit.tools/uppercase)
+- [**Text to camelCase** - (*Text to camelCase Online Converter*)](https://textedit.tools/camelcase)
+- [**Text to kebab-case** - (*Text to kebab-case (dash-case) Online Converter*)](https://textedit.tools/kebabcase)
+- [**Text to Lower Case** - (*Text to Lower Case Online Converter*)](https://textedit.tools/lowercase)
+- [**Text to snake_case** - (*Text to Snake Case Online Converter*)](https://textedit.tools/snakecase)
+- [**Text to Title Case** - (*Text to Title Case Online Converter*)](https://textedit.tools/titlecase)
+- [**Text to Upper case** - (*Text to Uppercase Online Converter*)](https://textedit.tools/uppercase)
 - [**Text to Sentence case** - (*Sentence Case Converter Online*)](https://titlecapitalize.com/sentence-case/)
 - [**UNIX Timestamp Converter** - (*Converts between Epoch/UNIX timestamps and datetimes*)](https://www.appdevtools.com/unix-timestamp-converter)
 - [**URL Parser & Query String Splitter** - (*Pase a URL into smaller components*)](https://www.appdevtools.com/url-parser-query-string-splitter)
@@ -391,6 +395,7 @@ List of some useful free online tools and sites
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
 
 ## <a name="weather"></a>**Weather**
+- [**SunriseSunset.io** - (*The tool to find sunrise and sunset times in your city*)](https://sunrisesunset.io/)
 - [**Windy** - (*Weather forecast visualization [for bikers, drones, fishermen, photographers,...]*)](https://www.windy.com/)
 
 ## <a name="web"></a>**Web**
@@ -400,9 +405,3 @@ List of some useful free online tools and sites
 
 ## <a name="webcams"></a>**Webcams**
 - [**Explore Livecams** - (*Livecams of the world*)](https://explore.org/livecams)
-
----
-
-# Contributors
-Thanks to:
-- [Andy Feliciotti](https://github.com/someguy9/)
