@@ -400,3 +400,9 @@ List of some useful free online tools and sites
 
 ## <a name="webcams"></a>**Webcams**
 - [**Explore Livecams** - (*Livecams of the world*)](https://explore.org/livecams)
+
+---
+
+# Contributors
+Thanks to:
+- [Andy Feliciotti](https://github.com/someguy9/)
