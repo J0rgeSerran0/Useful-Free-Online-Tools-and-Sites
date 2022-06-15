@@ -3,6 +3,7 @@ List of some useful free online tools and sites
 
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
+- [`3D, VR and IRL`](#3d_vr_irl)
 - [`Agile`](#agile)
 - [`AI`](#ai)
 - [`APIs`](#apis)
@@ -46,6 +47,9 @@ List of some useful free online tools and sites
 - [`Weather`](#weather)
 - [`Web`](#web)
 - [`Webcams`](#webcams)
+
+## <a name="3d_vr_irl"></a>**3D, VR and IRL**
+- [**ViewSTL** - (*View 3D STL files directly in your browser*)](https://www.viewstl.com/)
 
 ## <a name="agile"></a>**Agile**
 - [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
