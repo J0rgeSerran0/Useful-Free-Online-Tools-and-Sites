@@ -332,7 +332,7 @@ List of some useful free online tools and sites
 - [**dpaste.org** - (*Share your snippets code in different programming languages*)](https://dpaste.org/)
 - [**HexEd.It** - (*Hexadecimal Editor*)](https://hexed.it/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
-- [MDB - Snippets for Bootstrap](https://mdbootstrap.com/snippets/)
+- [**MDB** - (*Snippets for Bootstrap*)](https://mdbootstrap.com/snippets/)
 - [**replit** - (*Online Editor & Compiler for Python, Node.js, C, Java, C++, Ruby, Go, Rust, C#, F#, R, Elixir, Dart, and more*)](https://replit.com/languages)
 - [**SharpLab (C#)** - (*Online Editor & Compiler for C#*)](https://sharplab.io/)
 - [**The Go Playground (Go)** - (*Online Editor & Compiler for Go*)](https://play.golang.org/)
