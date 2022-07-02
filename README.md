@@ -388,6 +388,7 @@ List of some useful free online tools and sites
 - [**Xbox Status** - (*Microsoft Xbox Status - En-us*)](https://support.xbox.com/en-US/xbox-live-status)
 
 ## <a name="strings_and_texts"></a>**Strings and Texts**
+- [**Characters and Symbols** - (*Standard ASCII set, HTML Entity names, ISO 10646, ISO 8879, ISO 8859-1 Latin alphabet No. 1*)](https://ascii.cl/htmlcodes.htm)
 - [**Random text generator** - (*Create dummy text for all your layout needs*)](https://slothman.dev/text-generator/)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 
