@@ -328,7 +328,7 @@ List of some useful free online tools and sites
 ## <a name="programming_languages"></a>**Programming Languages**
 - [**.NET Fiddle (C#, VB.NET and F#)** - (*Online Compiler to run and share your code online*)](https://dotnetfiddle.net/)
 - [**CodePen** - (*Social development environment for front-end designers and developers*)](https://codepen.io/pen/)
-- [**Dart Pad** - (*Free, open-source online editor to help developers learn about Dart and Flutter*)](https://dartpad.dartlang.org/)
+- [**DartPad** - (*Free, open-source online editor to help developers learn about Dart and Flutter*)](https://dartpad.dartlang.org/)
 - [**dpaste.org** - (*Share your snippets code in different programming languages*)](https://dpaste.org/)
 - [**HexEd.It** - (*Hexadecimal Editor*)](https://hexed.it/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
