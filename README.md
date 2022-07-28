@@ -50,6 +50,7 @@ List of some useful free online tools and sites
 - [`Webcams`](#webcams)
 
 ## <a name="3d_vr_irl"></a>**3D, VR and IRL**
+- [**Vectary** - (*Free online 3D design*)](https://app.vectary.com/)
 - [**ViewSTL** - (*View 3D STL files directly in your browser*)](https://www.viewstl.com/)
 
 ## <a name="agile"></a>**Agile**
