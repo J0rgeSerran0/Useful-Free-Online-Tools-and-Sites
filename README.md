@@ -202,6 +202,7 @@ List of some useful free online tools and sites
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
+- [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
@@ -405,6 +406,7 @@ List of some useful free online tools and sites
 - [**GitHub Contributions in 3D, VR and IRL** - (*User contributions in 3D. Change the username and year with yours*)](https://skyline.github.com/J0rgeSerran0/2022)
 
 ## <a name="videos"></a>**Videos**
+- [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
