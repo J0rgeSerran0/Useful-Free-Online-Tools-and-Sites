@@ -9,6 +9,7 @@ List of some useful free online tools and sites
 - [`APIs`](#apis)
 - [`Audio, Music & Sounds`](#audio)
 - [`Barcodes`](#barcodes)
+- [`Bitcoins`](#bitcoins)
 - [`Calculators & Converters`](#calculators_and_converters)
 - [`Cloud Computing`](#cloud_computing)
 - [`Colors`](#colors)
@@ -101,12 +102,15 @@ List of some useful free online tools and sites
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
-## <a name=""></a>**Barcodes**
+## <a name="barcodes"></a>**Barcodes**
 - [**EAN 8** - (*Generates EAN8 Barcode*)](https://barcode.tec-it.com/en/EAN8)
 - [**EAN 13** - (*Generates EAN13 Barcode*)](https://barcode.tec-it.com/en/EAN13)
 - [**EAN 14** - (*Generates EAN14 Barcode*)](https://barcode.tec-it.com/en/EAN14)
 - [**UPC-A** - (*Generates UPC-A Barcode*)](https://barcode.tec-it.com/en/UPCA)
 - [**UPC-E** - (*Generates UPC-E Barcode*)](https://barcode.tec-it.com/en/UPCE)
+
+## <a name="bitcoins"></a>**Bitcoins**
+- [**Mastering Bitcoins Book** - (*Mastering Bitcoin is a book for developers*)](https://github.com/bitcoinbook/bitcoinbook)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
 - [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
