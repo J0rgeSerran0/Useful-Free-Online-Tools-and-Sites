@@ -362,6 +362,7 @@ List of some useful free online tools and sites
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
+- [**MyAirBridge** - (*Allows the use of end-to-end encryption with a secure data transmission*)](https://www.myairbridge.com/en/#!/)
 - [**WeTransfer** - (*Transfer files and share them with other users*)](https://wetransfer.com/)
 
 ## <a name="shopping_prices_and_stores"></a>**Shopping, Prices & Stores**
