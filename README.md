@@ -211,6 +211,7 @@ List of some useful free online tools and sites
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
+- [**Remove Background** - (*Remove the background of an image*)](https://www.remove.bg/es)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 
 ## <a name="json"></a>**JSON**
