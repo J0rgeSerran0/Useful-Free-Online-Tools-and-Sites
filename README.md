@@ -70,6 +70,7 @@ List of some useful free online tools and sites
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
 - [**API Directory** - (*Search the Largest API Directory on the Web*)](https://www.programmableweb.com/category/all/apis)
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
+- [**REQBIN** - (*Online REST & SOAP API Testing Tool*)](https://reqbin.com/)
 
 ## <a name="audio"></a>**Audio, Music and Sounds**
 - [**Audio Converter** - (*Convert audio files to MP3, WAV, OGG*)](https://vocalremover.org/converter)
