@@ -204,6 +204,7 @@ List of some useful free online tools and sites
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
+- [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
@@ -213,6 +214,7 @@ List of some useful free online tools and sites
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 - [**Remove Background** - (*Remove the background of an image*)](https://www.remove.bg/es)
+- [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 
 ## <a name="json"></a>**JSON**
