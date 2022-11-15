@@ -204,10 +204,12 @@ List of some useful free online tools and sites
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
+- [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
+- [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
@@ -287,7 +289,6 @@ List of some useful free online tools and sites
 - [**Ascii to Decimal Converter** - (*Ascii text to decimal converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-decimal-converter)
 - [**Ascii to Hexadecimal Converter** - (*Ascii text to hexadecimal converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-hex-converter)
 - [**Base64 Encoder & Decorder** - (*Converts text to Base64 or decode Base64 to text. Supports UTF-8*)](https://www.appdevtools.com/base64-encoder-decoder)
-- [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Binary to Ascii Text Converter** - (*Binary to ascii text converter tool*)](https://www.binaryhexconverter.com/binary-to-ascii-text-converter)
 - [**Binary to Decimal Converter** - (*Binary to decimal converter tool*)](https://www.binaryhexconverter.com/binary-to-decimal-converter)
 - [**Binary to Hexadecimal Converter** - (*Binary to hex conversion tool*)](https://www.binaryhexconverter.com/binary-to-hex-converter)
