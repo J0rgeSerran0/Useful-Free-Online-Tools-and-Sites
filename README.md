@@ -420,6 +420,7 @@ List of some useful free online tools and sites
 
 ## <a name="videos"></a>**Videos**
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
+- [**Extract Audio From Video** - (*Extract and download the audio from a video, or remove the audio from a video*)](https://www.onlineconverter.com/extract-audio-from-video)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
