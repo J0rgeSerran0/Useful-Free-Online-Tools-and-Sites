@@ -24,6 +24,7 @@ List of some useful free online tools and sites
 - [`Icons & Logos`](#icons_and_logos)
 - [`Images and Graphics`](#images_and_graphics)
 - [`JSON`](#json)
+- [`Jobs`](#jobs)
 - [`Knowledge`](#knowledge)
 - [`Miscelanea`](#miscelanea)
 - [`Musical Production`](#musical_production)
@@ -234,6 +235,9 @@ List of some useful free online tools and sites
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 
+## <a name="jobs"></a>**Jobs**
+- [**arc** - (*Radically different remote job search where companies apply to you*)](https://arc.dev/)
+
 ## <a name="knowledge"></a>**Knowledge**
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
 - [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
@@ -323,6 +327,9 @@ List of some useful free online tools and sites
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
 - [**Lorem Picsum** - (*Generates Lorem Ipsum photos*)](https://picsum.photos/)
 - [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
+- [**MockApi** - (*The easiest way to mock REST APIs!*)](https://mockapi.io/)
+- [**Music for Programming** - (*Music to hear when we are programming*)](https://musicforprogramming.net/latest/)
+- [**ngrok** - (*Programmable network edge that adds connectivity, security, and observability to your apps with no code changes*)](https://ngrok.com/)
 - [**Octal to Binary Converter** - (*Octal to binary converter tool*)](https://www.binaryhexconverter.com/octal-to-binary-converter)
 - [**Octal to Decimal Converter** - (*Octal to decimal converter tool*)](https://www.binaryhexconverter.com/octal-to-decimal-converter)
 - [**Password Generator** - (*Generates a password with multiple options*)](https://www.appdevtools.com/password-generator)
