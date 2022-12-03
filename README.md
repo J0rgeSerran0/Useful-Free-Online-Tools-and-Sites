@@ -362,6 +362,7 @@ List of some useful free online tools and sites
 - [**HexEd.It** - (*Hexadecimal Editor*)](https://hexed.it/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 - [**MDB** - (*Snippets for Bootstrap*)](https://mdbootstrap.com/snippets/)
+- [**Online C# Compiler** - (*Online compiler for C#, but you will find other programming languages*)](https://www.onlinegdb.com/online_csharp_compiler)
 - [**replit** - (*Online Editor & Compiler for Python, Node.js, C, Java, C++, Ruby, Go, Rust, C#, F#, R, Elixir, Dart, and more*)](https://replit.com/languages)
 - [**SharpLab (C#)** - (*Online Editor & Compiler for C#*)](https://sharplab.io/)
 - [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
