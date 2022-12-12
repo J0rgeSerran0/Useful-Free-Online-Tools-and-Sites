@@ -61,6 +61,7 @@ List of some useful free online tools and sites
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
+- [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
