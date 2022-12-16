@@ -449,6 +449,7 @@ List of some useful free online tools and sites
 
 ## <a name="web"></a>**Web**
 - [**Cached View** - (*The Google Cache Browser for any page on Internet*)](http://cachedview.com/)
+- [**Cached Views** - (*Cached view of any page on Internet through multiple cached sources*)](https://cachedviews.com/)
 - [**Backlink Discovery Tool** - (*Analyze the backlinks behind your competitors’ rankings*)](https://app.neilpatel.com/en/seo_analyzer/backlinks)
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
