@@ -412,6 +412,7 @@ List of some useful free online tools and sites
 - [**Vidiget YouTube Downloader** - (*Download Youtube videos*)](https://vidiget.com/youtube_downloader)
 - [**YouTube Downloader** - (*Download Youtube to mp4 & mp3*)](https://youtubedownloader.sh/)
 - [**YouTube Downloader** - (*Convert and download Youtube videos in MP3, MP4, 3GP for free*)](https://yt1s.com/en170)
+- <img src="assets/images/windows.svg" width="20" height="20"> Windows [**YoutubeDownloader** - (*Tyrrrz - Releases*)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
 
 ## <a name="status"></a>**Status**
 - [**AWS Status** - (*Amazon Web Service Status*)](https://status.aws.amazon.com/)
