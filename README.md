@@ -429,6 +429,7 @@ List of some useful free online tools and sites
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 
 ## <a name="technology"></a>**Technology**
+- [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
 - [**The Google Cemetery** - (*List of dead Google products/services*)](https://gcemetery.co/)
 
 ## <a name="time"></a>**Time**
