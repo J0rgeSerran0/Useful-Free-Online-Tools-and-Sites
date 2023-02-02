@@ -256,6 +256,7 @@ List of some useful free online tools and sites
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="musical_production"></a>**Musical Production**
+- [**Adobe Enhance Speech** - (*Enhance voice recordings for free*)](https://podcast.adobe.com/enhance)
 - [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
 - [**Audio Joiner** - (*Join multiple audio tracks into one*)](https://vocalremover.org/joiner)
 - [**Audiomack** - (*Is aFree limitless music sharing and discovery platform for artists, tastemakers, labels, and fans*)](https://audiomack.com/)
