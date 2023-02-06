@@ -63,6 +63,7 @@ List of some useful free online tools and sites
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
+- [**Future Tools** - (*Find the exact AI Tool for your needs*)](https://www.futuretools.io/)
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
