@@ -60,6 +60,7 @@ List of some useful free online tools and sites
 
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
+- [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
