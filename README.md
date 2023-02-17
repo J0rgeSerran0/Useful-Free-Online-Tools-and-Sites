@@ -8,6 +8,7 @@ List of some useful free online tools and sites
 - [`AI`](#ai)
 - [`APIs`](#apis)
 - [`Audio, Music & Sounds`](#audio)
+- [`Bank`](#bank)
 - [`Barcodes`](#barcodes)
 - [`Bitcoins`](#bitcoins)
 - [`Calculators & Converters`](#calculators_and_converters)
@@ -109,6 +110,9 @@ List of some useful free online tools and sites
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
+
+## <a name="bank"></a>**Bank**
+- [**Generate IBANs** - (*Random Iban Generator*)](http://www.randomiban.com/?country=Netherlands)
 
 ## <a name="barcodes"></a>**Barcodes**
 - [**EAN 8** - (*Generates EAN8 Barcode*)](https://barcode.tec-it.com/en/EAN8)
