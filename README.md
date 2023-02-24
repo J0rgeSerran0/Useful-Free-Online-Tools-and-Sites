@@ -62,15 +62,19 @@ List of some useful free online tools and sites
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
+- [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
+- [**Free TTS** - (*Text to Speech Mp3 Free Online*)](https://freetts.com/)
 - [**Future Tools** - (*Find the exact AI Tool for your needs*)](https://www.futuretools.io/)
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
+- [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
+- [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
@@ -108,7 +112,6 @@ List of some useful free online tools and sites
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
-- [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
 ## <a name="banks"></a>**Banks**
