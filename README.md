@@ -68,6 +68,7 @@ List of some useful free online tools and sites
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
+- [**Dall-E 2** - (*Create original, realistic images and art from a text description*)](https://openai.com/product/dall-e-2)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
 - [**Free TTS** - (*Text to Speech Mp3 Free Online*)](https://freetts.com/)
 - [**Future Tools** - (*Find the exact AI Tool for your needs*)](https://www.futuretools.io/)
