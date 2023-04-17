@@ -178,6 +178,7 @@ List of some useful free online tools and sites
 - [**Colors CMYK** - (*CMYK Calculator*)](https://www.w3docs.com/tools/color-cmyk)
 - [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
+- [**HTML Colors Picker** - (*HTML Color Picker*)](https://www.w3schools.com/colors/colors_picker.asp)
 
 ## <a name="cron"></a>**Cron**
 - [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
