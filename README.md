@@ -61,6 +61,7 @@ List of some useful free online tools and sites
 
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
+- [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
@@ -71,7 +72,9 @@ List of some useful free online tools and sites
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
 - [**Generated Photos** - (*Photos generated completely by IA*)](https://generated.photos/face-generator/new) . [some samples here](https://generated.photos/faces)
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
+- [**Google AI - Magenta Studio** - (*Collection of music plugins built on Magenta’s open source tools and models*)](https://magenta.tensorflow.org/studio/)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
+- [**MuseNet** - (*Deep neural network that can generate 4-minute musical compositions with 10 different instruments*)](https://openai.com/research/musenet)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
@@ -279,6 +282,7 @@ List of some useful free online tools and sites
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
+- [**Los Angeles Music Composer** - (*Local windowed attention multi-instrumental music transformer for supervised music generation*)](https://github.com/asigalov61/Los-Angeles-Music-Composer)
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
 - [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
