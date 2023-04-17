@@ -76,6 +76,7 @@ List of some useful free online tools and sites
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AI - Magenta Studio** - (*Collection of music plugins built on Magenta’s open source tools and models*)](https://magenta.tensorflow.org/studio/)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
+- [**Mix Check Studio** - (*Uses cutting-edge AI technology to analyse your mixes and masters*)](https://mixcheck.studio/)
 - [**MuseNet** - (*Deep neural network that can generate 4-minute musical compositions with 10 different instruments*)](https://openai.com/research/musenet)
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
