@@ -22,6 +22,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Excel-blue?style=for-the-badge)](#excel)
 [![](https://img.shields.io/badge/Fonts-blue?style=for-the-badge)](#fonts)
 [![](https://img.shields.io/badge/GPS-blue?style=for-the-badge)](#gps)
+[![](https://img.shields.io/badge/HTML-blue?style=for-the-badge)](#html)
 [![](https://img.shields.io/badge/Icons%20&%20Logos-blue?style=for-the-badge)](#icons_and_logos)
 [![](https://img.shields.io/badge/Images%20and%20Graphics-blue?style=for-the-badge)](#images_and_graphics)
 [![](https://img.shields.io/badge/JSON-blue?style=for-the-badge)](#json)
@@ -217,10 +218,13 @@ List of some useful free online tools and sites
 ## <a name="fonts"></a>**Fonts**
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 
-## <a name="fonts"></a>**GPS**
+## <a name="gps"></a>**GPS**
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
 - [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
+
+## <a name="html"></a>**HTML**
+- [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code [source code](https://github.com/daviddossett/grid-playground)*)](https://daviddossett.github.io/grid-playground/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
