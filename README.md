@@ -224,7 +224,7 @@ List of some useful free online tools and sites
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
 
 ## <a name="html"></a>**HTML**
-- [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code [source code](https://github.com/daviddossett/grid-playground)*)](https://daviddossett.github.io/grid-playground/)
+- [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/)[source code](https://github.com/daviddossett/grid-playground)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
