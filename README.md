@@ -169,6 +169,7 @@ List of some useful free online tools and sites
 
 ## <a name="colors"></a>**Colors**
 - [**Adoble Color Wheel** - (*Adobe Color Wheel to get the correct colors*)](https://color.adobe.com/es/create/color-wheel)
+- [**Brand Palettes** - (*Brand colors and palettes*)](https://brandpalettes.com/)
 - [**Color Converter** - (*Color Converter*)](https://www.w3docs.com/tools/color-converter)
 - [**Color Constrast Analyzer** - (*Color Contrast Analyzer between foreground and background*)](https://www.w3docs.com/tools/color-analyzer)
 - [**Color Hunt** - (*Color Palettes for Designers and Artist*)](https://colorhunt.co/)
@@ -182,6 +183,7 @@ List of some useful free online tools and sites
 - [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 - [**HTML Colors Picker** - (*HTML Color Picker*)](https://www.w3schools.com/colors/colors_picker.asp)
+- [**US Brand Colors** - (*Brand Colors and Palettes*)](https://usbrandcolors.com/)
 
 ## <a name="cron"></a>**Cron**
 - [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
