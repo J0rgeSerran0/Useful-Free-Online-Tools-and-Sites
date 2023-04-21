@@ -28,6 +28,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/JSON-blue?style=for-the-badge)](#json)
 [![](https://img.shields.io/badge/Jobs-blue?style=for-the-badge)](#jobs)
 [![](https://img.shields.io/badge/Knowledge-blue?style=for-the-badge)](#knowledge)
+[![](https://img.shields.io/badge/Maps-blue?style=for-the-badge)](#maps)
 [![](https://img.shields.io/badge/Miscelanea-blue?style=for-the-badge)](#miscelanea)
 [![](https://img.shields.io/badge/Musical%20Production-blue?style=for-the-badge)](#musical_production)
 [![](https://img.shields.io/badge/Network-blue?style=for-the-badge)](#network)
@@ -272,6 +273,9 @@ List of some useful free online tools and sites
 ## <a name="knowledge"></a>**Knowledge**
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
 - [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
+
+## <a name="maps"></a>**Maps**
+- [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
 
 ## <a name="miscelanea"></a>**Miscelanea**
 - [**Avion Safety Network** - (*Database of aerial accidents since 1930*)](https://aviation-safety.net/)
