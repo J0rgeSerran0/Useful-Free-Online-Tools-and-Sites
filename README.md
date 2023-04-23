@@ -184,6 +184,7 @@ List of some useful free online tools and sites
 - [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 - [**HTML Colors Picker** - (*HTML Color Picker*)](https://www.w3schools.com/colors/colors_picker.asp)
+- [**RGB to HEX** - (*RGB to HEX Color Converter*)](https://www.rgbtohex.net/)
 - [**US Brand Colors** - (*Brand Colors and Palettes*)](https://usbrandcolors.com/)
 
 ## <a name="cron"></a>**Cron**
