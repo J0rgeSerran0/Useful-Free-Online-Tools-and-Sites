@@ -306,6 +306,7 @@ List of some useful free online tools and sites
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Mini Music Machine** - (*Online Song & Melody Maker*)](https://muted.io/mini-music-machine/)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
+- [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
 - [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
 - [**Super Simple Sequencer** - (*Online Step Sequencer & Music Scratchpad*)](https://muted.io/sequencer/)
