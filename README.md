@@ -199,6 +199,7 @@ List of some useful free online tools and sites
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
+- [**DB Diagram** - (*Draw Entity-Relationship Diagrams, Painlessly*)](https://dbdiagram.io/)
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
 - [**Visme** - (*Visual brand experiences*)](https://dashboard.visme.co/v2/projects/own)
