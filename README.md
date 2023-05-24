@@ -176,6 +176,7 @@ List of some useful free online tools and sites
 - [**Color Hunt** - (*Color Palettes for Designers and Artist*)](https://colorhunt.co/)
 - [**Color Mixer** - (*Color Mixer btween two colors*)](https://www.w3docs.com/tools/color-mixer)
 - [**Color Palette from Image** - (*Generate a Color Palette from an Image*)](https://colorkit.co/color-palette-from-image/)
+- [**Color Palettes** - (*Users most sophisticated color palettes*)](https://htmlcolors.com/palettes)
 - [**Color Picker** - (*Pick a color from the palette and get the color code in HEX, RGB, and HSL*)](https://www.appdevtools.com/color-picker)
 - [**Color Picker** - (*Color Picker to get the HEX, RGB, HSL, Lighter and Darker color*)](https://www.w3docs.com/tools/color-picker)
 - [**Colordot** - (*A color picker for humans*)](https://color.hailpixel.com/)
