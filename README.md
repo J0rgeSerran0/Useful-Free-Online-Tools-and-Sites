@@ -475,6 +475,7 @@ List of some useful free online tools and sites
 - [**Characters and Symbols** - (*Standard ASCII set, HTML Entity names, ISO 10646, ISO 8879, ISO 8859-1 Latin alphabet No. 1*)](https://ascii.cl/htmlcodes.htm)
 - [**Random text generator** - (*Create dummy text for all your layout needs*)](https://slothman.dev/text-generator/)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
+- [**Word Counter** - (*Count the number of words, characters, sentences, and paragraphs in your text in one click*)](https://fossbytes.com/tools/word-counter)
 
 ## <a name="technology"></a>**Technology**
 - [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
