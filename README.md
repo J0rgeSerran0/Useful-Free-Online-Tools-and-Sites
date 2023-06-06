@@ -373,6 +373,7 @@ List of some useful free online tools and sites
 - [**Invert Text Case** - (*Invert Text Case Online*)](https://textedit.tools/invertcase)
 - [**Lorem Flickr** - (*Generates Lorem Ipsum photos with Creative Commons license*)](https://loremflickr.com/)
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
+- [**Lorem Ipsum Generator** - (*Generate unlimited random text using the best Lorem Ipsum tool on the web*)](https://fossbytes.com/tools/lorem-ipsum)
 - [**Lorem Picsum** - (*Generates Lorem Ipsum photos*)](https://picsum.photos/)
 - [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
 - [**MockApi** - (*The easiest way to mock REST APIs!*)](https://mockapi.io/)
