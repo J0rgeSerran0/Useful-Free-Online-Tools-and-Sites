@@ -127,6 +127,7 @@ List of some useful free online tools and sites
 
 ## <a name="banks"></a>**Banks**
 - [**Credit Card Generator** - (*Allows you to create valid credit card numbers*)](https://www.developmenttools.com/credit-card-generator/)
+- [**Credit Card Generator** - (*Fake Credit Card Numbers*)](https://fossbytes.com/tools/credit-card-generator)
 - [**Fake Credit Card** - (*Valid Credit Card Numbers with complete details for Data Testing*)](https://fakecreditcard.co/)
 - [**Generate IBANs** - (*Random Iban Generator*)](http://www.randomiban.com/?country=Netherlands)
 
