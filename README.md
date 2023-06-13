@@ -456,6 +456,7 @@ List of some useful free online tools and sites
 - [**OFFEO** - (*YouTube Downloader*)](https://offeo.com/download/youtube-downloader/)
 - [**TweetDeck** - (*Twitter Web Client*)](https://tweetdeck.twitter.com/)
 - [**Twitter Symbols** - (*Add symbols easily to your Twitter messages*)](https://es.piliapp.com/twitter-symbols/)
+- [**Twitter Video Downloader** - (*Download Twitter Videos Online*)](https://twsaver.com/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos to Mp4 & Mp3*)](https://www.savetweetvid.com/)
 - [**Twitter Downloader** - (*Download Twitter Videos and Gifs*)](https://downloaders.hashtagsforlikes.co/twitter-downloader)
 - [**Vidiget Downloader** - (*Donwload a youtube video, instagram post, facebook post or twitter post*)](https://vidiget.com/)
