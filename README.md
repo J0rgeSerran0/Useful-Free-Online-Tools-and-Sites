@@ -225,6 +225,7 @@ List of some useful free online tools and sites
 ## <a name="fonts"></a>**Fonts**
 - [**Font Meme** - (*Signature creator*)](https://fontmeme.com/es/fuentes-para-firmas/)
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
+- [**WOFF2 to TTF** - (*Converts your font files online (EOT, OTF, TTF, WOFF, WOFF2) to (EOT, OTF, TTF and WOFF)*)](https://cloudconvert.com/woff2-to-ttf)
 
 ## <a name="gps"></a>**GPS**
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
