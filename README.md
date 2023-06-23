@@ -236,6 +236,8 @@ List of some useful free online tools and sites
 
 ## <a name="html"></a>**HTML**
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
+- [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
+- [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
@@ -414,7 +416,6 @@ List of some useful free online tools and sites
 - [**dpaste.org** - (*Share your snippets code in different programming languages*)](https://dpaste.org/)
 - [**FlutterFlow** - (*Build applications faster than ever (has a free option)*)](https://flutterflow.io/)
 - [**HexEd.It** - (*Hexadecimal Editor*)](https://hexed.it/)
-- [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 - [**MDB** - (*Snippets for Bootstrap*)](https://mdbootstrap.com/snippets/)
 - [**Online C# Compiler** - (*Online compiler for C#, but you will find other programming languages*)](https://www.onlinegdb.com/online_csharp_compiler)
 - [**replit** - (*Online Editor & Compiler for Python, Node.js, C, Java, C++, Ruby, Go, Rust, C#, F#, R, Elixir, Dart, and more*)](https://replit.com/languages)
