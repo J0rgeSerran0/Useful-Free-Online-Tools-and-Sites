@@ -460,6 +460,7 @@ List of some useful free online tools and sites
 - [**LinkedIn Video Downloader** - (*Best Free online Video Downloader for Social Media Videos*)](https://viddownloader.online/linkedin-downloader/)
 - [**Meme Generator** - (*Meme Generator*)](http://memegenerator.net/)
 - [**OFFEO** - (*YouTube Downloader*)](https://offeo.com/download/youtube-downloader/)
+- [**Photo Downloader for Instagram** - (*Save Instagram photos and videos from your Instagram account or any public one*)](https://inflact.com/downloader/instagram/photo/)
 - [**TweetDeck** - (*Twitter Web Client*)](https://tweetdeck.twitter.com/)
 - [**Twitter Symbols** - (*Add symbols easily to your Twitter messages*)](https://es.piliapp.com/twitter-symbols/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos Online*)](https://twsaver.com/)
