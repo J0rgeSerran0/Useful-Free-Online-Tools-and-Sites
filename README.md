@@ -307,6 +307,7 @@ List of some useful free online tools and sites
 - [**Bandcamp** - (*Discover amazing new music and directly support the artists who make it*)](https://bandcamp.com/)
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
+- [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
