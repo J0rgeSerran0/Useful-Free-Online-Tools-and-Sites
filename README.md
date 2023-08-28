@@ -49,6 +49,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Strings%20and%20Texts-blue?style=for-the-badge)](#strings_and_texts)
 [![](https://img.shields.io/badge/Technology-blue?style=for-the-badge)](#technology)
 [![](https://img.shields.io/badge/Time-blue?style=for-the-badge)](#time)
+[![](https://img.shields.io/badge/Translate-blue?style=for-the-badge)](#translate)
 [![](https://img.shields.io/badge/User%20Profile-blue?style=for-the-badge)](#user_profile)
 [![](https://img.shields.io/badge/Videos-blue?style=for-the-badge)](#videos)
 [![](https://img.shields.io/badge/Weather-blue?style=for-the-badge)](#weather)
@@ -501,6 +502,9 @@ List of some useful free online tools and sites
 - [**Greenwich Mean Time** - (*Check current time anywhere*)](https://greenwichmeantime.com/)
 - [**The World Clock** - (*Find current time, weather, sun, moon, and mucho more...*)](https://www.timeanddate.com/worldclock/)
 - [**WorldTimerServer** - (*Current Time in UTC/GMT*)](https://www.worldtimeserver.com/current_time_in_UTC.aspx)
+
+## <a name="translate"></a>**Translate**
+- [**Google Translate - Documents (up to 10 Mb)** - (*Translate documents*)](https://translate.google.com/?sl=auto&tl=en&op=docs&hl=en)
 
 ## <a name="user_profile"></a>**User Profile**
 - [**GitHub Contributions in 3D, VR and IRL** - (*User contributions in 3D. Change the username and year with yours*)](https://skyline.github.com/J0rgeSerran0/2022)
