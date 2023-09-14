@@ -279,6 +279,7 @@ List of some useful free online tools and sites
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
+- [**JSON Web Token Decoder** - (*Decode a JSON Web Token with different algorithms*)](https://jwt.io/)
 
 ## <a name="jobs"></a>**Jobs**
 - [**arc** - (*Radically different remote job search where companies apply to you*)](https://arc.dev/)
