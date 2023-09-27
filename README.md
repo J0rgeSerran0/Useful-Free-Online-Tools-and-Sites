@@ -498,6 +498,7 @@ List of some useful free online tools and sites
 
 ## <a name="technology"></a>**Technology**
 - [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
+- [**Killed by Microsoft** - (*List of dead Microsoft products/services*)](https://killedbymicrosoft.info/)
 - [**The Google Cemetery** - (*List of dead Google products/services*)](https://gcemetery.co/)
 
 ## <a name="time"></a>**Time**
