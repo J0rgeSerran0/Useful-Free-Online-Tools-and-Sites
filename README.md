@@ -253,6 +253,7 @@ List of some useful free online tools and sites
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
+- [**SVG Viewer** - (*SVG Viewer, with Preview, Upload and Download options*)](https://www.svgviewer.dev/)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
