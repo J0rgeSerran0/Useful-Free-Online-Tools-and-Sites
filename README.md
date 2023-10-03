@@ -483,6 +483,7 @@ List of some useful free online tools and sites
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**YoutubeDownloader** - (*Tyrrrz - Releases*)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
 
 ## <a name="status"></a>**Status**
+- [**Apple System Status** - (*Apple System Status*)](https://www.apple.com/support/systemstatus/)
 - [**AWS Status** - (*Amazon Web Service Status*)](https://status.aws.amazon.com/)
 - [**Azure Status** - (*Microsoft Azure Status*)](https://status.azure.com/es-es/status)
 - [**Azure DevOps Status** - (*Status of the Azure DevOps Services*)](https://status.dev.azure.com/)
