@@ -320,6 +320,7 @@ List of some useful free online tools and sites
 - [**Los Angeles Music Composer** - (*Local windowed attention multi-instrumental music transformer for supervised music generation*)](https://github.com/asigalov61/Los-Angeles-Music-Composer)
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Mini Music Machine** - (*Online Song & Melody Maker*)](https://muted.io/mini-music-machine/)
+- [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
 - [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
