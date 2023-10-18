@@ -37,6 +37,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Productivity-blue?style=for-the-badge)](#productivity)
 [![](https://img.shields.io/badge/Programmer%20Utilities-blue?style=for-the-badge)](#programmer_utilities)
 [![](https://img.shields.io/badge/Programming%20Languages-blue?style=for-the-badge)](#programming_languages)
+[![](https://img.shields.io/badge/QR-blue?style=for-the-badge)](#qr)
 [![](https://img.shields.io/badge/Radio%20&%20TV-blue?style=for-the-badge)](#radio_and_tv)
 [![](https://img.shields.io/badge/Retro-blue?style=for-the-badge)](#retro)
 [![](https://img.shields.io/badge/Search-blue?style=for-the-badge)](#search)
@@ -299,10 +300,6 @@ List of some useful free online tools and sites
 - [**Nuclear Blast Simulator** - (*Experience the power of a nuclear blast in your area*)](https://outrider.org/nuclear-weapons/interactive/bomb-blast)
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
-- [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
-- [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
-- [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
-- [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="musical_production"></a>**Musical Production**
 - [**Adobe Enhance Speech** - (*Enhance voice recordings for free*)](https://podcast.adobe.com/enhance)
@@ -431,6 +428,13 @@ List of some useful free online tools and sites
 - [**SharpLab (C#)** - (*Online Editor & Compiler for C#*)](https://sharplab.io/)
 - [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
 - [**The Go Playground (Go)** - (*Online Editor & Compiler for Go*)](https://play.golang.org/)
+
+## <a name="qr"></a>**QR**
+- [**QR Code Gen** - (*Generate Powerful Dynamic QR Codes*)](https://qrcodeveloper.com/generator)
+- [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
+- [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
+- [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
+- [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="radio_and_tv"></a>**Radio & TV**
 - [**Emisora (Spain)** - (*Radio channels from Spain*)](https://emisora.org.es/)
