@@ -317,6 +317,7 @@ List of some useful free online tools and sites
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
+- [**Hooktheory** - (*Chord Progression Trends*)](https://www.hooktheory.com/trends)
 - [**Lil Beat Maker** - (*Simple Online Drum Machine*)](https://muted.io/lil-beat-maker/)
 - [**Los Angeles Music Composer** - (*Local windowed attention multi-instrumental music transformer for supervised music generation*)](https://github.com/asigalov61/Los-Angeles-Music-Composer)
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
