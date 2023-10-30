@@ -41,6 +41,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/QR-blue?style=for-the-badge)](#qr)
 [![](https://img.shields.io/badge/Radio%20&%20TV-blue?style=for-the-badge)](#radio_and_tv)
 [![](https://img.shields.io/badge/Retro-blue?style=for-the-badge)](#retro)
+[![](https://img.shields.io/badge/Reverse%20Engineering-blue?style=for-the-badge)](#reverse_engineering)
 [![](https://img.shields.io/badge/Search-blue?style=for-the-badge)](#search)
 [![](https://img.shields.io/badge/Security-blue?style=for-the-badge)](#security)
 [![](https://img.shields.io/badge/Sharing-blue?style=for-the-badge)](#sharing)
@@ -446,6 +447,9 @@ List of some useful free online tools and sites
 
 ## <a name="retro"></a>**Retro**
 - [**MSX System** - (*MSX System Online to run programs and load games*)](https://www.file-hunter.com/MSX/index.php)
+
+## <a name="reverse_engineering"></a>**Reverse Engineering**
+- [**Fixing the Volume on my Bluetooth Earbuds** - (*A bit of reverse engineering goes a long way*)](https://blog.ornx.net/post/bluetooth-volume-fix/)
 
 ## <a name="search"></a>**Search**
 - [**Biblioteca Universidad Complutense** - (*Spanish - Search books, articles and other documents of this University Library*)](https://biblioteca.ucm.es/librose)
