@@ -90,6 +90,7 @@ List of some useful free online tools and sites
 - [**Musicfy** - (*Create AI Tracks*)](https://create.musicfy.lol/)
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
+- [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
