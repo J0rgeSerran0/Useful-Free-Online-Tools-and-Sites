@@ -102,6 +102,7 @@ List of some useful free online tools and sites
 - [**REQBIN** - (*Online REST & SOAP API Testing Tool*)](https://reqbin.com/)
 
 ## <a name="audio"></a>**Audio, Music and Sounds**
+- [**Adobe Audition Downloads** - (*Thousands of uncompressed, royalty-free audio sound effects and music loop files*)](https://www.adobe.com/products/audition/offers/audition_dlc.html)
 - [**Audio Converter** - (*Convert audio files to MP3, WAV, OGG*)](https://vocalremover.org/converter)
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
 - [**BandLab Mix Editor** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
