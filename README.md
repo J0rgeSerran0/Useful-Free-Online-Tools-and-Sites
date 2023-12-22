@@ -494,6 +494,7 @@ List of some useful free online tools and sites
 - [**Twitter Symbols** - (*Add symbols easily to your Twitter messages*)](https://es.piliapp.com/twitter-symbols/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos Online*)](https://twsaver.com/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos to Mp4 & Mp3*)](https://www.savetweetvid.com/)
+- [**Twitter Video Downloader** - (*Download Twitter Videos*)](https://toolzu.com/downloader/twitter/)
 - [**Twitter Downloader** - (*Download Twitter Videos and Gifs*)](https://downloaders.hashtagsforlikes.co/twitter-downloader)
 - [**Vidiget Downloader** - (*Donwload a youtube video, instagram post, facebook post or twitter post*)](https://vidiget.com/)
 - [**Vidiget YouTube Downloader** - (*Download Youtube videos*)](https://vidiget.com/youtube_downloader)
