@@ -87,6 +87,7 @@ List of some useful free online tools and sites
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 - [**lalals** - (*Transform your voice using our leading AI technology*)](https://lalals.com/ref/10/)
 - [**Leonardo.AI** - (*Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency*)](https://leonardo.ai/)
+- [**Microsoft Copilot** - (*AI complement for all days*)](https://copilot.microsoft.com/)
 - [**Mix Check Studio** - (*Uses cutting-edge AI technology to analyse your mixes and masters*)](https://mixcheck.studio/)
 - [**MuseNet** - (*Deep neural network that can generate 4-minute musical compositions with 10 different instruments*)](https://openai.com/research/musenet)
 - [**Musicfy** - (*Create AI Tracks*)](https://create.musicfy.lol/)
