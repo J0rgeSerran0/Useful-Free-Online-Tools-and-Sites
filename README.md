@@ -176,6 +176,7 @@ List of some useful free online tools and sites
 
 ## <a name="cloud_computing"></a>**Cloud Computing**
 - [**Azure Services** - (*Useful list of all the Azure Services*)](https://azureservices.io/)
+- [**Azure Updates Retirements** - (*Get the latest updates on Azure products and features to meet your cloud investment needs*)](https://azure.microsoft.com/en-us/updates/?updateType=retirements)
 - [**CNCF Cloud Native Interactive Landscape** - (*Trail Map*)](https://landscape.cncf.io/)
 - [**CNCF Cloud Native Interactive Card Mode** - (*Card Mode*)](https://landscape.cncf.io/card-mode)
 - [**CNCF Cloud Native Interactive Members** - (*Members*)](https://landscape.cncf.io/members)
