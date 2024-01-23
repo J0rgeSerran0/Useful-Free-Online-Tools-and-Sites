@@ -70,6 +70,7 @@ List of some useful free online tools and sites
 
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
+- [**AI Image Generator** - (*Create an image from text prompt*)](https://deepai.org/machine-learning-model/text2img)
 - [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
