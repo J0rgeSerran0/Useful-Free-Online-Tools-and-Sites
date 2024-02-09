@@ -6,6 +6,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/3D,%20VR%20and%20IRL-blue?style=for-the-badge)](#3d_vr_irl)
 [![](https://img.shields.io/badge/Agile-blue?style=for-the-badge)](#agile)
 [![](https://img.shields.io/badge/AI-blue?style=for-the-badge)](#ai)
+[![](https://img.shields.io/badge/Air-Traffic-blue?style=for-the-badge)](#air_traffic)
 [![](https://img.shields.io/badge/APIs-blue?style=for-the-badge)](#apis)
 [![](https://img.shields.io/badge/Audio,%20Music%20&%20Sounds-blue?style=for-the-badge)](#audio)
 [![](https://img.shields.io/badge/Banks-blue?style=for-the-badge)](#banks)
@@ -98,6 +99,9 @@ List of some useful free online tools and sites
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
+
+## <a name="air_traffic"></a>**Air Traffic**
+- [**TheAirTraffic** - (*Air Traffic in real-time*)](https://globe.theairtraffic.com/)
 
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
