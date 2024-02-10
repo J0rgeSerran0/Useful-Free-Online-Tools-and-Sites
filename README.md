@@ -132,6 +132,7 @@ List of some useful free online tools and sites
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
 - [**Pixabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
+- [**Scale Chords** - (*Musician Tools*)](https://www.scales-chords.com/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
