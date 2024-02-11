@@ -343,6 +343,7 @@ List of some useful free online tools and sites
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
 - [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Scale Chords** - (*Musician Tools*)](https://www.scales-chords.com/)
+- [**Show Scale** - (*This tool will help you find the music scale (or key) to your music*)](https://showscale.com/)
 - [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
 - [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
 - [**Super Simple Sequencer** - (*Online Step Sequencer & Music Scratchpad*)](https://muted.io/sequencer/)
