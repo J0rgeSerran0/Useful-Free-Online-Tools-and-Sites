@@ -330,6 +330,7 @@ List of some useful free online tools and sites
 - [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
+- [**Every Noise** - (*Every Noise at Once*)](https://everynoise.com/)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
 - [**Hooktheory** - (*Chord Progression Trends*)](https://www.hooktheory.com/trends)
 - [**Jukeblocks** - (*Generate a Genre Project File for FL Studio, Ableton Live, Logic, Studio One,...*)](https://jukeblocks.io/)
