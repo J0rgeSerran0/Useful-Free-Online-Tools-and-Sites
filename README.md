@@ -87,6 +87,7 @@ List of some useful free online tools and sites
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AI - Magenta Studio** - (*Collection of music plugins built on Magenta’s open source tools and models*)](https://magenta.tensorflow.org/studio/)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
+- [**Krea** - (*Open Beta - Real-time generation*)](https://www.krea.ai/home)
 - [**lalals** - (*Transform your voice using our leading AI technology*)](https://lalals.com/ref/10/)
 - [**Leonardo.AI** - (*Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency*)](https://leonardo.ai/)
 - [**Microsoft Copilot** - (*AI complement for all days*)](https://copilot.microsoft.com/)
