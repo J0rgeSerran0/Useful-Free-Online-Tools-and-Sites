@@ -4,6 +4,7 @@ List of some useful free online tools and sites
 > Feel free to send a PR to add more tools or sites (pay attention to order the content alphabetically please. *The tools and sites have to be free*)
 
 [![](https://img.shields.io/badge/3D,%20VR%20and%20IRL-blue?style=for-the-badge)](#3d_vr_irl)
+[![](https://img.shields.io/badge/Aeronautics%20and%20Space-blue?style=for-the-badge)](#aeronautics_and_space)
 [![](https://img.shields.io/badge/Agile-blue?style=for-the-badge)](#agile)
 [![](https://img.shields.io/badge/AI-blue?style=for-the-badge)](#ai)
 [![](https://img.shields.io/badge/Air%20Traffic-blue?style=for-the-badge)](#air_traffic)
@@ -65,6 +66,9 @@ List of some useful free online tools and sites
 ## <a name="3d_vr_irl"></a>**3D, VR and IRL**
 - [**Vectary** - (*Free online 3D design*)](https://app.vectary.com/)
 - [**ViewSTL** - (*View 3D STL files directly in your browser*)](https://www.viewstl.com/)
+
+## <a name="aeronautics_and_space"></a>**Aeronautics and Space**
+- [**NASA - Eyes on Asteroids** - (*Take a deeper dive into Asteroids*)](https://eyes.nasa.gov/apps/asteroids/#/home)
 
 ## <a name="agile"></a>**Agile**
 - [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
@@ -133,6 +137,7 @@ List of some useful free online tools and sites
 - [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
 - [**Pixabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
+- [**Pro-54** - (*Cmajor port of the Native Instruments [Pro-53](https://www.vintagesynth.com/native-instruments/pro-53) - [Source Code](https://github.com/cmajor-lang/cmajor/tree/main/examples/patches/Pro54)*)](https://cmajor.dev/docs/Examples/Pro54/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
