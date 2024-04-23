@@ -76,6 +76,7 @@ List of some useful free online tools and sites
 ## <a name="ai"></a>**AI**
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AI Image Generator** - (*Create an image from text prompt*)](https://deepai.org/machine-learning-model/text2img)
+- [**AI Image Upscaler** - (*Use AI to upscale the quality of your image*)](https://www.upscale.media)
 - [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
@@ -176,6 +177,7 @@ List of some useful free online tools and sites
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
+- [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
