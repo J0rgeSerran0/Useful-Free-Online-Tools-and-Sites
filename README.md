@@ -313,6 +313,7 @@ List of some useful free online tools and sites
 - [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
 
 ## <a name="maps"></a>**Maps**
+- [**MapChecking** - (*Crowd counting tool*)](https://www.mapchecking.com/)
 - [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
 
 ## <a name="maps"></a>**Maths**
