@@ -275,6 +275,8 @@ List of some useful free online tools and sites
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Editor** - (*Method Draw Vector Editor*)](https://editor.method.ac/)
+- [**SVG Path Editor** - (*SVG Path Editor Online*)](https://yqnn.github.io/svg-path-editor/)
+- [**SVG Path Visualizer** - (*Enter a SVG path data to visualize it*)](https://svg-path-visualizer.netlify.app/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
 - [**SVG Viewer** - (*SVG Viewer, with Preview, Upload and Download options*)](https://www.svgviewer.dev/)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
