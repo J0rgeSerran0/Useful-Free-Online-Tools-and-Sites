@@ -274,11 +274,14 @@ List of some useful free online tools and sites
 - [**Noun Project** - (*Icons and Photos for Everything*)](https://thenounproject.com/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
+- [**SVG Compressor** - (*Online SVG Compressor*)](https://compress-online.com/compress-svg)
 - [**SVG Editor** - (*Method Draw Vector Editor*)](https://editor.method.ac/)
 - [**SVG Path Editor** - (*SVG Path Editor Online*)](https://yqnn.github.io/svg-path-editor/)
 - [**SVG Path Visualizer** - (*Enter a SVG path data to visualize it*)](https://svg-path-visualizer.netlify.app/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
 - [**SVG Viewer** - (*SVG Viewer, with Preview, Upload and Download options*)](https://www.svgviewer.dev/)
+- [**SVGOMG** - (*It provides you several options to clean and compress your SVG files*)](https://svgomg.net/)
+- [**Vecta.io** - (*World's Best SVG Compressor*)](https://vecta.io/nano)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
