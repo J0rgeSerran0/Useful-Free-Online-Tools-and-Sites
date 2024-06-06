@@ -276,6 +276,7 @@ List of some useful free online tools and sites
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Compressor** - (*Online SVG Compressor*)](https://compress-online.com/compress-svg)
 - [**SVG Editor** - (*Method Draw Vector Editor*)](https://editor.method.ac/)
+- [**SVG Path Editor** - (*Optimization focused SVG Path editor*)](https://aydos.com/svgedit/)
 - [**SVG Path Editor** - (*SVG Path Editor Online*)](https://yqnn.github.io/svg-path-editor/)
 - [**SVG Path Visualizer** - (*Enter a SVG path data to visualize it*)](https://svg-path-visualizer.netlify.app/)
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
