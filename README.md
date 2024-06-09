@@ -563,6 +563,7 @@ List of some useful free online tools and sites
 - [**WorldTimerServer** - (*Current Time in UTC/GMT*)](https://www.worldtimeserver.com/current_time_in_UTC.aspx)
 
 ## <a name="translate"></a>**Translate**
+- [**DeepL Translate** - (*Translate text and documents*)](https://www.deepl.com/translator)
 - [**Google Translate - Documents (up to 10 Mb)** - (*Translate documents*)](https://translate.google.com/?sl=auto&tl=en&op=docs&hl=en)
 
 ## <a name="user_profile"></a>**User Profile**
