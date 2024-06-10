@@ -24,9 +24,10 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Excel-blue?style=for-the-badge)](#excel)
 [![](https://img.shields.io/badge/Fonts-blue?style=for-the-badge)](#fonts)
 [![](https://img.shields.io/badge/GPS-blue?style=for-the-badge)](#gps)
+[![](https://img.shields.io/badge/Graphics-blue?style=for-the-badge)](#graphics)
 [![](https://img.shields.io/badge/HTML-blue?style=for-the-badge)](#html)
 [![](https://img.shields.io/badge/Icons%20&%20Logos-blue?style=for-the-badge)](#icons_and_logos)
-[![](https://img.shields.io/badge/Images%20and%20Graphics-blue?style=for-the-badge)](#images_and_graphics)
+[![](https://img.shields.io/badge/Images-blue?style=for-the-badge)](#images)
 [![](https://img.shields.io/badge/JSON-blue?style=for-the-badge)](#json)
 [![](https://img.shields.io/badge/Jobs-blue?style=for-the-badge)](#jobs)
 [![](https://img.shields.io/badge/Knowledge-blue?style=for-the-badge)](#knowledge)
@@ -259,6 +260,9 @@ List of some useful free online tools and sites
 - [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
 
+## <a name="graphics"></a>**Graphics**
+- [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
+
 ## <a name="html"></a>**HTML**
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
@@ -285,7 +289,7 @@ List of some useful free online tools and sites
 - [**Vecta.io** - (*World's Best SVG Compressor*)](https://vecta.io/nano)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
-## <a name="images_and_graphics"></a>**Images and Graphics**
+## <a name="images"></a>**Images**
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
