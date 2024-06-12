@@ -364,6 +364,7 @@ List of some useful free online tools and sites
 - [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
+- [**PolyPattern** - (*Polyrhythm Generator*)](https://dustah.com/polypattern/)
 - [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Scale Chords** - (*Musician Tools*)](https://www.scales-chords.com/)
 - [**Show Scale** - (*This tool will help you find the music scale (or key) to your music*)](https://showscale.com/)
