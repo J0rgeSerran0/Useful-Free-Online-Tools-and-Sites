@@ -124,6 +124,7 @@ List of some useful free online tools and sites
 - [**BandLab Mix Editor** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
 - [**BandLab Song Starter** - (*Bandlab Song Starter for musicians inspiration*)](https://www.bandlab.com/songstarter)
 - [**BBC Sound Effects** - (*Search BBC Sound Effects - Buy sound button to use a sound commercially*)](https://sound-effects.bbcrewind.co.uk/)
+- [**BBC Sound Effects Explorer** - (*Search engine on the BBC Sound Effect database*)](https://aurelien-herve.com/BBCSounds/)
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
 - [**Frequency to Pitch Calculator** - (*To calculate the frequency of a note in reference*)](https://anotherproducer.com/online-tools-for-musicians/frequency-to-pitch-calculator/)
