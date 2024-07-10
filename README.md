@@ -291,6 +291,7 @@ List of some useful free online tools and sites
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
+- [**Avatar Maker** - (*Create your own avatar online*)](https://avatarmaker.com/)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
