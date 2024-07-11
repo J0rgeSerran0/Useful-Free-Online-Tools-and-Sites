@@ -97,6 +97,7 @@ List of some useful free online tools and sites
 - [**Krea** - (*Open Beta - Real-time generation*)](https://www.krea.ai/home)
 - [**lalals** - (*Transform your voice using our leading AI technology*)](https://lalals.com/ref/10/)
 - [**Leonardo.AI** - (*Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency*)](https://leonardo.ai/)
+- [**LivePortrait** - (*a Hugging Face Space by KwaiVGI*)](https://huggingface.co/spaces/KwaiVGI/LivePortrait) - [Open Source Project](https://github.com/KwaiVGI/LivePortrait)
 - [**Microsoft Copilot** - (*AI complement for all days*)](https://copilot.microsoft.com/)
 - [**Mix Check Studio** - (*Uses cutting-edge AI technology to analyse your mixes and masters*)](https://mixcheck.studio/)
 - [**MuseNet** - (*Deep neural network that can generate 4-minute musical compositions with 10 different instruments*)](https://openai.com/research/musenet)
