@@ -76,6 +76,7 @@ List of some useful free online tools and sites
 - [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
 
 ## <a name="ai"></a>**AI**
+- [**Adobe Enhance Speech** - (*Clean up audio for free with Adobe Podcast AI*)](https://podcast.adobe.com/enhance)
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AI Image Generator** - (*Create an image from text prompt*)](https://deepai.org/machine-learning-model/text2img)
 - [**AI Image Upscaler** - (*Use AI to upscale the quality of your image*)](https://www.upscale.media)
@@ -86,7 +87,9 @@ List of some useful free online tools and sites
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**Dall-E 2** - (*Create original, realistic images and art from a text description*)](https://openai.com/product/dall-e-2)
+- [**DeepL** - (*Translate documents or presentations*)](https://www.deepl.com/en/translator)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
+- [**ElevenLabs** - (*Create the most realistic speech with our AI audio platform*)](https://elevenlabs.io/)
 - [**Free TTS** - (*Text to Speech Mp3 Free Online*)](https://freetts.com/)
 - [**Future Tools** - (*Find the exact AI Tool for your needs*)](https://www.futuretools.io/)
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
@@ -94,6 +97,7 @@ List of some useful free online tools and sites
 - [**Generated Photos Anonymizer** - (*Protect your identity with generative media*)](https://generated.photos/anonymizer)
 - [**Google AI - Magenta Studio** - (*Collection of music plugins built on Magenta’s open source tools and models*)](https://magenta.tensorflow.org/studio/)
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
+- [**Google Gemini** - (*ChatBot to write, learn, plan trips, and more*)](https://gemini.google.com/)
 - [**Krea** - (*Open Beta - Real-time generation*)](https://www.krea.ai/home)
 - [**lalals** - (*Transform your voice using our leading AI technology*)](https://lalals.com/ref/10/)
 - [**Leonardo.AI** - (*Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency*)](https://leonardo.ai/)
@@ -106,10 +110,13 @@ List of some useful free online tools and sites
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
 - [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
+- [**Perplexity** - (*AI Search Tool*)](https://www.perplexity.ai/)
+- [**Pikaso** - (*Start creating and editing images*)](https://www.freepik.com/pikaso)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
 - [**Suno AI** - (*Music creator. No instrument needed, just imagination*)](https://www.suno.ai/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
+- [**Udio** - (*Make your music*)](https://www.udio.com/)
 
 ## <a name="air_traffic"></a>**Air Traffic**
 - [**TheAirTraffic** - (*Air Traffic in real-time*)](https://globe.theairtraffic.com/)
