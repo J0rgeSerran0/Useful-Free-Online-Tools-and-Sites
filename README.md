@@ -37,6 +37,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Musical%20Production-blue?style=for-the-badge)](#musical_production)
 [![](https://img.shields.io/badge/Network-blue?style=for-the-badge)](#network)
 [![](https://img.shields.io/badge/OS%20(Operating%20System)-blue?style=for-the-badge)](#os)
+[![](https://img.shields.io/badge/Planes%20and%20Flights-blue?style=for-the-badge)](#planes_and_flights)
 [![](https://img.shields.io/badge/Photography%20&%20Photographers-blue?style=for-the-badge)](#photography_and_photographers)
 [![](https://img.shields.io/badge/Productivity-blue?style=for-the-badge)](#productivity)
 [![](https://img.shields.io/badge/Programmer%20Utilities-blue?style=for-the-badge)](#programmer_utilities)
@@ -413,6 +414,9 @@ List of some useful free online tools and sites
 - [**Moon Phases (2021)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2021#)
 - [**Moon Phases (2022)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2022#)
 - [**Photography Calculator** - (*Online tools for photographers*)](https://www.photoandtips.com/photography-calculator/)
+
+## <a name="planes_and_flights"></a>**Planes and Flights**
+- [**The EU Air Safety List** - (*All airlines banned from operating in Europe and restricted from operating under certain conditions in Europe*)](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
 
 ## <a name="productivity"></a>**Productivity**
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
