@@ -453,6 +453,7 @@ List of some useful free online tools and sites
 - [**Hexadecimal to Binary Converter** - (*Hex to binary converter tool*)](https://www.binaryhexconverter.com/hex-to-binary-converter)
 - [**Hexadecimal to Decimal Converter** - (*Hex to decimal converter tool*)](https://www.binaryhexconverter.com/hex-to-decimal-converter)
 - [**Invert Text Case** - (*Invert Text Case Online*)](https://textedit.tools/invertcase)
+- [**Json2Csharp** - (*Convert Json to C# Classes Online*)](https://json2csharp.com/)
 - [**Line Break Remover Tool** - (*Remove line breaks from blocks of text*)](https://www.textfixer.com/tools/remove-line-breaks.php)
 - [**Lorem Flickr** - (*Generates Lorem Ipsum photos with Creative Commons license*)](https://loremflickr.com/)
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
