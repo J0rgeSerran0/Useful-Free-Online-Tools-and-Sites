@@ -359,6 +359,7 @@ List of some useful free online tools and sites
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 
 ## <a name="musical_production"></a>**Musical Production**
+- [**432 Hertz Music Converter** - (*The online 432 Hertz converter tool converts music between different frequencies*)](https://www.432hzconverter.com/)
 - [**Ableton Live Themes** - (*Create your own theme easily*)](https://www.livethemes.co/)
 - [**Adobe Enhance Speech** - (*Enhance voice recordings for free*)](https://podcast.adobe.com/enhance)
 - [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
@@ -383,6 +384,7 @@ List of some useful free online tools and sites
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Mini Music Machine** - (*Online Song & Melody Maker*)](https://muted.io/mini-music-machine/)
 - [**Mixcloud Downloader** - (*Download any tracks, sets and playlists from Mixcloud*)](https://www.dlmixcloud.com/)
+- [**Online Tone Generator** - (*Tuning instruments, science experiments, testing audio equipment, testing your hearing*)](https://www.szynalski.com/tone-generator/)
 - [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
@@ -394,6 +396,7 @@ List of some useful free online tools and sites
 - [**SoundCloud** - (*Lets people discover and enjoy the greatest selection of music from the most diverse creator community on earth*)](https://soundcloud.com/)
 - [**Super Simple Sequencer** - (*Online Step Sequencer & Music Scratchpad*)](https://muted.io/sequencer/)
 - [**Tempo Changer** - (*Speed up or slow down audio playback without affecting the pitch*)](https://vocalremover.org/tempo)
+- [**The 432 Player** - (*Realtime 432Hz Converter*)](https://www.432player.com/)
 - [**Tom Hess Calculator** - (*Delay And Frequency Calculator*)](https://tomhess.net/Tools/DelayCalculator.aspx)
 - [**Vocal Remover** - (*Separate voice from music out of a song free with powerful AI algorithms*)](https://vocalremover.org/)
 - [**Voice Recorder** - (*Record your voice and add Reverb and EQ before download it*)](https://vocalremover.org/online-voice-recorder)
