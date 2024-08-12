@@ -418,11 +418,12 @@ List of some useful free online tools and sites
 - [**EXIF Viewer** - (*View the EXIF metadata of an image file if exists*)](https://www.appdevtools.com/exif-viewer)
 - [**Light Pollution Map** - (*Search places to know the light pollution*)](https://www.lightpollutionmap.info/)
 - [**Meteo Blue** - (*Weather close to you*)](https://www.meteoblue.com/)
-- [**Moon Phases (2021)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2021#)
-- [**Moon Phases (2022)** - (*Dates and hours of all Moon Phases in 2021*)](https://www.calendar-12.com/moon_phases/2022#)
+- [**Moon Phases (2024)** - (*Dates and hours of all Moon Phases in 2024*)](https://www.calendar-12.com/moon_phases/2024#)
+- [**Moon Phases (2025)** - (*Dates and hours of all Moon Phases in 2025*)](https://www.calendar-12.com/moon_phases/2025#)
 - [**Photography Calculator** - (*Online tools for photographers*)](https://www.photoandtips.com/photography-calculator/)
 
 ## <a name="planes_and_flights"></a>**Planes and Flights**
+- [**Aviation Safety Network** - (*An exclusive service of flight safety foundation*)](https://asn.flightsafety.org/)
 - [**The EU Air Safety List** - (*All airlines banned from operating in Europe and restricted from operating under certain conditions in Europe*)](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
 
 ## <a name="productivity"></a>**Productivity**
