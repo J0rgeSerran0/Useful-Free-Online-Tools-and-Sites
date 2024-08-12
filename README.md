@@ -530,6 +530,7 @@ List of some useful free online tools and sites
 
 ## <a name="search"></a>**Search**
 - [**Biblioteca Universidad Complutense** - (*Spanish - Search books, articles and other documents of this University Library*)](https://biblioteca.ucm.es/librose)
+- [**Google Lens** - (*Search what you see*)](https://lens.google/)
 - [**Internet Archive** - (*Search web, books, video, audio, software and images*)](https://archive.org/search.php?query=)
 - [**Scholar Google** - (*Search academic information*)](https://scholar.google.com/)
 
