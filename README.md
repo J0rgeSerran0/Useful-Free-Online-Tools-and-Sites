@@ -273,6 +273,7 @@ List of some useful free online tools and sites
 
 ## <a name="excel"></a>**Excel**
 - [**Excel Password Recovery Online** - (*Recovers a document open password to all versions of encrypted MS Office Excel files (.xls and .xlsx)*)](https://www.lostmypass.com/file-types/ms-excel/)
+- [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
 
 ## <a name="fonts"></a>**Fonts**
 - [**Font Meme** - (*Signature creator*)](https://fontmeme.com/es/fuentes-para-firmas/)
