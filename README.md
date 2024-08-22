@@ -88,6 +88,7 @@ List of some useful free online tools and sites
 - [**Bing Image Generator** - (*Create images from words with AI*)](https://www.bing.com/images/create)
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
+- [**Craiyon** - (*Create AI Art with our free AI image generator*)](https://www.craiyon.com/)
 - [**Dall-E 2** - (*Create original, realistic images and art from a text description*)](https://openai.com/product/dall-e-2)
 - [**DeepL** - (*Translate documents or presentations*)](https://www.deepl.com/en/translator)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
