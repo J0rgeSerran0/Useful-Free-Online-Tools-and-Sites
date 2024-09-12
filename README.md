@@ -373,6 +373,7 @@ List of some useful free online tools and sites
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
 - [**Chord Progression Generator** - (*Chord progressions*)](https://girlinbluemusic.com/chord-progression-generator/)
+- [**Chosic** - (*Find genre of song or artist and discover genres*)](https://www.chosic.com/music-genre-finder/)
 - [**Chrome Music Lab - Song Maker** - (*To make a song, add notes by clicking the grid*)](https://musiclab.chromeexperiments.com/Song-Maker/)
 - [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
