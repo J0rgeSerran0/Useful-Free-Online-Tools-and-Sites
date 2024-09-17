@@ -119,6 +119,7 @@ List of some useful free online tools and sites
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
 - [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
 - [**Perplexity** - (*AI Search Tool*)](https://www.perplexity.ai/)
+- [**PopPop AI** - (*Free Online AI Vocal Remover & Isolator*)](https://poppop.ai/ai-vocal-remover)
 - [**Pikaso** - (*Start creating and editing images*)](https://www.freepik.com/pikaso)
 - [**Runway GEN-3** - (*Create videos in any style you can imagine with Text to Video generation*)](https://runwayml.com/ai-tools/gen-3-alpha/)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
