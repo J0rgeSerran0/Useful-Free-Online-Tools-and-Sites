@@ -370,6 +370,7 @@ List of some useful free online tools and sites
 - [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
 - [**Audio Joiner** - (*Join multiple audio tracks into one*)](https://vocalremover.org/joiner)
 - [**Audiomack** - (*Is aFree limitless music sharing and discovery platform for artists, tastemakers, labels, and fans*)](https://audiomack.com/)
+- [**AutoChords** - (*Chord Progression Generator*)](https://autochords.com/)
 - [**Bandcamp** - (*Discover amazing new music and directly support the artists who make it*)](https://bandcamp.com/)
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
