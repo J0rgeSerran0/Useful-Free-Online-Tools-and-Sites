@@ -377,6 +377,7 @@ List of some useful free online tools and sites
 - [**Chord Progression Generator** - (*Chord progressions*)](https://girlinbluemusic.com/chord-progression-generator/)
 - [**Chosic** - (*Find genre of song or artist and discover genres*)](https://www.chosic.com/music-genre-finder/)
 - [**Chrome Music Lab - Song Maker** - (*To make a song, add notes by clicking the grid*)](https://musiclab.chromeexperiments.com/Song-Maker/)
+- [**Daily Training** - (*Games to start your ear training session*)](https://www.soundgym.co/dashboard/gym)
 - [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
