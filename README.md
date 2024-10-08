@@ -95,6 +95,7 @@ List of some useful free online tools and sites
 - [**DeepL** - (*Translate documents or presentations*)](https://www.deepl.com/en/translator)
 - [**Dream** - (*Write terms and draw*)](https://app.wombo.art/)
 - [**ElevenLabs** - (*Create the most realistic speech with our AI audio platform*)](https://elevenlabs.io/)
+- [**Fadr Stems** - (*AI Vocal Remover*)](https://fadr.com/stems)
 - [**Free TTS** - (*Text to Speech Mp3 Free Online*)](https://freetts.com/)
 - [**Future Tools** - (*Find the exact AI Tool for your needs*)](https://www.futuretools.io/)
 - [**GauGAN2** - (*Creates realistic scenarios quickly*)](http://gaugan.org/gaugan2/)
