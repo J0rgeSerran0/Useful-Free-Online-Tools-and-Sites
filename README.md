@@ -371,6 +371,7 @@ List of some useful free online tools and sites
 ## <a name="musical_production"></a>**Musical Production**
 - [**432 Hertz Music Converter** - (*The online 432 Hertz converter tool converts music between different frequencies*)](https://www.432hzconverter.com/)
 - [**Ableton Live Themes** - (*Create your own theme easily*)](https://www.livethemes.co/)
+- [**Ableton Make Your Own Tuning** - (*Create your own Live 12's tuning presets*)](https://tuning.ableton.com/make-your-own-tuning/)
 - [**Adobe Enhance Speech** - (*Enhance voice recordings for free*)](https://podcast.adobe.com/enhance)
 - [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
 - [**Audio Joiner** - (*Join multiple audio tracks into one*)](https://vocalremover.org/joiner)
