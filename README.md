@@ -63,6 +63,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Weather-blue?style=for-the-badge)](#weather)
 [![](https://img.shields.io/badge/Web-blue?style=for-the-badge)](#web)
 [![](https://img.shields.io/badge/Webcams-blue?style=for-the-badge)](#webcams)
+[![](https://img.shields.io/badge/Word-blue?style=for-the-badge)](#word)
 
 [![](https://img.shields.io/badge/Contributors-70db70?style=for-the-badge)](#contributors)
 
@@ -652,6 +653,9 @@ List of some useful free online tools and sites
 
 ## <a name="webcams"></a>**Webcams**
 - [**Explore Livecams** - (*Livecams of the world*)](https://explore.org/livecams)
+
+## <a name="word"></a>**Word**
+- [**Word to Markdown** - (*Convert a docx or doc document to Markdown format*)](https://word2md.com/)
 
 
 ---
