@@ -327,6 +327,7 @@ List of some useful free online tools and sites
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
+- [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
