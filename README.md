@@ -271,6 +271,7 @@ List of some useful free online tools and sites
 - [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
+- [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 
 ## <a name="email"></a>**Email**
