@@ -409,6 +409,7 @@ List of some useful free online tools and sites
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
 - [**PlayPhrase.me** - (*Phrases from Films and Series for music*)](https://www.playphrase.me/#/search?language=en)
 - [**PolyPattern** - (*Polyrhythm Generator*)](https://dustah.com/polypattern/)
+- [**Rhymer** - (*Quickly search through 94,000+ English words to find rhymes for poetry, songwriting and love letters*)](https://rhymer.com/)
 - [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Samplette** - (*Search Samples and get ideas*)](https://samplette.io/)
 - [**Scale Chords** - (*Musician Tools*)](https://www.scales-chords.com/)
