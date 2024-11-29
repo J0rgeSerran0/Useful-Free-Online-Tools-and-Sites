@@ -131,6 +131,7 @@ List of some useful free online tools and sites
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Udio** - (*Make your music*)](https://www.udio.com/)
+- [**ZZZ Code AI** - (*Coding website powered by AI!*)](https://zzzcode.ai/)
 
 ## <a name="air_traffic"></a>**Air Traffic**
 - [**TheAirTraffic** - (*Air Traffic in real-time*)](https://globe.theairtraffic.com/)
