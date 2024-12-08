@@ -446,6 +446,7 @@ List of some useful free online tools and sites
 - [**Moon Phases (2024)** - (*Dates and hours of all Moon Phases in 2024*)](https://www.calendar-12.com/moon_phases/2024#)
 - [**Moon Phases (2025)** - (*Dates and hours of all Moon Phases in 2025*)](https://www.calendar-12.com/moon_phases/2025#)
 - [**Photography Calculator** - (*Online tools for photographers*)](https://www.photoandtips.com/photography-calculator/)
+- [**Ventusky** - (*Calculates the wind speed and other weather information*)](https://www.ventusky.com/)
 
 ## <a name="planes_and_flights"></a>**Planes and Flights**
 - [**Aviation Safety Network** - (*An exclusive service of flight safety foundation*)](https://asn.flightsafety.org/)
