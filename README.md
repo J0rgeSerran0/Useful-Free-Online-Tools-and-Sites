@@ -451,6 +451,7 @@ List of some useful free online tools and sites
 ## <a name="planes_and_flights"></a>**Planes and Flights**
 - [**Aviation Safety Network** - (*An exclusive service of flight safety foundation*)](https://asn.flightsafety.org/)
 - [**The EU Air Safety List** - (*All airlines banned from operating in Europe and restricted from operating under certain conditions in Europe*)](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
+- [**FlightAware** - (*Provide advanced, accurate, actionable data and insights that inform every aviation decision*)](https://flightaware.com/)
 
 ## <a name="productivity"></a>**Productivity**
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
