@@ -667,8 +667,14 @@ List of some useful free online tools and sites
 
 ---
 
-# <a name="contributors"></a>**Contributors**
+<details>
+  
+<summary><h3>Contributors</h3></summary>
+  
 Thanks to:
 - [Andy Feliciotti](https://github.com/someguy9/)
 - [Jose María Estrade](https://github.com/josemalive)
-- [Stevesmit](https://github.com/stevesmit)
+- [Stevesmit](https://github.com/stevesmit)  
+
+<details>
+ 
