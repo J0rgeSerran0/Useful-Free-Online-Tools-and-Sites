@@ -408,6 +408,7 @@ List of some useful free online tools and sites
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Mini Music Machine** - (*Online Song & Melody Maker*)](https://muted.io/mini-music-machine/)
 - [**Mixcloud Downloader** - (*Download any tracks, sets and playlists from Mixcloud*)](https://www.dlmixcloud.com/)
+- [**My Noise** - (*Create immersive and customizable soundscapes*)](https://mynoise.net/)
 - [**Online Tone Generator** - (*Tuning instruments, science experiments, testing audio equipment, testing your hearing*)](https://www.szynalski.com/tone-generator/)
 - [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
@@ -428,6 +429,7 @@ List of some useful free online tools and sites
 - [**Tom Hess Calculator** - (*Delay And Frequency Calculator*)](https://tomhess.net/Tools/DelayCalculator.aspx)
 - [**Vocal Remover** - (*Separate voice from music out of a song free with powerful AI algorithms*)](https://vocalremover.org/)
 - [**Voice Recorder** - (*Record your voice and add Reverb and EQ before download it*)](https://vocalremover.org/online-voice-recorder)
+- [**White Noise Generator** - (*Create natural sounds easily*)](https://www.whitenoisegenerator.top/)
 
 ## <a name="network"></a>**Network**
 - [**Fast** - (*Test the speed and performance of your internet connection*)](https://fast.com/es/)
