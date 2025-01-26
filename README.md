@@ -152,6 +152,7 @@ List of some useful free online tools and sites
 - [**Adobe Audition Downloads** - (*Thousands of uncompressed, royalty-free audio sound effects and music loop files*)](https://www.adobe.com/products/audition/offers/audition_dlc.html)
 - [**Audio Converter** - (*Convert audio files to MP3, WAV, OGG*)](https://vocalremover.org/converter)
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
+- [**Audio Extractor** - (*Extract quickly the Audio from a Video*)](https://audio-extractor.net/)
 - [**BandLab Mix Editor** - (*Bandlab Audio/Midi Editor Online*)](https://www.bandlab.com/mix-editor)
 - [**BandLab Song Starter** - (*Bandlab Song Starter for musicians inspiration*)](https://www.bandlab.com/songstarter)
 - [**BBC Sound Effects** - (*Search BBC Sound Effects - Buy sound button to use a sound commercially*)](https://sound-effects.bbcrewind.co.uk/)
