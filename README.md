@@ -268,6 +268,7 @@ List of some useful free online tools and sites
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
+- [**Canva** - (*Helps with visual design and document creation*)](https://www.canva.com/)
 - [**DB Diagram** - (*Draw Entity-Relationship Diagrams, Painlessly*)](https://dbdiagram.io/)
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Vectr** - (*Free Vector Grpahics Software*)](https://vectr.com/)
@@ -279,6 +280,7 @@ List of some useful free online tools and sites
 - [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
+- [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 
