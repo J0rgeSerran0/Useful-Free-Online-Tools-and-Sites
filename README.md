@@ -671,6 +671,7 @@ List of some useful free online tools and sites
 - [**Free Metatags Generator** - (*Wizard to copy & paste the meta tags into the HTML of the source of your index page*)](https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/)
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
+- [**Silex** - (*Free Website Builder*)](https://silex.me/)
 - [**WayBackMachine** - (*Internet Screenshots - Web Pages Saved*)](http://web.archive.org/)
 
 ## <a name="webcams"></a>**Webcams**
