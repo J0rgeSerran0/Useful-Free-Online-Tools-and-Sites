@@ -93,6 +93,7 @@ List of some useful free online tools and sites
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**ChordChord** - (*ChordChord makes it easy to start your music*)](https://chordchord.com/)
+- [**ClipDrop** - (*Create stunning visuals in seconds with AI*)](https://clipdrop.co/)
 - [**Craiyon** - (*Create AI Art with our free AI image generator*)](https://www.craiyon.com/)
 - [**CapCut** - (*Free all-in-one video editor for everyone to create anything anywhere*)](https://www.capcut.com/)
 - [**Dall-E 2** - (*Create original, realistic images and art from a text description*)](https://openai.com/product/dall-e-2)
@@ -667,6 +668,7 @@ List of some useful free online tools and sites
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
+- [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
 
 ## <a name="weather"></a>**Weather**
 - [**SunriseSunset.io** - (*The tool to find sunrise and sunset times in your city*)](https://sunrisesunset.io/)
