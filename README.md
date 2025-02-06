@@ -234,6 +234,7 @@ List of some useful free online tools and sites
 - [**CNCF Cloud Native Interactive Card Mode** - (*Card Mode*)](https://landscape.cncf.io/card-mode)
 - [**CNCF Cloud Native Interactive Members** - (*Members*)](https://landscape.cncf.io/members)
 - [**CNCF Cloud Native Interactive Serverless** - (*Serverless*)](https://landscape.cncf.io/serverless)
+- [**The Azure Periodic Table** - (*Naming Convention for Azure Resources*)](https://www.azureperiodictable.com/)
 
 ## <a name="colors"></a>**Colors**
 - [**Adoble Color Wheel** - (*Adobe Color Wheel to get the correct colors*)](https://color.adobe.com/es/create/color-wheel)
