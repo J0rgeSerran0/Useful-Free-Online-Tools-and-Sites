@@ -307,6 +307,7 @@ List of some useful free online tools and sites
 
 ## <a name="html"></a>**HTML**
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
+- [**HTML Formatter** - (*Formats a HTML string/file with your desired indentation level*)](https://www.freeformatter.com/html-formatter.html)
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 
@@ -360,6 +361,7 @@ List of some useful free online tools and sites
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
 - [**JSON Editor** - (*Online editor for JSON files*)](https://www.appdevtools.com/json-editor)
 - [**JSON Editor Online** - (*Online editor for JSON files*)](https://jsoneditoronline.org/)
+- [**JSON Formatter** - (*Formats a JSON string/file with your desired indentation level*)](https://www.freeformatter.com/json-formatter.html)
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
