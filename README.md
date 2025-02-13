@@ -607,6 +607,7 @@ List of some useful free online tools and sites
 ## <a name="social_networks"></a>**Social Networks**
 - [**EmojiTerra** - (*Emojis to copy and paste*)](https://emojiterra.com/)
 - [**Fancy Text Decorator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://fancytextdecorator.com/)
+- [**Fancy Text Generator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://lingojam.com/FancyTextGenerator)
 - [**Free YouTube Downloader Online** - (*Download the YouTube content easily*)](https://myconverters.com/en/youtube-downloader/)
 - [**Full Emoji List** - (*Emoji List*)](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [**Giphy** - (*GIFs & Stickers*)](https://giphy.com/)
