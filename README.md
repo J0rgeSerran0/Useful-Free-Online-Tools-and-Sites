@@ -646,7 +646,7 @@ List of some useful free online tools and sites
 - [**Random text generator** - (*Create dummy text for all your layout needs*)](https://slothman.dev/text-generator/)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 - [**Text to Image** - (*Convert Text into Image in seconds*)](https://textintoimages.com/)
-- [**Word Counter** - (*Count the number of words, characters, sentences, and paragraphs in your text in one click*)](https://fossbytes.com/tools/word-counter)
+- [**Word Counter** - (*Count the number of words, characters, sentences, and paragraphs in your text in one click*)](https://tools.word-counter.com/)
 
 ## <a name="technology"></a>**Technology**
 - [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
