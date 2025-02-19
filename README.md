@@ -592,6 +592,7 @@ List of some useful free online tools and sites
 ## <a name="search"></a>**Security**
 - [**SHA 256 Algorithm** - (*Text, Bin, Hex - Sha256 Algorithm Explained*)](https://sha256algorithm.com/)
 - [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
+- [**Static Pinning** - (*add Certificate Pinning to your Mobile Apps*)](https://approov.io/tools/static-pinning/)
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
