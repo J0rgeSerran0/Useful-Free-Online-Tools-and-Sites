@@ -131,6 +131,7 @@ List of some useful free online tools and sites
 - [**PopPop AI** - (*Free Online AI Vocal Remover & Isolator*)](https://poppop.ai/ai-vocal-remover)
 - [**Pikaso** - (*Start creating and editing images*)](https://www.freepik.com/pikaso)
 - [**Runway GEN-3** - (*Create videos in any style you can imagine with Text to Video generation*)](https://runwayml.com/ai-tools/gen-3-alpha/)
+- [**Sesame** - (*Conversational voice presence*)](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
 - [**Soundful** - (*AI Music Generator for Creators*)](https://soundful.com/)
 - [**Stable Diffusion** - (*AI Image Generator*)](https://stabledifffusion.com/)
