@@ -329,6 +329,7 @@ List of some useful free online tools and sites
 - [**SVG Editor** - (*Method Draw Vector Editor*)](https://editor.method.ac/)
 - [**SVG Editor** - (*SVG Editor*)](https://svgeditoronline.com/editor/)
 - [**SVG Editor** - (*Edit SVG images online*)](https://edit.svgomg.net/)
+- [**SVG Generator** - (*An online SVG Vector Graphics Generator*)](https://svg-generator.netlify.app/)
 - [**SVG Path Editor** - (*Optimization focused SVG Path editor*)](https://aydos.com/svgedit/)
 - [**SVG Path Editor** - (*SVG Path Editor Online*)](https://yqnn.github.io/svg-path-editor/)
 - [**SVG Path Visualizer** - (*Enter a SVG path data to visualize it*)](https://svg-path-visualizer.netlify.app/)
