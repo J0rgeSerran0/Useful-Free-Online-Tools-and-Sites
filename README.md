@@ -566,6 +566,7 @@ List of some useful free online tools and sites
 - [**DartPad** - (*Free, open-source online editor to help developers learn about Dart and Flutter*)](https://dartpad.dartlang.org/)
 - [**dpaste.org** - (*Share your snippets code in different programming languages*)](https://dpaste.org/)
 - [**FlutterFlow** - (*Build applications faster than ever (has a free option)*)](https://flutterflow.io/)
+- [**Hex Decoder** - (*Online hexadecimal to text converter*)](https://cryptii.com/pipes/hex-decoder)
 - [**HexEd.It** - (*Hexadecimal Editor*)](https://hexed.it/)
 - [**MDB** - (*Snippets for Bootstrap*)](https://mdbootstrap.com/snippets/)
 - [**OneCompiler - Bootstrap** - (*Online Editor for Bootstrap*)](https://onecompiler.com/bootstrap)
