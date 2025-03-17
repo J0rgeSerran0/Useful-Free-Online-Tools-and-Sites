@@ -111,6 +111,7 @@ List of some useful free online tools and sites
 - [**Google AutoDraw** - (*Fast drawing for everyone*)](https://www.autodraw.com/)
 - [**Google Gemini** - (*ChatBot to write, learn, plan trips, and more*)](https://gemini.google.com/)
 - [**Ideogram** - (*Generates realistic images*)](https://ideogram.ai/login)
+- [**Img2Go** - (*Upscale Image With AI*)](https://www.img2go.com/upscale-image)
 - [**Immersity AI** - (*LeiaPix is now... add similar 3D to an image*)](https://www.immersity.ai/)
 - [**Krea** - (*Open Beta - Real-time generation*)](https://www.krea.ai/home)
 - [**lalals** - (*Transform your voice using our leading AI technology*)](https://lalals.com/ref/10/)
