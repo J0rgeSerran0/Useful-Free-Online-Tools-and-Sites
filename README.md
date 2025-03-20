@@ -241,6 +241,7 @@ List of some useful free online tools and sites
 
 ## <a name="colors"></a>**Colors**
 - [**Adoble Color Wheel** - (*Adobe Color Wheel to get the correct colors*)](https://color.adobe.com/es/create/color-wheel)
+- [**Brand Colors** - (*Official Brand Color Hex Codes*)](https://brandcolors.net/)
 - [**Brand Palettes** - (*Brand colors and palettes*)](https://brandpalettes.com/)
 - [**Color Converter** - (*Color Converter*)](https://www.w3docs.com/tools/color-converter)
 - [**Color Constrast Analyzer** - (*Color Contrast Analyzer between foreground and background*)](https://www.w3docs.com/tools/color-analyzer)
