@@ -301,6 +301,7 @@ List of some useful free online tools and sites
 
 ## <a name="fonts"></a>**Fonts**
 - [**Font Meme** - (*Signature creator*)](https://fontmeme.com/es/fuentes-para-firmas/)
+- [**Font Squirrel** - (*Free fonts*)](https://www.fontsquirrel.com/)
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
 - [**WOFF2 to TTF** - (*Converts your font files online (EOT, OTF, TTF, WOFF, WOFF2) to (EOT, OTF, TTF and WOFF)*)](https://cloudconvert.com/woff2-to-ttf)
 
