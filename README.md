@@ -51,6 +51,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Scrapping-blue?style=for-the-badge)](#scrapping)
 [![](https://img.shields.io/badge/Search-blue?style=for-the-badge)](#search)
 [![](https://img.shields.io/badge/Security-blue?style=for-the-badge)](#security)
+[![](https://img.shields.io/badge/SEO-blue?style=for-the-badge)](#SEO)
 [![](https://img.shields.io/badge/Sharing-blue?style=for-the-badge)](#sharing)
 [![](https://img.shields.io/badge/Shopping%20Prices%20&%20Stores-blue?style=for-the-badge)](#shopping_prices_and_stores)
 [![](https://img.shields.io/badge/Slides-blue?style=for-the-badge)](#slides)
@@ -613,6 +614,9 @@ List of some useful free online tools and sites
 - [**SHA 256 Algorithm** - (*Text, Bin, Hex - Sha256 Algorithm Explained*)](https://sha256algorithm.com/)
 - [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
 - [**Static Pinning** - (*add Certificate Pinning to your Mobile Apps*)](https://approov.io/tools/static-pinning/)
+
+## <a name="SEO"></a>**SEO**
+- [**PageRank Calculator** - (*CSV file: Type,Destination,Rel,Source - Hyperlink,Html_Url,link,Site_Url*)](https://pagerank.streamlit.app/)
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
