@@ -432,6 +432,7 @@ List of some useful free online tools and sites
 - [**Jukeblocks - Convert** - (*Convert a FL Studio project to Ableton Live*)](https://jukeblocks.io/convert/)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
 - [**Lil Beat Maker** - (*Simple Online Drum Machine*)](https://muted.io/lil-beat-maker/)
+- [**Lloyd's Online TR-808 Drum Machine** - (*Record and Export Your Beats to WAV and MIDI*)](https://lloydstellar.nl/808/)
 - [**Los Angeles Music Composer** - (*Local windowed attention multi-instrumental music transformer for supervised music generation*)](https://github.com/asigalov61/Los-Angeles-Music-Composer)
 - [**Midi Chord Generator** - (*Build your own chord progression*)](https://jtmingus.github.io/midi-chord-generator/)
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
