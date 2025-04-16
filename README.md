@@ -127,6 +127,7 @@ List of some useful free online tools and sites
 - [**Musicfy** - (*Create AI Tracks*)](https://create.musicfy.lol/)
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
+- [**Napkin** - (*The visual AI for business storytelling*)](https://www.napkin.ai/)
 - [**OpenAI Tokenizer** - (*OpenAI Text Using Tokens*)](https://platform.openai.com/tokenizer)
 - [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
 - [**Perplexity** - (*AI Search Tool*)](https://www.perplexity.ai/)
