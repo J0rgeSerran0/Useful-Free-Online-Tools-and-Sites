@@ -83,9 +83,10 @@ List of some useful free online tools and sites
 
 ## <a name="ai"></a>**AI**
 - [**Adobe Enhance Speech** - (*Clean up audio for free with Adobe Podcast AI*)](https://podcast.adobe.com/enhance)
-- [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AI Image Generator** - (*Create an image from text prompt*)](https://deepai.org/machine-learning-model/text2img)
 - [**AI Image Upscaler** - (*Use AI to upscale the quality of your image*)](https://www.upscale.media)
+- [**AI Music Generator** - (*Transform your ideas into songs instantly*)](https://aimusicgen.ai/)
+- [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AIVA** - (*AI Music Generation Assistant*)](https://www.aiva.ai/)
 - [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
