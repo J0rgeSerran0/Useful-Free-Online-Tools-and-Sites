@@ -319,6 +319,7 @@ List of some useful free online tools and sites
 - [**Trajan Column Story** - (*Watch and listen to the story of the Column*)](https://colonnatraiana.cultura.gov.it/)
 
 ## <a name="html"></a>**HTML**
+- [**Generate a CSS Color Gradient** - (*Generates the CSS code for a linear gradient*)](https://mycolor.space/gradient)
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
 - [**HTML Formatter** - (*Formats a HTML string/file with your desired indentation level*)](https://www.freeformatter.com/html-formatter.html)
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
