@@ -442,6 +442,7 @@ List of some useful free online tools and sites
 - [**Lil Beat Maker** - (*Simple Online Drum Machine*)](https://muted.io/lil-beat-maker/)
 - [**Lloyd's Online TR-808 Drum Machine** - (*Record and Export Your Beats to WAV and MIDI*)](https://lloydstellar.nl/808/)
 - [**Los Angeles Music Composer** - (*Local windowed attention multi-instrumental music transformer for supervised music generation*)](https://github.com/asigalov61/Los-Angeles-Music-Composer)
+- [**Melody Mate** - (*Create melodies or basslines based on stochastic processes using rhythm presets or Euclidean rhythms and export them as MIDI files*)](https://melody-mate-khaki.vercel.app/)
 - [**Midi Chord Generator** - (*Build your own chord progression*)](https://jtmingus.github.io/midi-chord-generator/)
 - [**Mindful Harmony** - (*Use the cycle or circle of fifths as a basis for your compositions*)](https://www.mindfulharmony.app/)
 - [**Mini Music Machine** - (*Online Song & Melody Maker*)](https://muted.io/mini-music-machine/)
