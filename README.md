@@ -97,6 +97,7 @@ List of some useful free online tools and sites
 - [**Bored Humans** - (*Teaches you how to create new art like a real painter would*)](https://boredhumans.com/art.php)
 - [**ChatGPT** - (*Optimizing Language Models for Dialogue*)](https://openai.com/blog/chatgpt/)
 - [**ChordChord** - (*ChordChord makes it easy to start your music*)](https://chordchord.com/)
+- [**ChordSeqAI** - (*Compose Chord Progressions*)](https://chordseqai.com/app) - [Open Source Project](https://github.com/PetrIvan/chord-seq-ai-app)
 - [**ClipDrop** - (*Create stunning visuals in seconds with AI*)](https://clipdrop.co/)
 - [**Craiyon** - (*Create AI Art with our free AI image generator*)](https://www.craiyon.com/)
 - [**CapCut** - (*Free all-in-one video editor for everyone to create anything anywhere*)](https://www.capcut.com/)
