@@ -143,6 +143,7 @@ List of some useful free online tools and sites
 - [**Soundful** - (*AI Music Generator for Creators*)](https://soundful.com/)
 - [**Stable Diffusion** - (*AI Image Generator*)](https://stabledifffusion.com/)
 - [**Suno AI** - (*Music creator. No instrument needed, just imagination*)](https://www.suno.ai/)
+- [**Tiktokenizer** - (*Tool for developers to track users' token usage so that each customer is billed proportionally*)](https://tiktokenizer.vercel.app/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Uberduck** - (*Synthetic speech toy to emulate voices*)](https://uberduck.ai/)
 - [**Udio** - (*Make your music*)](https://www.udio.com/)
