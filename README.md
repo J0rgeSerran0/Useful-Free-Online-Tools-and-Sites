@@ -15,6 +15,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Banks-blue?style=for-the-badge)](#banks)
 [![](https://img.shields.io/badge/Barcodes-blue?style=for-the-badge)](#barcodes)
 [![](https://img.shields.io/badge/Bitcoins-blue?style=for-the-badge)](#bitcoins)
+[![](https://img.shields.io/badge/Bread%20and%20Baker-blue?style=for-the-badge)](#bread_and_baker)
 [![](https://img.shields.io/badge/Calculators%20&%20Converters-blue?style=for-the-badge)](#calculators_and_converters)
 [![](https://img.shields.io/badge/Charts-blue?style=for-the-badge)](#charts)
 [![](https://img.shields.io/badge/Cloud%20Computing-blue?style=for-the-badge)](#cloud_computing)
@@ -211,6 +212,9 @@ List of some useful free online tools and sites
 
 ## <a name="bitcoins"></a>**Bitcoins**
 - [**Mastering Bitcoins Book** - (*Mastering Bitcoin is a book for developers*)](https://github.com/bitcoinbook/bitcoinbook)
+
+## <a name="bread_and_baker"></a>**Bread and Baker**
+- [**Simple Sourdough Calculator** - (*A calculator for the Home Baker using Baker's Math. No more mental math in the kitchen.*)](https://sourdoughcalculator.info/)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
 - [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
