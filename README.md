@@ -545,6 +545,7 @@ List of some useful free online tools and sites
 - [**Hexadecimal to Binary Converter** - (*Hex to binary converter tool*)](https://www.binaryhexconverter.com/hex-to-binary-converter)
 - [**Hexadecimal to Decimal Converter** - (*Hex to decimal converter tool*)](https://www.binaryhexconverter.com/hex-to-decimal-converter)
 - [**Invert Text Case** - (*Invert Text Case Online*)](https://textedit.tools/invertcase)
+- [**Java Decompiler Online** - (*.JAR and .Class to Java decompiler*)](http://www.javadecompilers.com/)
 - [**JavaScript to C#** - (*Online JavaScript to Csharp Converter*)](https://www.codeconvert.ai/javascript-to-csharp-converter)
 - [**Json2Csharp** - (*Convert Json to C# Classes Online*)](https://json2csharp.com/)
 - [**Line Break Remover Tool** - (*Remove line breaks from blocks of text*)](https://www.textfixer.com/tools/remove-line-breaks.php)
