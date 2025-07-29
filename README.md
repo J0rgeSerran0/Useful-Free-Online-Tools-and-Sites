@@ -308,6 +308,7 @@ List of some useful free online tools and sites
 - [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
 
 ## <a name="fonts"></a>**Fonts**
+- [**Bit Font Maker 2** - (*Design and create your own fonts*)](https://www.pentacom.jp/pentacom/bitfontmaker2/)
 - [**Font Meme** - (*Signature creator*)](https://fontmeme.com/es/fuentes-para-firmas/)
 - [**Font Squirrel** - (*Free fonts*)](https://www.fontsquirrel.com/)
 - [**FontYukle!** - (*Free fonts*)](https://www.fontyukle.net/)
