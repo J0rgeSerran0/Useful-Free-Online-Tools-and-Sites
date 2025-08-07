@@ -413,6 +413,7 @@ List of some useful free online tools and sites
 - [**Nuclear Blast Simulator** - (*Experience the power of a nuclear blast in your area*)](https://outrider.org/nuclear-weapons/interactive/bomb-blast)
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
+- [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
 
 ## <a name="musical_production"></a>**Musical Production**
 - [**432 Hertz Music Converter** - (*The online 432 Hertz converter tool converts music between different frequencies*)](https://www.432hzconverter.com/)
