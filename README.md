@@ -418,6 +418,7 @@ List of some useful free online tools and sites
 
 ## <a name="musical_production"></a>**Musical Production**
 - [**432 Hertz Music Converter** - (*The online 432 Hertz converter tool converts music between different frequencies*)](https://www.432hzconverter.com/)
+- [**Ableton AI Agent** - (*AI agent that help you read and understand ableton live documentation*)](https://ableton-ai-agent.vercel.app/) - [source code](https://github.com/Saraceni/AbletonAiAgent)
 - [**Ableton Learning Mucic** - (*Get started making music*)](https://learningmusic.ableton.com/)
 - [**Ableton Live Themes** - (*Create your own theme easily*)](https://www.livethemes.co/)
 - [**Ableton Make Your Beats** - (*Create your own beats*)](https://learningmusic.ableton.com/make-beats/make-beats.html)
