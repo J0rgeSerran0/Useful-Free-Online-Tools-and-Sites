@@ -177,6 +177,7 @@ List of some useful free online tools and sites
 - [**Free Online Metronome** - (*Online Metronome*)](https://www.8notes.com/metronome/)
 - [**Free Sound** - (*Collaborative database of Creative Commons Licensed sounds*)](https://freesound.org/)
 - [**Google Research - Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
+- [**Hydrasynth Editor** - (*Online Synth to be used with you MIDI keyboard*)](https://www.synthmad.com/hs-editor/)
 - [**LALALAI** - (*Extract vocal, accompaniment and various instruments from any audio*)](https://www.lalal.ai/)
 - [**Loudness Penalty** - (*Find out if your music will be turned down by YouTube, Spotify, TIDAL, Apple Sound Check and more*)](https://www.loudnesspenalty.com/)
 - [**Microphone Test** - (*Check it works properly and find out useful details about it*)](https://vocalremover.org/mic-test)
