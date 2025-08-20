@@ -404,6 +404,7 @@ List of some useful free online tools and sites
 
 ## <a name="maps"></a>**Maps**
 - [**Google Earth** - (*3D Map*)](https://earth.google.com/web/)
+- [**Maps 3D - Editor** - (*3D Map Editor*)](https://maps3d.io/editor)
 - [**MapChecking** - (*Crowd counting tool*)](https://www.mapchecking.com/)
 - [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
 
