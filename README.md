@@ -616,6 +616,7 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
+- [**QR.io** - (*Generate QR Codes in different formats*)](https://qr.io/)
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="radio_and_tv"></a>**Radio & TV**
