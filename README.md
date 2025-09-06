@@ -197,6 +197,7 @@ List of some useful free online tools and sites
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
+- [**Video to MP3** - (Convert videos to audio MP3 format*)](https://www.convertidor.mx/herramientas/convertidor-de-video-a-mp3.html)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
 ## <a name="banks"></a>**Banks**
@@ -373,6 +374,8 @@ List of some useful free online tools and sites
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
+- [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
+- [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
 - [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Pixabay Images** - (*Royalty free Images and Royalty-Free stock*)](https://pixabay.com/)
@@ -384,6 +387,7 @@ List of some useful free online tools and sites
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
+- [**WEBp to PNG** -(*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
 
 ## <a name="json"></a>**JSON**
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
@@ -724,7 +728,8 @@ List of some useful free online tools and sites
 - [**Ezgif - GIF to Video** - (*GIF to MP4 converter*)](https://ezgif.com/gif-to-mp4) 
 - [**Ezgif - Video to GIF** - (*MP4 video to GIF converter*)](https://ezgif.com/video-to-gif) 
 - [**Ezgif - Video to JPG** - (*MP4 video to JPG converter*)](https://ezgif.com/video-to-jpg) 
-- [**Ezgif - Video to PNG** - (*MP4 video to PNG converter*)](https://ezgif.com/video-to-png) 
+- [**Ezgif - Video to PNG** - (*MP4 video to PNG converter*)](https://ezgif.com/video-to-png)
+- [**MKV to MP4** - (*MKV to MP4 converter*)](https://www.convertidor.mx/herramientas/convertir-mkv-a-mp4.html)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
