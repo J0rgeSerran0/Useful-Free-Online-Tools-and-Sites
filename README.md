@@ -197,7 +197,7 @@ List of some useful free online tools and sites
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
-- [**Video to MP3** - (Convert videos to audio MP3 format*)](https://www.convertidor.mx/herramientas/convertir-video-a-mp3.html)
+- [**Video to MP3** - (Convert videos to audio MP3 format*)](https://www.convertidor.mx/herramientas/convertidor-de-video-a-mp3.html)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
 ## <a name="banks"></a>**Banks**
