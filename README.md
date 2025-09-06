@@ -765,6 +765,7 @@ List of some useful free online tools and sites
   
 Thanks to:
 - [Andy Feliciotti](https://github.com/someguy9/)
+- [Brian Berrios](https://github.com/berriob2)
 - [Jose María Estrade](https://github.com/josemalive)
 - [Stevesmit](https://github.com/stevesmit)  
 
