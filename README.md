@@ -196,8 +196,9 @@ List of some useful free online tools and sites
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
+- [**TikTok and YouTube Audio Download** - (*Download M4A to MP3 from TikTok and YouTube through URL*)](https://www.convertidor.mx/herramientas/descargar-audio-tiktok-youtube.html)
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
-- [**Video to MP3** - (Convert videos to audio MP3 format*)](https://www.convertidor.mx/herramientas/convertidor-de-video-a-mp3.html)
+- [**Video to MP3** - (*Convert videos to audio MP3 format*)](https://www.convertidor.mx/herramientas/convertidor-de-video-a-mp3.html)
 - [**Wav2Png** - (*Audio to Image Converter and viceversa*)](https://directmusic.me/wav2png/)
 
 ## <a name="banks"></a>**Banks**
@@ -297,12 +298,15 @@ List of some useful free online tools and sites
 ## <a name="documents"></a>**Documents**
 - [**Adobe Compress PDF** - (*Drag and drop a PDF to reduce its file size fast*)](https://www.adobe.com/in/acrobat/online/compress-pdf.html)
 - [**Convertio** - (*Converts EPUB to PDF*)](https://convertio.co/es/epub-pdf/)
+- [**Delete PDF Pages** - (*Delete pages from a PDF file*)](https://www.convertidor.mx/herramientas/quitar-paginas-de-pdf.html)
+- [**Extract PDF Pages** - (*Extract certain pages from a pdf file*)](https://www.convertidor.mx/herramientas/extraer-paginas-de-pdf.html)
 - [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
 - [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
+- [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
 
 ## <a name="email"></a>**Email**
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
@@ -731,6 +735,7 @@ List of some useful free online tools and sites
 - [**Ezgif - Video to PNG** - (*MP4 video to PNG converter*)](https://ezgif.com/video-to-png)
 - [**MKV to MP4** - (*MKV to MP4 converter*)](https://www.convertidor.mx/herramientas/convertir-mkv-a-mp4.html)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
+- [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://www.unscreen.com/)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
