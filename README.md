@@ -360,6 +360,7 @@ List of some useful free online tools and sites
 - [**SVG Repo** - (*300.000+ SVG Vector and Icons*)](https://www.svgrepo.com/)
 - [**SVG Viewer** - (*SVG Viewer, with Preview, Upload and Download options*)](https://www.svgviewer.dev/)
 - [**SVGOMG** - (*It provides you several options to clean and compress your SVG files*)](https://jakearchibald.github.io/svgomg/)
+- [**UnicodePlus** - (*Miscellaneous Symbols and Pictographs Block*)](https://unicodeplus.com/block/1F300)
 - [**Vecta.io** - (*World's Best SVG Compressor*)](https://vecta.io/nano)
 - [**World Vector Logo** - (*Brand logos in SVG format*)](https://worldvectorlogo.com/)
 
