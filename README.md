@@ -575,6 +575,7 @@ List of some useful free online tools and sites
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
 - [**Lorem Ipsum Generator** - (*Generate unlimited random text using the best Lorem Ipsum tool on the web*)](https://fossbytes.com/tools/lorem-ipsum)
 - [**Lorem Picsum** - (*Generates Lorem Ipsum photos*)](https://picsum.photos/)
+- [**Markdown Emoji Markup** - (*Complete list of github markdown emoji markup*)](https://gist.github.com/rxaviers/7360908)
 - [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
 - [**MockApi** - (*The easiest way to mock REST APIs!*)](https://mockapi.io/)
 - [**Music for Programming** - (*Music to hear when we are programming*)](https://musicforprogramming.net/latest/)
