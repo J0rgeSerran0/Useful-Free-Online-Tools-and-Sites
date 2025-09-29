@@ -428,6 +428,9 @@ List of some useful free online tools and sites
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
 
+## <a name="maps"></a>**Museums**
+- [**Basilica di San Pietro** - (*Virtual 3D Tour*)](https://virtual.basilicasanpietro.va/en)
+
 ## <a name="musical_production"></a>**Musical Production**
 - [**432 Hertz Music Converter** - (*The online 432 Hertz converter tool converts music between different frequencies*)](https://www.432hzconverter.com/)
 - [**Ableton AI Agent** - (*AI agent that help you read and understand ableton live documentation*)](https://ableton-ai-agent.vercel.app/) - [source code](https://github.com/Saraceni/AbletonAiAgent)
