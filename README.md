@@ -192,6 +192,7 @@ List of some useful free online tools and sites
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Pro-54** - (*Cmajor port of the Native Instruments Pro-53)*)](https://cmajor.dev/docs/Examples/Pro54/) - [Pro-53](https://www.vintagesynth.com/native-instruments/pro-53) - [Source Code](https://github.com/cmajor-lang/cmajor/tree/main/examples/patches/Pro54)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
+- [**Stem Splitter** - (*Turn any song into isolated tracks (piano, vocals, drums, bass, guitar, other)*)](https://eldoraudio.com/products/stem-splitter)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
