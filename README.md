@@ -187,6 +187,7 @@ List of some useful free online tools and sites
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
 - [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
 - [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
+- [**Piano Audio to MIDI** - (*Upload an MP3 or WAV to transcribe the piano part into MIDI*)](https://eldoraudio.com/products/piano-audio-to-midi)
 - [**Pixabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Pro-54** - (*Cmajor port of the Native Instruments Pro-53)*)](https://cmajor.dev/docs/Examples/Pro54/) - [Pro-53](https://www.vintagesynth.com/native-instruments/pro-53) - [Source Code](https://github.com/cmajor-lang/cmajor/tree/main/examples/patches/Pro54)
