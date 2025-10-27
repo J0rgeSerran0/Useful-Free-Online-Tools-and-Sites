@@ -22,6 +22,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Colors-blue?style=for-the-badge)](#colors)
 [![](https://img.shields.io/badge/Cron-blue?style=for-the-badge)](#cron)
 [![](https://img.shields.io/badge/Data-blue?style=for-the-badge)](#data)
+[![](https://img.shields.io/badge/Databases-blue?style=for-the-badge)](#databases)
 [![](https://img.shields.io/badge/Diagrams%20&%20Design-blue?style=for-the-badge)](#diagrams_and_design)
 [![](https://img.shields.io/badge/Documents-blue?style=for-the-badge)](#documents)
 [![](https://img.shields.io/badge/Email-blue?style=for-the-badge)](#email)
@@ -287,6 +288,9 @@ List of some useful free online tools and sites
 - [**Data Comparer** - (*Compare your data and find differences between them*)](https://slothman.dev/data-comparer/)
 - [**DeDupeList** - (*Remove duplicate lines from a list*)](https://dedupelist.com/)
 - [**Remove Duplicate** - (*Online tool to remove duplicate lines*)](https://removeduplicateonline.com/)
+
+## <a name="databases"></a>**Databases**
+- [**ChartDB** - (*Create the diagram for your databases*)](https://app.chartdb.io/)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
