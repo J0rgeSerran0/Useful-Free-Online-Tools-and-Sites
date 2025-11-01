@@ -9,6 +9,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Agile-blue?style=for-the-badge)](#agile)
 [![](https://img.shields.io/badge/AI-blue?style=for-the-badge)](#ai)
 [![](https://img.shields.io/badge/Air%20Traffic-blue?style=for-the-badge)](#air_traffic)
+[![](https://img.shields.io/badge/Animation-blue?style=for-the-badge)](#animation)
 [![](https://img.shields.io/badge/Anti%20Virus-blue?style=for-the-badge)](#anti_virus)
 [![](https://img.shields.io/badge/APIs-blue?style=for-the-badge)](#apis)
 [![](https://img.shields.io/badge/Audio,%20Music%20&%20Sounds-blue?style=for-the-badge)](#audio)
@@ -153,6 +154,9 @@ List of some useful free online tools and sites
 
 ## <a name="air_traffic"></a>**Air Traffic**
 - [**TheAirTraffic** - (*Air Traffic in real-time*)](https://globe.theairtraffic.com/)
+
+## <a name="animation"></a>**Animation**
+- [**ASCII Motion** - (*A modern web application for creating and animating ASCII art*)](https://ascii-motion.app/) - [Source Code](https://github.com/CameronFoxly/Ascii-Motion)
 
 ## <a name="anti_virus"></a>**Anti Virus**
 - [**Virus Total** - (*Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches*)](https://www.virustotal.com/)
