@@ -538,6 +538,7 @@ List of some useful free online tools and sites
 - [**Ventusky** - (*Calculates the wind speed and other weather information*)](https://www.ventusky.com/)
 
 ## <a name="planes_and_flights"></a>**Planes and Flights**
+- [**Air Fleets** - (*Search a plane or an airline*)](https://www.airfleets.net/home/)
 - [**Aviation Safety Network** - (*An exclusive service of flight safety foundation*)](https://asn.flightsafety.org/)
 - [**The EU Air Safety List** - (*All airlines banned from operating in Europe and restricted from operating under certain conditions in Europe*)](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
 - [**FlightAware** - (*Provide advanced, accurate, actionable data and insights that inform every aviation decision*)](https://flightaware.com/)
