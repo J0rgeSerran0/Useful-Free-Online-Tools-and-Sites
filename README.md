@@ -297,6 +297,7 @@ List of some useful free online tools and sites
 - [**ChartDB** - (*Create the diagram for your databases*)](https://app.chartdb.io/)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
+- [**Affinity** - (*All the design and photo editing tools you need in one app*)](https://www.affinity.studio/)
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
 - [**Canva** - (*Helps with visual design and document creation*)](https://www.canva.com/)
 - [**Coggle** - (*Make mind map documents that flow like your ideas*)](https://coggle.it/)
