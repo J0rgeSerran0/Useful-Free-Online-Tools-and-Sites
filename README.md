@@ -128,6 +128,7 @@ List of some useful free online tools and sites
 - [**Luma Labs - Dream Machine** - (*AI model that makes high quality, realistic videos fast from text and images*)](https://lumalabs.ai/dream-machine)
 - [**Magnific** - (*The image upscaler, enhancer & transformer*)](https://magnific.ai/)
 - [**Microsoft Copilot** - (*AI complement for all days*)](https://copilot.microsoft.com/)
+- [**MIDIGEN v1.0** - (*AI Music Generator*)](https://midigen.app/melody-generator/)
 - [**Midjourney** - (*Imaging Generator*)](https://www.midjourney.com/home)
 - [**Mix Check Studio** - (*Uses cutting-edge AI technology to analyse your mixes and masters*)](https://mixcheck.studio/)
 - [**MuseNet** - (*Deep neural network that can generate 4-minute musical compositions with 10 different instruments*)](https://openai.com/research/musenet)
