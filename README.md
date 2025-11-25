@@ -459,6 +459,7 @@ List of some useful free online tools and sites
 - [**Bandcamp** - (*Discover amazing new music and directly support the artists who make it*)](https://bandcamp.com/)
 - [**Bandzoogle** - (*Build a stunning band website and store in minutes*)](https://bandzoogle.com/)
 - [**CD Baby** - (*Has partnered with over 150 streaming services and music retailers worldwide*)](https://es.cdbaby.com/)
+- [**Chord Detection** - (*Find chords in any audio*)](https://samplab.com/chord-detection)
 - [**Chord Player** - (*Online Chord Progression Generator*)](https://www.onemotion.com/chord-player/)
 - [**Chord Progression Generator** - (*Chord progressions*)](https://girlinbluemusic.com/chord-progression-generator/)
 - [**Chosic** - (*Find genre of song or artist and discover genres*)](https://www.chosic.com/music-genre-finder/)
