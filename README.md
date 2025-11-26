@@ -354,6 +354,7 @@ List of some useful free online tools and sites
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
+- [**All SVG Icons** - (*Search and download SVG Icons*)](https://allsvgicons.com/search/)
 - [**Boxy SVG Editor** - (*SVG Editor Online*)](https://boxy-svg.com/)
 - [**flatIcon** - (*5.7M vector icons & stickers*)](https://www.flaticon.com/)
 - [**freepik** - (*graphic resources for all*)](https://www.freepik.es/)
