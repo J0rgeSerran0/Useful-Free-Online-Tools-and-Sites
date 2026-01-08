@@ -58,6 +58,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Security-blue?style=for-the-badge)](#security)
 [![](https://img.shields.io/badge/SEO-blue?style=for-the-badge)](#SEO)
 [![](https://img.shields.io/badge/Sharing-blue?style=for-the-badge)](#sharing)
+[![](https://img.shields.io/badge/Ships-blue?style=for-the-badge)](#ships)
 [![](https://img.shields.io/badge/Shopping%20Prices%20&%20Stores-blue?style=for-the-badge)](#shopping_prices_and_stores)
 [![](https://img.shields.io/badge/Slides-blue?style=for-the-badge)](#slides)
 [![](https://img.shields.io/badge/Social%20Networks-blue?style=for-the-badge)](#social_networks)
@@ -681,6 +682,10 @@ List of some useful free online tools and sites
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
 - [**MyAirBridge** - (*Allows the use of end-to-end encryption with a secure data transmission*)](https://www.myairbridge.com/en/#!/)
 - [**WeTransfer** - (*Transfer files and share them with other users*)](https://wetransfer.com/)
+
+## <a name="ships"></a>**Ships**
+- [**My Ship Tracking** - (*Tracking of ships via Automatic Identification System (AIS)*)](https://www.myshiptracking.com/)
+- [**VesselFinder** - (*Tracking of ships via Automatic Identification System (AIS)*)](https://www.vesselfinder.com/)
 
 ## <a name="shopping_prices_and_stores"></a>**Shopping, Prices & Stores**
 - [**CamelCamelCamel** - (*Prices tracker for an Amazon product*)](https://camelcamelcamel.com/)
