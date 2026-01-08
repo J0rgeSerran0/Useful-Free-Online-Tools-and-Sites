@@ -684,6 +684,7 @@ List of some useful free online tools and sites
 - [**WeTransfer** - (*Transfer files and share them with other users*)](https://wetransfer.com/)
 
 ## <a name="ships"></a>**Ships**
+- [**Marine Traffic** - (*Marine Traffice Map*)](https://www.marinetraffic.com/)
 - [**My Ship Tracking** - (*Tracking of ships via Automatic Identification System (AIS)*)](https://www.myshiptracking.com/)
 - [**VesselFinder** - (*Tracking of ships via Automatic Identification System (AIS)*)](https://www.vesselfinder.com/)
 
