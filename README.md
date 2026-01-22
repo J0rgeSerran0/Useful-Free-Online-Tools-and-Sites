@@ -778,15 +778,18 @@ List of some useful free online tools and sites
 - [**Windy** - (*Weather forecast visualization [for bikers, drones, fishermen, photographers,...]*)](https://www.windy.com/)
 
 ## <a name="web"></a>**Web**
+- [**Backlink Discovery Tool** - (*Analyze the backlinks behind your competitors’ rankings*)](https://app.neilpatel.com/en/seo_analyzer/backlinks)
 - [**Cached View** - (*The Google Cache Browser for any page on Internet*)](http://cachedview.com/)
 - [**Cached Views** - (*Cached view of any page on Internet through multiple cached sources*)](https://cachedviews.com/)
-- [**Backlink Discovery Tool** - (*Analyze the backlinks behind your competitors’ rankings*)](https://app.neilpatel.com/en/seo_analyzer/backlinks)
+- [**Cloudflare Radar - URL Scanner** - (*Understand the security, performance, technology, and network details of a URL with a publicly shareable report*)](https://radar.cloudflare.com/scan)
+- [**Cyber URL Scanner** - (*Advanced tool for analyzing website security*)](https://www.cyscan.io/)
 - [**Favicon Generator** - (*Create your favicons online*)](https://www.favicon.cc/)
 - [**Free Metatags Generator** - (*Wizard to copy & paste the meta tags into the HTML of the source of your index page*)](https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/)
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
 - [**Silex** - (*Free Website Builder*)](https://silex.me/)
-- [**Cloudflare Radar - URL Scanner** - (*Understand the security, performance, technology, and network details of a URL with a publicly shareable report*)](https://radar.cloudflare.com/scan)
+- [**Tiny Scan** - (*Effortlessly Dive into URL Details*)](https://www.tiny-scan.com/)
+- [**urlscan.io** - (*A sandbox for the web*)](https://urlscan.io/)
 - [**WayBackMachine** - (*Internet Screenshots - Web Pages Saved*)](http://web.archive.org/)
 
 ## <a name="webcams"></a>**Webcams**
