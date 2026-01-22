@@ -786,6 +786,7 @@ List of some useful free online tools and sites
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
 - [**Silex** - (*Free Website Builder*)](https://silex.me/)
+- [**Cloudflare Radar - URL Scanner** - (*Understand the security, performance, technology, and network details of a URL with a publicly shareable report*)](https://radar.cloudflare.com/scan)
 - [**WayBackMachine** - (*Internet Screenshots - Web Pages Saved*)](http://web.archive.org/)
 
 ## <a name="webcams"></a>**Webcams**
