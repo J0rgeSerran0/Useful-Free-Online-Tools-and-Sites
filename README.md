@@ -482,6 +482,7 @@ List of some useful free online tools and sites
 - [**Infinite Drum Machine** - (*Create infinite drums with thousands of sounds*)](https://experiments.withgoogle.com/ai/drum-machine/view/)
 - [**Jukeblocks** - (*Generate a Genre Project File for FL Studio, Ableton Live, Logic, Studio One,...*)](https://jukeblocks.io/)
 - [**Jukeblocks - Convert** - (*Convert a FL Studio project to Ableton Live*)](https://jukeblocks.io/convert/)
+- [**Key Detectpr** - (*Key and pitch detector*)](https://wutools.com/audio/key-detector)
 - [**Kick Drum Generator** - (*Free Online Kick Drum Synth*)](https://muted.io/kick/)
 - [**Lil Beat Maker** - (*Simple Online Drum Machine*)](https://muted.io/lil-beat-maker/)
 - [**Lloyd's Online TR-808 Drum Machine** - (*Record and Export Your Beats to WAV and MIDI*)](https://lloydstellar.nl/808/)
