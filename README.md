@@ -304,6 +304,7 @@ List of some useful free online tools and sites
 - [**Canva** - (*Helps with visual design and document creation*)](https://www.canva.com/)
 - [**Coggle** - (*Make mind map documents that flow like your ideas*)](https://coggle.it/)
 - [**DB Diagram** - (*Draw Entity-Relationship Diagrams, Painlessly*)](https://dbdiagram.io/)
+- [**DrawDB** - (*Database design editor, data-modeler, and SQL generator*)](https://www.drawdb.app/)
 - [**Drawio** - (*Flowchart Maker & Online Diagram Software*)](https://app.diagrams.net/)
 - [**Excalidraw** - (*Whiteboard*)](https://excalidraw.com/)
 - [**FossFLOW** - (*Isometric Diagramming Tool*)](https://stan-smith.github.io/FossFLOW/)
