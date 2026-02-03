@@ -19,6 +19,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Bread%20and%20Baker-blue?style=for-the-badge)](#bread_and_baker)
 [![](https://img.shields.io/badge/Calculators%20&%20Converters-blue?style=for-the-badge)](#calculators_and_converters)
 [![](https://img.shields.io/badge/Charts-blue?style=for-the-badge)](#charts)
+[![](https://img.shields.io/badge/Climatology-blue?style=for-the-badge)](#climatology)
 [![](https://img.shields.io/badge/Cloud%20Computing-blue?style=for-the-badge)](#cloud_computing)
 [![](https://img.shields.io/badge/Colors-blue?style=for-the-badge)](#colors)
 [![](https://img.shields.io/badge/Cron-blue?style=for-the-badge)](#cron)
@@ -253,6 +254,9 @@ List of some useful free online tools and sites
 
 ## <a name="charts"></a>**Charts**
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
+
+## <a name="climatology"></a>**Climatology**
+- [**Embalses.net (Spain)** - (*Estados de los Embalses y Precipitaciones*)](https://www.embalses.net/)
 
 ## <a name="cloud_computing"></a>**Cloud Computing**
 - [**Azure Services** - (*Useful list of all the Azure Services*)](https://azureservices.io/)
