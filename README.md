@@ -349,6 +349,7 @@ List of some useful free online tools and sites
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
 - [**GPS Coordinates** - (*Tool used to find the latitude and longitude of your current location*)](https://gps-coordinates.org/)
 - [**LatLong.net** - (*Latitude and Longitude Finder*)](https://www.latlong.net/c/?lat=40.41693373295803&long=-3.703521294304679)
+- [**Map Coordinates** - (*Find maps coordinates and elevation easily*)](https://www.mapcoordinates.net/en)
 
 ## <a name="history"></a>**History**
 - [**Trajan Column Story** - (*Watch and listen to the story of the Column*)](https://colonnatraiana.cultura.gov.it/)
@@ -435,6 +436,7 @@ List of some useful free online tools and sites
 ## <a name="maps"></a>**Maps**
 - [**Google Earth** - (*3D Map*)](https://earth.google.com/web/)
 - [**Maps 3D - Editor** - (*3D Map Editor*)](https://maps3d.io/editor)
+- [**Maps To STL** - (*Create and download 3D printable STL models of any region on Earth*)](https://www.map2stl.com/)
 - [**MapChecking** - (*Crowd counting tool*)](https://www.mapchecking.com/)
 - [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
 
