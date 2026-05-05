@@ -247,6 +247,7 @@ List of some useful free online tools and sites
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
+- [**Knexio** - (*Free online tools & calculators — AI tools, business calculators, games, formatters, and guides*)](https://knexio.xyz)
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
