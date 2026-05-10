@@ -364,6 +364,7 @@ List of some useful free online tools and sites
 - [**HTML Formatter** - (*Formats a HTML string/file with your desired indentation level*)](https://www.freeformatter.com/html-formatter.html)
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
+- [**HTML to Text converter** - (*Convert HTML to plain text*)](https://htmltotext.com/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**All SVG Icons** - (*Search and download SVG Icons*)](https://allsvgicons.com/search/)
