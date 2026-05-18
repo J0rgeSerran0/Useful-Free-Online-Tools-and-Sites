@@ -38,6 +38,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Jobs-blue?style=for-the-badge)](#jobs)
 [![](https://img.shields.io/badge/Knowledge-blue?style=for-the-badge)](#knowledge)
 [![](https://img.shields.io/badge/Maps%20and%20GPS-blue?style=for-the-badge)](#maps_gps)
+[![](https://img.shields.io/badge/Markdown-blue?style=for-the-badge)](#markdown)
 [![](https://img.shields.io/badge/Maths-blue?style=for-the-badge)](#maths)
 [![](https://img.shields.io/badge/Miscelanea-blue?style=for-the-badge)](#miscelanea)
 [![](https://img.shields.io/badge/Musical%20Production-blue?style=for-the-badge)](#musical_production)
@@ -344,7 +345,6 @@ List of some useful free online tools and sites
 
 ## <a name="excel"></a>**Excel**
 - [**Excel Password Recovery Online** - (*Recovers a document open password to all versions of encrypted MS Office Excel files (.xls and .xlsx)*)](https://www.lostmypass.com/file-types/ms-excel/)
-- [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
 
 ## <a name="fonts"></a>**Fonts**
 - [**Bit Font Maker 2** - (*Design and create your own fonts*)](https://www.pentacom.jp/pentacom/bitfontmaker2/)
@@ -455,6 +455,12 @@ List of some useful free online tools and sites
 - [**MapChecking** - (*Crowd counting tool*)](https://www.mapchecking.com/)
 - [**OpenStreetMap** - (*Provides map data for thousands of websites, mobile apps, and hardware devices*)](https://www.openstreetmap.org/)
 - [**World Map Simple** - (*The simple world map is the quickest way to create your own custom world map*)](https://www.mapchart.net/world.html)
+
+## <a name="markdown"></a>**Markdown**
+- [**Markdown Emoji Markup** - (*Complete list of github markdown emoji markup*)](https://gist.github.com/rxaviers/7360908)
+- [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
+- [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
+- [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
 
 ## <a name="maps"></a>**Maths**
 - [**Desmos** - (*Graphs online*)](https://www.desmos.com/calculator)
@@ -626,8 +632,6 @@ List of some useful free online tools and sites
 - [**Lorem Ipsum Generator** - (*Generates Lorem Ipsum in paragraphs*)](https://www.appdevtools.com/lorem-ipsum-generator)
 - [**Lorem Ipsum Generator** - (*Generate unlimited random text using the best Lorem Ipsum tool on the web*)](https://fossbytes.com/tools/lorem-ipsum)
 - [**Lorem Picsum** - (*Generates Lorem Ipsum photos*)](https://picsum.photos/)
-- [**Markdown Emoji Markup** - (*Complete list of github markdown emoji markup*)](https://gist.github.com/rxaviers/7360908)
-- [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
 - [**MockApi** - (*The easiest way to mock REST APIs!*)](https://mockapi.io/)
 - [**Music for Programming** - (*Music to hear when we are programming*)](https://musicforprogramming.net/latest/)
 - [**ngrok** - (*Programmable network edge that adds connectivity, security, and observability to your apps with no code changes*)](https://ngrok.com/)
@@ -676,7 +680,6 @@ List of some useful free online tools and sites
 - [**Programiz C# Online Compiler** - (*Online C# Compiler (Editor)*)](https://www.programiz.com/csharp-programming/online-compiler/)
 - [**replit** - (*Online Editor & Compiler for Python, Node.js, C, Java, C++, Ruby, Go, Rust, C#, F#, R, Elixir, Dart, and more*)](https://replit.com/languages)
 - [**SharpLab (C#)** - (*Online Editor & Compiler for C#*)](https://sharplab.io/)
-- [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
 - [**The Go Playground (Go)** - (*Online Editor & Compiler for Go*)](https://play.golang.org/)
 
 ## <a name="public_transport"></a>**Public Transport**
