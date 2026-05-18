@@ -363,8 +363,8 @@ List of some useful free online tools and sites
 - [**Grid Playground** - (*Create grid layouts and copy ready-to-implement CSS grid code*)](https://daviddossett.github.io/grid-playground/) [`source code`](https://github.com/daviddossett/grid-playground)
 - [**HTML Formatter** - (*Formats a HTML string/file with your desired indentation level*)](https://www.freeformatter.com/html-formatter.html)
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
-- [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 - [**HTML to Text converter** - (*Convert HTML to plain text*)](https://htmltotext.com/)
+- [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**All SVG Icons** - (*Search and download SVG Icons*)](https://allsvgicons.com/search/)
@@ -856,6 +856,7 @@ Thanks to:
 - [Dharma Tamang](https://github.com/dharma0009)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
 - [Jose María Estrade](https://github.com/josemalive)
+- [kadefun](https://github.com/kadefun)
 - [Losang](https://github.com/nineinch99)
 - [Patrick Lurch](https://github.com/plurch)
 - [rd0-x](https://github.com/rd0-x)
