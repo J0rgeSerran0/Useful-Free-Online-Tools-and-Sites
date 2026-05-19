@@ -805,6 +805,7 @@ List of some useful free online tools and sites
 - [**GitHub Contributions in 3D, VR and IRL** - (*User contributions in 3D. Change the username and year with yours*)](https://skyline.github.com/J0rgeSerran0/2022)
 
 ## <a name="vehicles"></a>**Vehicles**
+- [**Car Recalls** - (*EU - Weekly updated Car Recalls database*)](https://car-recalls.eu/)
 - [**NHTSA** - (*US - Check for Recalls*)](https://www.nhtsa.gov/recalls)
 
 ## <a name="videos"></a>**Videos**
