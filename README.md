@@ -251,6 +251,8 @@ List of some useful free online tools and sites
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
 - [**Knexio** - (*Free online tools & calculators — AI tools, business calculators, games, formatters, and guides*)](https://knexio.xyz)
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
+- [**Mac Cable Bandwidth Calculator** - (*Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac*)](https://retinadesk.com/tools/cable-bandwidth-calculator/)
+- [**Mac PPI Calculator & Retina Checker** - (*Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview*)](https://retinadesk.com/tools/ppi-calculator/)
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
@@ -570,6 +572,7 @@ List of some useful free online tools and sites
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
 
 ## <a name="os"></a>**OS (Operating System)**
+- [**Mac External Display Support** - (*Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac*)](https://retinadesk.com/tools/external-display-support/)
 - [**UUP Dump** - (*Download UUP files from Windows Update servers with ease*)](https://uupdump.net/)
 
 ## <a name="painting"></a>**Painting**
