@@ -840,6 +840,7 @@ List of some useful free online tools and sites
 - [**Cloudflare Radar - URL Scanner** - (*Understand the security, performance, technology, and network details of a URL with a publicly shareable report*)](https://radar.cloudflare.com/scan)
 - [**Cyber URL Scanner** - (*Advanced tool for analyzing website security*)](https://www.cyscan.io/)
 - [**Favicon Generator** - (*Create your favicons online*)](https://www.favicon.cc/)
+- [**Free Browser Tools Collection** - (*Process PDFs, images, and data entirely in your browser. No upload. No server. No tracking.*)](https://xueboyang1985.github.io/free-browser-tools/)
 - [**Free Metatags Generator** - (*Wizard to copy & paste the meta tags into the HTML of the source of your index page*)](https://www.metatags.org/seo-tips/why-use-meta-tags/metatags-generator/)
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
@@ -885,6 +886,7 @@ Thanks to:
 - [tzhkai](https://github.com/tzhkai)
 - [watchdb](https://github.com/watchdb)
 - [webjser](https://github.com/webjser)
+- [xueboyang1985](https://github.com/xueboyang1985)
 - [zhenglev](https://github.com/zhenglev)
 
 <details>
