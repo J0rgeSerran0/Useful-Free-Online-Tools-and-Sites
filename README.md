@@ -510,6 +510,7 @@ List of some useful free online tools and sites
 - [**Chrome Music Lab - Song Maker** - (*To make a song, add notes by clicking the grid*)](https://musiclab.chromeexperiments.com/Song-Maker/)
 - [**Daily Training** - (*Games to start your ear training session*)](https://www.soundgym.co/dashboard/gym)
 - [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
+- [**Sound Decibel Meter Online** - (*Use this sound decibel meter online for quick ambient sound checks in your browser*)](https://sounddecibelmeter.net/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
 - [**EQ Frequency Chart & Cheat Sheet** - (*Find problem frequencies. Fix your mix*)](https://danmurtagh.com/eq-frequency-chart/)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
@@ -884,6 +885,7 @@ Thanks to:
 - [tzhkai](https://github.com/tzhkai)
 - [watchdb](https://github.com/watchdb)
 - [webjser](https://github.com/webjser)
+- [zhenglev](https://github.com/zhenglev)
 
 <details>
  
