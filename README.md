@@ -379,6 +379,7 @@ List of some useful free online tools and sites
 - [**IconFinder** - (*Big library of free icons (with some payment icons too)*)](https://www.iconfinder.com/)
 - [**Iconly - SVG from Icon Font** - (*Extract SVG Icons from Icon Font*)](https://iconly.io/tools/font-to-icons-converter)
 - [**Iconofy** - (*Open Source Icons*)](https://icon-sets.iconify.design/)
+- [**Icons0** - (*The fastest icon search - for you and your AI agent*)](https://icons0.dev/)
 - [**Icons8** - (*Free icons, illustrations, photos, music, and design tools*)](https://icons8.com/)
 - [**Iconshock** - (*Free icons*)](https://www.iconshock.com/freeicons/)
 - [**Noun Project** - (*Icons and Photos for Everything*)](https://thenounproject.com/)
