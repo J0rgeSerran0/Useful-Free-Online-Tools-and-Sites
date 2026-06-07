@@ -660,6 +660,7 @@ List of some useful free online tools and sites
 - [**Text to Title Case** - (*Text to Title Case Online Converter*)](https://textedit.tools/titlecase)
 - [**Text to Upper case** - (*Text to Uppercase Online Converter*)](https://textedit.tools/uppercase)
 - [**Text to Sentence case** - (*Sentence Case Converter Online*)](https://titlecapitalize.com/sentence-case/)
+- [**ToolBox** - (*170+ free browser-based developer tools [JSON formatter, diff checker, regex tester, hash/UUID generators, image compressor]. No signup; client-side*)](https://www.toolbox-kit.com)
 - [**UNIX Timestamp Converter** - (*Converts between Epoch/UNIX timestamps and datetimes*)](https://www.appdevtools.com/unix-timestamp-converter)
 - [**URL Parser & Query String Splitter** - (*Pase a URL into smaller components*)](https://www.appdevtools.com/url-parser-query-string-splitter)
 - [**YAML Validator** - (*Validates a YAML file*)](https://www.appdevtools.com/yaml-validator)
