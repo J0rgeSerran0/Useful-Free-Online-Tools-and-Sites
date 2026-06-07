@@ -404,6 +404,7 @@ List of some useful free online tools and sites
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
+- [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image Compressor** - (*Compress images online without quality loss, runs entirely in the browser*)](https://nocodevista.com/tools/image-compressor)
@@ -423,7 +424,6 @@ List of some useful free online tools and sites
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
 - [**WEBp to PNG** -(*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
-- [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
 
 ## <a name="json"></a>**JSON**
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
@@ -875,6 +875,7 @@ Thanks to:
 - [Stevesmit](https://github.com/stevesmit)
 - [tzhkai](https://github.com/tzhkai)
 - [watchdb](https://github.com/watchdb)
+- [webjser](https://github.com/webjser)
 
 <details>
  
