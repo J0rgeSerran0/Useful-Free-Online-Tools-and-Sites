@@ -339,7 +339,6 @@ List of some useful free online tools and sites
 - [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
-- [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
 
 ## <a name="email"></a>**Email**
@@ -426,7 +425,6 @@ List of some useful free online tools and sites
 - [**Remove Background** - (*Remove the background of an image*)](https://www.remove.bg/es)
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
-- [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
 - [**WEBp to PNG** -(*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
 
@@ -870,6 +868,7 @@ Thanks to:
 - [ccascio](https://github.com/ccascio)
 - [chengxing](https://github.com/aichengcc)
 - [Dharma Tamang](https://github.com/dharma0009)
+- [Dongzihang](https://github.com/2645149786-dotcom)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
 - [Johin](https://github.com/Johin2)
 - [Jose María Estrade](https://github.com/josemalive)
