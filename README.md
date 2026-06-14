@@ -246,6 +246,7 @@ List of some useful free online tools and sites
 - [**Easy Calculation** - (*Free Calculators and Converters*)](https://www.easycalculation.com/)
 - [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
 - [**Eon Tools** - (*Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.*)](https://eontools.com/)
+- [**ToolsNova**](https://toolsnova.net) - (*100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup, 100% client-side*)(https://toolsnova.net)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
