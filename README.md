@@ -603,6 +603,7 @@ List of some useful free online tools and sites
 
 ## <a name="programmer_utilities"></a>**Programmer Utilities**
 - [**.NET Development Tools** - (*GUID Generator, Hash Generator & Machine Key Generator*)](https://martincostello.com/tools/)
+- [**APK Extractor** - (*Decompile APK and XAPK Files*)](https://apkextractor.net/)
 - [**ASCII, Hex, Binary, Decimal, Base64 Converter** - (*Multiple converter at the same time*)](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 - [**Ascii to Binary Converter** - (*Ascii text to binary converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-binary-converter)
 - [**Ascii to Decimal Converter** - (*Ascii text to decimal converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-decimal-converter)
