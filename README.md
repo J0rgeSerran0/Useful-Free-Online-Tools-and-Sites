@@ -622,6 +622,7 @@ List of some useful free online tools and sites
 - [**Decimal to Binary Converter** - (*Decimal to binary converter tool*)](https://www.binaryhexconverter.com/decimal-to-binary-converter)
 - [**Decimal to Hexadecimal Converter** - (*Decimal to hex converter tool*)](https://www.binaryhexconverter.com/decimal-to-hex-converter)
 - [**Decimal to Octal Converter** - (*Decimal to octal converter*)](https://www.binaryhexconverter.com/decimal-to-octal-converter)
+- [**Decompiler** - (*Java Decompiler Online - APK Decompiler*)](https://www.decompiler.com/)
 - [**Diff Checker** - (*Compares to find the differences between two texts*)](https://www.appdevtools.com/diff-checker)
 - [**Extract URLs from Text** - (*Extracts links and URLs from a text string online*)](https://titlecapitalize.com/extract-urls/)
 - [**FastTool** - (*800+ browser-based utilities for JSON, regex, color, image, PDF, SEO, and more*)](https://fasttool.app)
