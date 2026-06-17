@@ -337,6 +337,7 @@ List of some useful free online tools and sites
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
 - [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
+- [**PDF Toolbox** - (*Privacy-first browser-based PDF toolkit — compress, merge, split, convert, encrypt & decrypt PDFs. All processing done locally via WebAssembly, no file uploads*)](https://pdftoolbox.tech)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
