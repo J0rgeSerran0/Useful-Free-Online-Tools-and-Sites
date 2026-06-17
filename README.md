@@ -600,6 +600,7 @@ List of some useful free online tools and sites
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
 - [**Notion** - (*All-in-one workspace*)](https://www.notion.so/)
 - [**Pomodoro Tracker** - (*Online Pomodoro Tool*)](https://pomodoro-tracker.com/)
+- [**Xianyu Netdisk Delivery Checker** - (*Free browser-side checklist for Xianyu digital-product sellers before sending netdisk links; generates buyer instructions, after-sales boundaries, and order-record CSV*)](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/) - [Source Code](https://github.com/Ronnie2025/xianyu-netdisk-delivery-checker)
 
 ## <a name="programmer_utilities"></a>**Programmer Utilities**
 - [**.NET Development Tools** - (*GUID Generator, Hash Generator & Machine Key Generator*)](https://martincostello.com/tools/)
