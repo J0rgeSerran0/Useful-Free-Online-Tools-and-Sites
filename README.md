@@ -140,7 +140,7 @@ List of some useful free online tools and sites
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
 - [**Napkin** - (*The visual AI for business storytelling*)](https://www.napkin.ai/)
-- [**One More Shot AI** - (*AI Music Video Generator*)](https://www.napkin.ai/)
+- [**One More Shot AI** - (*AI Music Video Generator*)](https://www.onemoreshot.ai)
 - [**OpenAI Tokenizer** - (*OpenAI Text Using Tokens*)](https://platform.openai.com/tokenizer)
 - [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
 - [**Perplexity** - (*AI Search Tool*)](https://www.perplexity.ai/)
