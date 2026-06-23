@@ -427,6 +427,7 @@ List of some useful free online tools and sites
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
+- [**Utilytic** - (*Strip metadata and GPS location from photos*)](https://utilytic.com/tools/remove-exif)
 - [**WEBp to PNG** -(*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
 
 ## <a name="json"></a>**JSON**
