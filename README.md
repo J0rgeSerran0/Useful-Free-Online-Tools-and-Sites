@@ -256,6 +256,8 @@ List of some useful free online tools and sites
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
+- [**RAID / ZFS / unRAID Storage Calculator** - (*Usable capacity, fault tolerance, and cost per TB across RAID, ZFS, and unRAID*)](https://dalil-tech.com/raid-calculator)
+- [**Self-Hosting vs SaaS Cost Calculator** - (*Compares the real cost of self-hosting against a SaaS subscription over time*)](https://dalil-tech.com/self-hosting-cost-calculator)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
 - [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
@@ -571,6 +573,7 @@ List of some useful free online tools and sites
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
 - [**Speed Test** - (*Test the speed and performance of your internet connection*)](https://www.speedtest.net/)
 - [**SSL Server Test** - (*Deep analysis of the configuration of any SSL web server on the public Internet*)](https://www.ssllabs.com/ssltest/analyze.html)
+- [**Subnet Calculator (IPv4 and IPv6)** - (*CIDR, subnet masks, host ranges, and subnet splitting*)](https://dalil-tech.com/subnet-calculator)
 - [**What is my IP Address?** - (*Your IP information*)](https://whatismyipaddress.com/)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
 
