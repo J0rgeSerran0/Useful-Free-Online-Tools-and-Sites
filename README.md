@@ -232,6 +232,7 @@ List of some useful free online tools and sites
 - [**Simple Sourdough Calculator** - (*A calculator for the Home Baker using Baker's Math. No more mental math in the kitchen.*)](https://sourdoughcalculator.info/)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
+- [**Acalcia** - (*Free no-signup money & tax calculators for freelancers, online sellers, and creators — self-employment & quarterly tax, marketplace/payment fees, pricing/margin, and a PDF invoice generator. 100% in-browser*)](https://acalcia.com)
 - [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
 - [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
