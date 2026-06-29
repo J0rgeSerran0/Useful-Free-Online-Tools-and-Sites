@@ -413,6 +413,7 @@ List of some useful free online tools and sites
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image Compressor** - (*Compress images online without quality loss, runs entirely in the browser*)](https://nocodevista.com/tools/image-compressor)
 - [**Image Generator** - (*Create images of any size*)](https://slothman.dev/image-generator/)
+- [**Image Machine** - (*120+ in-browser image tools — convert, compress, resize, crop & edit, with no uploads and no signup*)](https://imagemachinery.net)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
 - [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
