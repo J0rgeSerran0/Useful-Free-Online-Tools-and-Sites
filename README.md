@@ -464,6 +464,7 @@ List of some useful free online tools and sites
 
 ## <a name="markdown"></a>**Markdown**
 - [**Markdown Emoji Markup** - (*Complete list of github markdown emoji markup*)](https://gist.github.com/rxaviers/7360908)
+- [**Markdown Free** - (_Convert Markdown to PDF, Word, EPUB, HTML and TXT in your browser — no signup, no watermark, files never stored_)](https://www.markdown.free)
 - [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
 - [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
 - [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
