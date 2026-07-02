@@ -169,6 +169,7 @@ List of some useful free online tools and sites
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
 - [**API Directory** - (*Search the Largest API Directory on the Web*)](https://www.programmableweb.com/category/all/apis)
+- [**JustInBrowser API Tester** - (*Test REST and HTTP APIs in your browser with headers, auth, code export, and cURL import. No signup*)](https://www.justinbrowser.com/tools/api-tester)
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
 - [**REQBIN** - (*Online REST & SOAP API Testing Tool*)](https://reqbin.com/)
 
@@ -298,12 +299,14 @@ List of some useful free online tools and sites
 - [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 - [**HTML Colors Picker** - (*HTML Color Picker*)](https://www.w3schools.com/colors/colors_picker.asp)
+- [**JustInBrowser Color and Gradient Converter** - (*Convert between HEX, RGB, and HSL and build CSS gradients with a visual editor*)](https://www.justinbrowser.com/tools/color-gradient-converter)
 - [**RGB to HEX** - (*RGB to HEX Color Converter*)](https://www.rgbtohex.net/)
 - [**US Brand Colors** - (*Brand Colors and Palettes*)](https://usbrandcolors.com/)
 
 ## <a name="cron"></a>**Cron**
 - [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
 - [**Cron Schedule Tool** - (*Quick and simple editor for cron schedule expressions*)](https://crontab.guru/)
+- [**JustInBrowser Cron Generator** - (*Build and decode cron expressions with a plain-English description and presets*)](https://www.justinbrowser.com/tools/cron-generator)
 - [**NContrab Expression Tester** - (*crontab parsing, formatting and DateTime calculation*)](https://ncrontab.swimburger.net/)
 
 ## <a name="data"></a>**Data**
@@ -369,6 +372,7 @@ List of some useful free online tools and sites
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
 - [**HTML to Text converter** - (*Convert HTML to plain text*)](https://htmltotext.com/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
+- [**JustInBrowser Layout Builder** - (*Draw layouts and export JSX with Tailwind or HTML with CSS*)](https://www.justinbrowser.com/tools/layout-builder)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**All SVG Icons** - (*Search and download SVG Icons*)](https://allsvgicons.com/search/)
@@ -416,6 +420,8 @@ List of some useful free online tools and sites
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
 - [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
+- [**JustInBrowser Favicon Generator** - (*Generate a multi-size favicon.ico from any PNG in the browser*)](https://www.justinbrowser.com/tools/favicon-generator)
+- [**JustInBrowser Image Annotator** - (*Annotate screenshots with arrows, text, numbered steps, and blur or pixelate redaction*)](https://www.justinbrowser.com/tools/image-annotator)
 - [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Pixabay Images** - (*Royalty free Images and Royalty-Free stock*)](https://pixabay.com/)
@@ -437,6 +443,8 @@ List of some useful free online tools and sites
 - [**JSON Minifier** - (*Minify your JSON data online to reduce file size*)](https://99tools.net/json-minifier/)
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
+- [**JustInBrowser JS to JSON** - (*Convert JavaScript objects into strict, valid JSON in the browser*)](https://www.justinbrowser.com/tools/convert-javascript-to-json)
+- [**JustInBrowser JSON Viewer** - (*Format, validate, and explore JSON with a collapsible tree, entirely client-side*)](https://www.justinbrowser.com/tools/json-viewer)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 - [**JSON Web Token Decoder** - (*Decode a JSON Web Token with different algorithms*)](https://jwt.io/)
 
@@ -627,6 +635,7 @@ List of some useful free online tools and sites
 - [**Diff Checker** - (*Compares to find the differences between two texts*)](https://www.appdevtools.com/diff-checker)
 - [**Extract URLs from Text** - (*Extracts links and URLs from a text string online*)](https://titlecapitalize.com/extract-urls/)
 - [**FastTool** - (*800+ browser-based utilities for JSON, regex, color, image, PDF, SEO, and more*)](https://fasttool.app)
+- [**JustInBrowser Regex Tester** - (*Test JavaScript regular expressions with live match highlighting and common patterns*)](https://www.justinbrowser.com/tools/regex-tester)
 - [**GUID generator and GUID validator** - (*Random GUID generator*)](https://slothman.dev/guid-generator/)
 - [**Hash Generator** - (*Tool to generate a hash value of a string supporting a lot of algorithms*)](https://www.appdevtools.com/hash-generator)
 - [**Hex to Decimal Converter** - (*Converts Hexadecimal to Binary*)](https://www.easycalculation.com/hex-converter.php)
@@ -702,6 +711,7 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
 - [**QR.io** - (*Generate QR Codes in different formats*)](https://qr.io/)
+- [**JustInBrowser QR Code Generator** - (*Generate QR codes and barcodes with high-resolution downloads*)](https://www.justinbrowser.com/tools/qr-barcode-generator)
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="radio_and_tv"></a>**Radio & TV**
@@ -795,6 +805,7 @@ List of some useful free online tools and sites
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 - [**Text to Image** - (*Convert Text into Image in seconds*)](https://textintoimages.com/)
 - [**Word Counter** - (*Count the number of words, characters, sentences, and paragraphs in your text in one click*)](https://tools.word-counter.com/)
+- [**JustInBrowser Text Analyzer** - (*Word count, reading time, and keyword-density analysis, client-side*)](https://www.justinbrowser.com/tools/text-analyzer)
 
 ## <a name="technology"></a>**Technology**
 - [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
