@@ -237,6 +237,7 @@ List of some useful free online tools and sites
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**Audiobook Speed Calculator** - (*Free online tool to calculate audiobook listening time and playback speed*)](https://audiobookspeedcalculator.co/)
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
+- [**Concrete Calculator Hub** - (*Free concrete calculators for slabs, footings, columns, and bags with cost estimates*)](https://concreteestimatorhub.com/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
 - [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
