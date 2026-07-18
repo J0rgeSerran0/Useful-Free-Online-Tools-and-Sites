@@ -349,6 +349,7 @@ List of some useful free online tools and sites
 
 ## <a name="excel"></a>**Excel**
 - [**Excel Password Recovery Online** - (*Recovers a document open password to all versions of encrypted MS Office Excel files (.xls and .xlsx)*)](https://www.lostmypass.com/file-types/ms-excel/)
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - (Convert XLSX, XLS, and CSV files to Markdown tables locally in the browser; no account or file upload required)
 
 ## <a name="fonts"></a>**Fonts**
 - [**Bit Font Maker 2** - (*Design and create your own fonts*)](https://www.pentacom.jp/pentacom/bitfontmaker2/)
