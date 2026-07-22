@@ -345,6 +345,7 @@ List of some useful free online tools and sites
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
 - [**EmailTemp** - (*Your Temp Email Address*)](https://emailtemp.org/)
 - [**Guerrilla Mail** - (*Temporary Email*)](https://www.guerrillamail.com/)
+- [**Temp Mail 24** - (*Free browser-based receive-only temporary inbox; no account required*)](https://temp-mail24.com/)
 - [**TempMail** - (*Create a temporary email address*)](https://temp-mail.org/en)
 
 ## <a name="excel"></a>**Excel**
