@@ -405,6 +405,7 @@ List of some useful free online tools and sites
 - [**Background Remover** - (*Remove image backgrounds instantly in the browser, no signup required*)](https://nocodevista.com/tools/image-background-remover)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
+- [**Convert Image Free** - (*Convert JPG, PNG, WebP, AVIF, HEIC and ICO images in your browser, files never leave your device*)](https://convertimagefree.com/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
