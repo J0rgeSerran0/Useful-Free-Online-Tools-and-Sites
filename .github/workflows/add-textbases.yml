@@ -1,0 +1,46 @@
+name: Add TextBases listing
+
+on:
+  push:
+    branches:
+      - add-textbases
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-textbases
+          fetch-depth: 0
+
+      - name: Add TextBases alphabetically
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          anchor = '- [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)\n'
+          addition = '- [**TextBases** - (*Free browser-based text and developer tools with no signup*)](https://textbases.app/)\n'
+
+          if addition in text:
+              raise SystemExit('TextBases already present')
+          if anchor not in text:
+              raise SystemExit('Expected alphabetical anchor not found')
+
+          path.write_text(text.replace(anchor, anchor + addition, 1), encoding='utf-8')
+          PY
+
+      - name: Commit clean README-only result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/add-textbases.yml
+          git add README.md
+          git commit -m "Add TextBases to Strings and Texts"
+          git push origin HEAD:add-textbases
