@@ -830,6 +830,7 @@ List of some useful free online tools and sites
 - [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
+- [**Video Size Reducer** - (*Compress MP4 videos to a target file size, entirely in your browser*)](https://videosizereducer.org/)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
 
 ## <a name="weather"></a>**Weather**
