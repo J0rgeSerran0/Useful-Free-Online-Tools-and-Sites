@@ -902,6 +902,7 @@ Thanks to:
 - [Coder Avi Verma](https://github.com/coderaviverma)
 - [Dharma Tamang](https://github.com/dharma0009)
 - [Dongzihang](https://github.com/2645149786-dotcom)
+- [Eylon Eliyahu Krause](https://github.com/EylonKrause)
 - [farhan707](https://github.com/farhan707)
 - [Gürkan Kılıç](https://github.com/gurkankilic)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
