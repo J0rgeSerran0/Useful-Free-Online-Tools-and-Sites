@@ -140,11 +140,13 @@ List of some useful free online tools and sites
 - [**MusicLM** - (*Model generating high-fidelity music from text descriptions*)](https://musiclm-ai.com/)
 - [**MusicLM (Samples)** - (*Samples about MusicLM*)](https://google-research.github.io/seanet/musiclm/examples/)
 - [**Napkin** - (*The visual AI for business storytelling*)](https://www.napkin.ai/)
+- [**One More Shot AI** - (*AI Music Video Generator*)](https://www.onemoreshot.ai)
 - [**OpenAI Tokenizer** - (*OpenAI Text Using Tokens*)](https://platform.openai.com/tokenizer)
 - [**Perchance** - (*AI Photo Generator*)](https://perchance.org/ai-photo-generator)
 - [**Perplexity** - (*AI Search Tool*)](https://www.perplexity.ai/)
 - [**PopPop AI** - (*Free Online AI Vocal Remover & Isolator*)](https://poppop.ai/ai-vocal-remover)
 - [**Pikaso** - (*Start creating and editing images*)](https://www.freepik.com/pikaso)
+- [**Roblox GUI Maker** - (*Generate Roblox Studio GUI layouts and Lua starter code with AI*)](https://robloxguimaker.dev/)
 - [**Runway GEN-3** - (*Create videos in any style you can imagine with Text to Video generation*)](https://runwayml.com/ai-tools/gen-3-alpha/)
 - [**Sesame** - (*Conversational voice presence*)](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo)
 - [**SoundDraw** - (*AI Music Generator for Creators*)](https://soundraw.io/)
@@ -169,6 +171,7 @@ List of some useful free online tools and sites
 ## <a name="apis"></a>**APIs**
 - [**Any API** - (*Over 1400 Public APIs*)](https://any-api.com/)
 - [**API Directory** - (*Search the Largest API Directory on the Web*)](https://www.programmableweb.com/category/all/apis)
+- [**JustInBrowser API Tester** - (*Test REST and HTTP APIs in your browser with headers, auth, code export, and cURL import. No signup*)](https://www.justinbrowser.com/tools/api-tester)
 - [**Postman Web** - (*Postman Web*)](https://web.postman.co/home#)
 - [**REQBIN** - (*Online REST & SOAP API Testing Tool*)](https://reqbin.com/)
 
@@ -232,11 +235,13 @@ List of some useful free online tools and sites
 - [**Simple Sourdough Calculator** - (*A calculator for the Home Baker using Baker's Math. No more mental math in the kitchen.*)](https://sourdoughcalculator.info/)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
+- [**Acalcia** - (*Free no-signup money & tax calculators for freelancers, online sellers, and creators — self-employment & quarterly tax, marketplace/payment fees, pricing/margin, and a PDF invoice generator. 100% in-browser*)](https://acalcia.com)
 - [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
 - [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**Audiobook Speed Calculator** - (*Free online tool to calculate audiobook listening time and playback speed*)](https://audiobookspeedcalculator.co/)
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
+- [**Concrete Calculator Hub** - (*Free concrete calculators for slabs, footings, columns, and bags with cost estimates*)](https://concreteestimatorhub.com/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
 - [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
@@ -253,15 +258,20 @@ List of some useful free online tools and sites
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
 - [**Mac Cable Bandwidth Calculator** - (*Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac*)](https://retinadesk.com/tools/cable-bandwidth-calculator/)
 - [**Mac PPI Calculator & Retina Checker** - (*Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview*)](https://retinadesk.com/tools/ppi-calculator/)
+- [**Mini Tools** - (*Free multilingual tools including UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, image hosting with Markdown links, PDF tools, and developer utilities*)](https://mini-tools.uk)
 - [**Morse Code Translator** - (*Translate Morse code from text, images, audio, and light, with support for multiple languages*)](https://www.themorselab.com/)
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
+- [**RAID / ZFS / unRAID Storage Calculator** - (*Usable capacity, fault tolerance, and cost per TB across RAID, ZFS, and unRAID*)](https://dalil-tech.com/raid-calculator)
+- [**Self-Hosting vs SaaS Cost Calculator** - (*Compares the real cost of self-hosting against a SaaS subscription over time*)](https://dalil-tech.com/self-hosting-cost-calculator)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
 - [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
+- [**ToolsNova** - (*100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup, 100% client-side*)](https://toolsnova.net)
 - [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
+- [**UtilGears** - (*100+ free, privacy-first calculators, converters and text/developer tools — no signup, runs in your browser*)](https://utilgears.com)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 
@@ -299,12 +309,14 @@ List of some useful free online tools and sites
 - [**Gradient Maker** - (*Create a Gradient Online and Copy CSS or Download PNG*)](https://colorkit.co/gradient-maker/)
 - [**HTML Colors** - (*HTML Color Chart*)](https://html-color-codes.info/)
 - [**HTML Colors Picker** - (*HTML Color Picker*)](https://www.w3schools.com/colors/colors_picker.asp)
+- [**JustInBrowser Color and Gradient Converter** - (*Convert between HEX, RGB, and HSL and build CSS gradients with a visual editor*)](https://www.justinbrowser.com/tools/color-gradient-converter)
 - [**RGB to HEX** - (*RGB to HEX Color Converter*)](https://www.rgbtohex.net/)
 - [**US Brand Colors** - (*Brand Colors and Palettes*)](https://usbrandcolors.com/)
 
 ## <a name="cron"></a>**Cron**
 - [**Cron Expression Descriptor** - (*Describes Cron expressions as human readable text*)](https://bradymholt.github.io/cron-expression-descriptor/)
 - [**Cron Schedule Tool** - (*Quick and simple editor for cron schedule expressions*)](https://crontab.guru/)
+- [**JustInBrowser Cron Generator** - (*Build and decode cron expressions with a plain-English description and presets*)](https://www.justinbrowser.com/tools/cron-generator)
 - [**NContrab Expression Tester** - (*crontab parsing, formatting and DateTime calculation*)](https://ncrontab.swimburger.net/)
 
 ## <a name="data"></a>**Data**
@@ -334,10 +346,12 @@ List of some useful free online tools and sites
 - [**Convertio** - (*Converts EPUB to PDF*)](https://convertio.co/es/epub-pdf/)
 - [**Delete PDF Pages** - (*Delete pages from a PDF file*)](https://www.convertidor.mx/herramientas/quitar-paginas-de-pdf.html)
 - [**Extract PDF Pages** - (*Extract certain pages from a pdf file*)](https://www.convertidor.mx/herramientas/extraer-paginas-de-pdf.html)
+- [**FillSign** - (*Fill out and sign PDF forms entirely in your browser — 100% client-side, no upload, no signup*)](https://fillsign.app)
 - [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader** - (*Download the documents that you can find at Issuu*)](https://www.issuudownloader.online/)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
 - [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
+- [**PDF Toolbox** - (*Privacy-first browser-based PDF toolkit — compress, merge, split, convert, encrypt & decrypt PDFs. All processing done locally via WebAssembly, no file uploads*)](https://pdftoolbox.tech)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
@@ -346,10 +360,12 @@ List of some useful free online tools and sites
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
 - [**EmailTemp** - (*Your Temp Email Address*)](https://emailtemp.org/)
 - [**Guerrilla Mail** - (*Temporary Email*)](https://www.guerrillamail.com/)
+- [**Temp Mail 24** - (*Free browser-based receive-only temporary inbox; no account required*)](https://temp-mail24.com/)
 - [**TempMail** - (*Create a temporary email address*)](https://temp-mail.org/en)
 
 ## <a name="excel"></a>**Excel**
 - [**Excel Password Recovery Online** - (*Recovers a document open password to all versions of encrypted MS Office Excel files (.xls and .xlsx)*)](https://www.lostmypass.com/file-types/ms-excel/)
+- [**Excel to Markdown** - (*Convert XLSX, XLS, and CSV files to Markdown tables locally in the browser; no account or file upload required*)](https://exceltomd.com/excel-to-markdown)
 
 ## <a name="fonts"></a>**Fonts**
 - [**Bit Font Maker 2** - (*Design and create your own fonts*)](https://www.pentacom.jp/pentacom/bitfontmaker2/)
@@ -370,6 +386,7 @@ List of some useful free online tools and sites
 - [**HTML Online Viewer** - (*HTML Online Viewer*)](https://html.onlineviewer.net/)
 - [**HTML to Text converter** - (*Convert HTML to plain text*)](https://htmltotext.com/)
 - [**HTML5 Editor (HTML)** - (*Bidirectional editor for HTML web pages*)](https://html5-editor.net/)
+- [**JustInBrowser Layout Builder** - (*Draw layouts and export JSX with Tailwind or HTML with CSS*)](https://www.justinbrowser.com/tools/layout-builder)
 
 ## <a name="icons_and_logos"></a>**Icons & Logos**
 - [**All SVG Icons** - (*Search and download SVG Icons*)](https://allsvgicons.com/search/)
@@ -406,6 +423,18 @@ List of some useful free online tools and sites
 - [**Background Remover** - (*Remove image backgrounds instantly in the browser, no signup required*)](https://nocodevista.com/tools/image-background-remover)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
+- [**BulkPicTools - Blur Faces in Photos** - (*AI auto-detects and blurs faces in batch — pixelate or cover, all locally in browser, no upload*)](https://bulkpictools.com/tools/edit/blur-faces)
+- [**BulkPicTools - Bulk Image Compressor** - (*Compress unlimited JPG, PNG, WebP images at once, reduce file size by 80–90% locally without quality loss*)](https://bulkpictools.com/tools/compress/image-compressor)
+- [**BulkPicTools - Bulk Image Converter** - (*Convert HEIC, WebP, PNG, JPG, AVIF in bulk locally — no upload, no file limit, works offline*)](https://bulkpictools.com/tools/convert/image-converter)
+- [**BulkPicTools - Compress Image to 100KB** - (*Compress any photo to under 100KB instantly for IRCTC, Aadhaar, visa and government portals, no upload*)](https://bulkpictools.com/tools/compress/compress-to-100kb)
+- [**BulkPicTools - GIF Compressor** - (*Reduce GIF file size by up to 80% locally, optimized for Discord, Twitch, Slack — no watermark, no upload*)](https://bulkpictools.com/tools/gif/gif-compressor)
+- [**BulkPicTools - HEIC to JPG Converter** - (*Batch convert iPhone HEIC photos to JPG locally — unlimited files, no upload, 100% private*)](https://bulkpictools.com/tools/convert/heic-to-jpg)
+- [**BulkPicTools - Merge Images** - (*Merge JPG, PNG, WebP files side by side, vertically, or in a grid — free, no upload, no limit*)](https://bulkpictools.com/tools/edit/merge-images)
+- [**BulkPicTools - Online GIF Editor & Maker** - (*Create or edit GIFs from images and videos locally — reverse, crossfade, per-frame timing, no watermark*)](https://bulkpictools.com/tools/gif/gif-maker)
+- [**BulkPicTools - Remove Background** - (*AI background removal via WebGPU/WASM — no upload, no API key, works offline*)](https://bulkpictools.com/tools/ai/remove-background)
+- [**BulkPicTools - Video to GIF Converter** - (*Convert MP4, MOV, WebM to GIF locally — trim, set FPS and width, no watermark, no upload*)](https://bulkpictools.com/tools/gif/video-to-gif)
+- [**BulkPicTools - WebP to JPG Converter** - (*Batch convert WebP to JPG locally, auto-detects animated WebP and transparent backgrounds, no upload*)](https://bulkpictools.com/tools/convert/webp-to-jpg)
+- [**Convert Image Free** - (*Convert JPG, PNG, WebP, AVIF, HEIC and ICO images in your browser, files never leave your device*)](https://convertimagefree.com/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
@@ -417,6 +446,8 @@ List of some useful free online tools and sites
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
 - [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
+- [**JustInBrowser Favicon Generator** - (*Generate a multi-size favicon.ico from any PNG in the browser*)](https://www.justinbrowser.com/tools/favicon-generator)
+- [**JustInBrowser Image Annotator** - (*Annotate screenshots with arrows, text, numbered steps, and blur or pixelate redaction*)](https://www.justinbrowser.com/tools/image-annotator)
 - [**NightCafé** - (*Create Something Amazing*)](https://creator.nightcafe.studio/create/text-to-image)
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Pixabay Images** - (*Royalty free Images and Royalty-Free stock*)](https://pixabay.com/)
@@ -424,6 +455,7 @@ List of some useful free online tools and sites
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 - [**Post Images** - (*Get permanent links for Facebook, Twitter, forums and blogs*)](https://postimages.org/)
+- [**Quick Image Kit** - (*Browser-local image compressor, converter, resizer, cropper, and favicon generator without signup*)](https://quickimagekit.com/compress-image)
 - [**Remove Background** - (*Remove the background of an image*)](https://www.remove.bg/es)
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
@@ -438,6 +470,9 @@ List of some useful free online tools and sites
 - [**JSON Minifier** - (*Minify your JSON data online to reduce file size*)](https://99tools.net/json-minifier/)
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
+- [**JSON Viewer Tool** - (*View, format, validate, minify, compare and convert JSON to CSV/YAML/XML in the browser — 100% client-side, no uploads*)](https://jsonviewertool.com/)
+- [**JustInBrowser JS to JSON** - (*Convert JavaScript objects into strict, valid JSON in the browser*)](https://www.justinbrowser.com/tools/convert-javascript-to-json)
+- [**JustInBrowser JSON Viewer** - (*Format, validate, and explore JSON with a collapsible tree, entirely client-side*)](https://www.justinbrowser.com/tools/json-viewer)
 - [**JWT Decoder** - (*Decode a JSON Web Token to view the claims inside*)](https://www.appdevtools.com/jwt-decoder)
 - [**JSON Web Token Decoder** - (*Decode a JSON Web Token with different algorithms*)](https://jwt.io/)
 
@@ -465,6 +500,7 @@ List of some useful free online tools and sites
 
 ## <a name="markdown"></a>**Markdown**
 - [**Markdown Emoji Markup** - (*Complete list of github markdown emoji markup*)](https://gist.github.com/rxaviers/7360908)
+- [**Markdown Free** - (_Convert Markdown to PDF, Word, EPUB, HTML and TXT in your browser — no signup, no watermark, files never stored_)](https://www.markdown.free)
 - [**Markdown Tables generator** - (*Copy/Paste a table to convert it to Markdown*)](https://www.tablesgenerator.com/markdown_tables)
 - [**StackEdit** - (*In-Browser Markdown Editor*)](https://stackedit.io/app)
 - [**Table Convert** - (*Convert Excel to Markdown Table Online*)](https://tableconvert.com/)
@@ -482,6 +518,7 @@ List of some useful free online tools and sites
 - [**PuzzleGenio** - (*Free online puzzle generator for jigsaw, crossword, word search and sudoku puzzles*)](https://www.puzzlegenio.com/)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
+- [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
 
 ## <a name="maps"></a>**Museums**
 - [**Basilica di San Pietro** - (*Virtual 3D Tour*)](https://virtual.basilicasanpietro.va/en)
@@ -572,6 +609,7 @@ List of some useful free online tools and sites
 - [**My IP** - (*Check your current public IP address and look up for the info regarding the geolocation of your IP*)](https://www.appdevtools.com/my-ip)
 - [**Speed Test** - (*Test the speed and performance of your internet connection*)](https://www.speedtest.net/)
 - [**SSL Server Test** - (*Deep analysis of the configuration of any SSL web server on the public Internet*)](https://www.ssllabs.com/ssltest/analyze.html)
+- [**Subnet Calculator (IPv4 and IPv6)** - (*CIDR, subnet masks, host ranges, and subnet splitting*)](https://dalil-tech.com/subnet-calculator)
 - [**What is my IP Address?** - (*Your IP information*)](https://whatismyipaddress.com/)
 - [**WHOIS Lookup** - (*Look up for the ownership and registration info of a given domain name as known as WHOIS data*)](https://www.appdevtools.com/whois-lookup)
 
@@ -599,8 +637,10 @@ List of some useful free online tools and sites
 
 ## <a name="productivity"></a>**Productivity**
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- [**JotTools** - (*130+ free browser-based tools: PDF, image, text, color, calculators and developer utilities, all client-side with no signup*)](https://jottools.com)
 - [**Notion** - (*All-in-one workspace*)](https://www.notion.so/)
 - [**Pomodoro Tracker** - (*Online Pomodoro Tool*)](https://pomodoro-tracker.com/)
+- [**Xianyu Netdisk Delivery Checker** - (*Free browser-side checklist for Xianyu digital-product sellers before sending netdisk links; generates buyer instructions, after-sales boundaries, and order-record CSV*)](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/) - [Source Code](https://github.com/Ronnie2025/xianyu-netdisk-delivery-checker)
 
 ## <a name="programmer_utilities"></a>**Programmer Utilities**
 - [**.NET Development Tools** - (*GUID Generator, Hash Generator & Machine Key Generator*)](https://martincostello.com/tools/)
@@ -628,6 +668,7 @@ List of some useful free online tools and sites
 - [**Diff Checker** - (*Compares to find the differences between two texts*)](https://www.appdevtools.com/diff-checker)
 - [**Extract URLs from Text** - (*Extracts links and URLs from a text string online*)](https://titlecapitalize.com/extract-urls/)
 - [**FastTool** - (*800+ browser-based utilities for JSON, regex, color, image, PDF, SEO, and more*)](https://fasttool.app)
+- [**JustInBrowser Regex Tester** - (*Test JavaScript regular expressions with live match highlighting and common patterns*)](https://www.justinbrowser.com/tools/regex-tester)
 - [**GUID generator and GUID validator** - (*Random GUID generator*)](https://slothman.dev/guid-generator/)
 - [**Hash Generator** - (*Tool to generate a hash value of a string supporting a lot of algorithms*)](https://www.appdevtools.com/hash-generator)
 - [**Hex to Decimal Converter** - (*Converts Hexadecimal to Binary*)](https://www.easycalculation.com/hex-converter.php)
@@ -701,8 +742,10 @@ List of some useful free online tools and sites
 - [**QR Code Gen** - (*Generate Powerful Dynamic QR Codes*)](https://qrcodeveloper.com/generator)
 - [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
+- [**QR Code Generator** - (*Create QR codes for URL, text, WhatsApp, WiFi and vCard, entirely in your browser*)](https://www.nasrtech.dev/tools/qr-code-generator/)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
 - [**QR.io** - (*Generate QR Codes in different formats*)](https://qr.io/)
+- [**JustInBrowser QR Code Generator** - (*Generate QR codes and barcodes with high-resolution downloads*)](https://www.justinbrowser.com/tools/qr-barcode-generator)
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
 
 ## <a name="radio_and_tv"></a>**Radio & TV**
@@ -731,6 +774,7 @@ List of some useful free online tools and sites
 
 ## <a name="SEO"></a>**SEO**
 - [**PageRank Calculator** - (*CSV file: Type,Destination,Rel,Source - Hyperlink,Html_Url,link,Site_Url*)](https://pagerank.streamlit.app/)
+- [**RevealTheme** - (*Detect what WordPress theme, plugins, and page builder a site uses*)](https://revealtheme.com/)
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
@@ -794,8 +838,10 @@ List of some useful free online tools and sites
 - [**Characters and Symbols** - (*Standard ASCII set, HTML Entity names, ISO 10646, ISO 8879, ISO 8859-1 Latin alphabet No. 1*)](https://ascii.cl/htmlcodes.htm)
 - [**Random text generator** - (*Create dummy text for all your layout needs*)](https://slothman.dev/text-generator/)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
+- [**Text Machine** - (*Free, privacy-first suite of 140+ in-browser text tools: classical ciphers, Base64/URL/HTML encoders, CSV/JSON converters, case/format changers, counters. No signup, nothing uploaded*)](https://textmachine.org/)
 - [**Text to Image** - (*Convert Text into Image in seconds*)](https://textintoimages.com/)
 - [**Word Counter** - (*Count the number of words, characters, sentences, and paragraphs in your text in one click*)](https://tools.word-counter.com/)
+- [**JustInBrowser Text Analyzer** - (*Word count, reading time, and keyword-density analysis, client-side*)](https://www.justinbrowser.com/tools/text-analyzer)
 
 ## <a name="technology"></a>**Technology**
 - [**Killed by Google** - (*List of dead Google products/services*)](https://killedbygoogle.com/)
@@ -832,6 +878,7 @@ List of some useful free online tools and sites
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
+- [**What the GIF** - (*Video to GIF converter and editor with trimming and captions, runs entirely in your browser, nothing uploads, no signup, no watermark*)](https://whatthegif.com/)
 
 ## <a name="weather"></a>**Weather**
 - [**SunriseSunset.io** - (*The tool to find sunrise and sunset times in your city*)](https://sunrisesunset.io/)
@@ -869,28 +916,52 @@ List of some useful free online tools and sites
 Thanks to:
 - [99Tools](https://github.com/99tools)
 - [Andy Feliciotti](https://github.com/someguy9/)
+- [Angelo Gallarello](https://github.com/Angtrim)
 - [Bharat Sewani](https://github.com/bharatsewani1993)
+- [bilgetekcom](https://github.com/bilgetekcom)
 - [Brian Berrios](https://github.com/berriob2)
 - [ccascio](https://github.com/ccascio)
 - [chengxing](https://github.com/aichengcc)
+- [chugzb](https://github.com/chugzb)
+- [Coder Avi Verma](https://github.com/coderaviverma)
+- [cser700](https://github.com/cser700)
 - [Dharma Tamang](https://github.com/dharma0009)
 - [Dongzihang](https://github.com/2645149786-dotcom)
+- [Eylon Eliyahu Krause](https://github.com/EylonKrause)
+- [farhan707](https://github.com/farhan707)
+- [Gürkan Kılıç](https://github.com/gurkankilic)
+- [haysnate](https://github.com/haysnate)
+- [hp xu](https://github.com/xuhp630-bot)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
+- [hwlsniper](https://github.com/hwlsniper)
+- [Javed Iqbal](https://github.com/javediqbal8381)
 - [Johin](https://github.com/Johin2)
 - [Jose María Estrade](https://github.com/josemalive)
 - [kadefun](https://github.com/kadefun)
+- [kbmjj123](https://github.com/kbmjj123)
 - [Losang](https://github.com/nineinch99)
+- [mainliufeng](https://github.com/mainliufeng)
+- [Mohammed Almuhanna](https://github.com/Goo6i)
+- [mohamed nasreldeen salem](https://github.com/mohnsrmm)
 - [PariSh KhAn](https://github.com/ParishKhan)
 - [Patrick Lurch](https://github.com/plurch)
+- [Peter Hootman](https://github.com/peterhootman)
+- [Pikulin.PW](https://github.com/pikulinpw)
 - [rd0-x](https://github.com/rd0-x)
 - [readjack](https://github.com/readjack)
+- [Robin0725](https://github.com/Robin0725)
+- [Ronnie2025](https://github.com/Ronnie2025)
+- [Sathvic Kollu](https://github.com/sathvic-kollu)
 - [Shashank Vats](https://github.com/vats-shashank)
 - [Spark X](https://github.com/sparkxxf)
 - [Stevesmit](https://github.com/stevesmit)
 - [tzhkai](https://github.com/tzhkai)
 - [watchdb](https://github.com/watchdb)
 - [webjser](https://github.com/webjser)
+- [Win Win](https://github.com/winwintangelo)
 - [xueboyang1985](https://github.com/xueboyang1985)
+- [YIJUN KIM](https://github.com/cateyelow)
+- [Yuyuyanan](https://github.com/Yuyuyanan)
 - [zhenglev](https://github.com/zhenglev)
 
 <details>
