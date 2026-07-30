@@ -873,6 +873,7 @@ List of some useful free online tools and sites
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
+- [**What the GIF** - (*Video to GIF converter and editor with trimming and captions, runs entirely in your browser, nothing uploads, no signup, no watermark*)](https://whatthegif.com/)
 
 ## <a name="weather"></a>**Weather**
 - [**SunriseSunset.io** - (*The tool to find sunrise and sunset times in your city*)](https://sunrisesunset.io/)
