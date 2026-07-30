@@ -918,6 +918,7 @@ Thanks to:
 - [Andy Feliciotti](https://github.com/someguy9/)
 - [Angelo Gallarello](https://github.com/Angtrim)
 - [Bharat Sewani](https://github.com/bharatsewani1993)
+- [bilalquryshi](https://github.com/bilalquryshi)
 - [bilgetekcom](https://github.com/bilgetekcom)
 - [Brian Berrios](https://github.com/berriob2)
 - [ccascio](https://github.com/ccascio)
