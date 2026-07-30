@@ -898,6 +898,7 @@ Thanks to:
 - [Jose María Estrade](https://github.com/josemalive)
 - [kadefun](https://github.com/kadefun)
 - [Losang](https://github.com/nineinch99)
+- [Mohammed Almuhanna](https://github.com/Goo6i)
 - [PariSh KhAn](https://github.com/ParishKhan)
 - [Patrick Lurch](https://github.com/plurch)
 - [rd0-x](https://github.com/rd0-x)
