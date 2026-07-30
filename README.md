@@ -880,6 +880,7 @@ Thanks to:
 - [ccascio](https://github.com/ccascio)
 - [chengxing](https://github.com/aichengcc)
 - [chugzb](https://github.com/chugzb)
+- [Coder Avi Verma](https://github.com/coderaviverma)
 - [Dharma Tamang](https://github.com/dharma0009)
 - [Dongzihang](https://github.com/2645149786-dotcom)
 - [farhan707](https://github.com/farhan707)
