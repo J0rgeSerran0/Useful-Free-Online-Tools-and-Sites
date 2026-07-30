@@ -935,6 +935,7 @@ Thanks to:
 - [readjack](https://github.com/readjack)
 - [Robin0725](https://github.com/Robin0725)
 - [Ronnie2025](https://github.com/Ronnie2025)
+- [Sathvic Kollu](https://github.com/sathvic-kollu)
 - [Shashank Vats](https://github.com/vats-shashank)
 - [Spark X](https://github.com/sparkxxf)
 - [Stevesmit](https://github.com/stevesmit)
