@@ -512,6 +512,7 @@ List of some useful free online tools and sites
 - [**PuzzleGenio** - (*Free online puzzle generator for jigsaw, crossword, word search and sudoku puzzles*)](https://www.puzzlegenio.com/)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
+- [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
 
 ## <a name="maps"></a>**Museums**
 - [**Basilica di San Pietro** - (*Virtual 3D Tour*)](https://virtual.basilicasanpietro.va/en)
