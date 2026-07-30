@@ -267,6 +267,7 @@ List of some useful free online tools and sites
 - [**RAID / ZFS / unRAID Storage Calculator** - (*Usable capacity, fault tolerance, and cost per TB across RAID, ZFS, and unRAID*)](https://dalil-tech.com/raid-calculator)
 - [**Self-Hosting vs SaaS Cost Calculator** - (*Compares the real cost of self-hosting against a SaaS subscription over time*)](https://dalil-tech.com/self-hosting-cost-calculator)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
+- [**Square Footage Calculator** - (*Free browser-based calculator for square footage, room area, and material coverage estimates — no signup, works for rectangular, circular, and irregular spaces*)](https://nutilz.com/square-footage-calculator)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
 - [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
 - [**ToolsNova** - (*100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup, 100% client-side*)](https://toolsnova.net)
