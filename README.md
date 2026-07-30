@@ -921,6 +921,7 @@ Thanks to:
 - [Gürkan Kılıç](https://github.com/gurkankilic)
 - [HumayunNasir22](https://github.com/HumayunNasir22)
 - [hwlsniper](https://github.com/hwlsniper)
+- [Javed Iqbal](https://github.com/javediqbal8381)
 - [Johin](https://github.com/Johin2)
 - [Jose María Estrade](https://github.com/josemalive)
 - [kadefun](https://github.com/kadefun)
