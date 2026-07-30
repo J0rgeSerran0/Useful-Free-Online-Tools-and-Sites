@@ -873,6 +873,7 @@ List of some useful free online tools and sites
 ## <a name="vehicles"></a>**Vehicles**
 - [**Car Recalls** - (*EU - Weekly updated Car Recalls database*)](https://car-recalls.eu/)
 - [**NHTSA** - (*US - Check for Recalls*)](https://www.nhtsa.gov/recalls)
+- [**PartSouq** - (*Auto Parts Around the World*)](https://partsouq.com/)
 
 ## <a name="videos"></a>**Videos**
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
