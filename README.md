@@ -922,6 +922,7 @@ Thanks to:
 - [bilalquryshi](https://github.com/bilalquryshi)
 - [bilgetekcom](https://github.com/bilgetekcom)
 - [Brian Berrios](https://github.com/berriob2)
+- [Buddy69-Lanka](https://github.com/Buddy69-Lanka)
 - [ccascio](https://github.com/ccascio)
 - [chengxing](https://github.com/aichengcc)
 - [chugzb](https://github.com/chugzb)
