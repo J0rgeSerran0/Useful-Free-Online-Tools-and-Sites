@@ -433,6 +433,7 @@ List of some useful free online tools and sites
 - [**BulkPicTools - Remove Background** - (*AI background removal via WebGPU/WASM — no upload, no API key, works offline*)](https://bulkpictools.com/tools/ai/remove-background)
 - [**BulkPicTools - Video to GIF Converter** - (*Convert MP4, MOV, WebM to GIF locally — trim, set FPS and width, no watermark, no upload*)](https://bulkpictools.com/tools/gif/video-to-gif)
 - [**BulkPicTools - WebP to JPG Converter** - (*Batch convert WebP to JPG locally, auto-detects animated WebP and transparent backgrounds, no upload*)](https://bulkpictools.com/tools/convert/webp-to-jpg)
+- [**Convert Image Free** - (*Convert JPG, PNG, WebP, AVIF, HEIC and ICO images in your browser, files never leave your device*)](https://convertimagefree.com/)
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
