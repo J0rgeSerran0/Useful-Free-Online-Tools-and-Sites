@@ -332,6 +332,7 @@ List of some useful free online tools and sites
 
 ## <a name="databases"></a>**Databases**
 - [**ChartDB** - (*Create the diagram for your databases*)](https://app.chartdb.io/)
+- [**RunSQL** - (*Define Database Structura, Define Data and Write and Test SQL Queries*)](https://runsql.com/r)
 
 ## <a name="diagrams_and_design"></a>**Diagrams & Design**
 - [**Affinity** - (*All the design and photo editing tools you need in one app*)](https://www.affinity.studio/)
