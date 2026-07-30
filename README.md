@@ -767,6 +767,7 @@ List of some useful free online tools and sites
 
 ## <a name="SEO"></a>**SEO**
 - [**PageRank Calculator** - (*CSV file: Type,Destination,Rel,Source - Hyperlink,Html_Url,link,Site_Url*)](https://pagerank.streamlit.app/)
+- [**RevealTheme** - (*Detect what WordPress theme, plugins, and page builder a site uses*)](https://revealtheme.com/)
 
 ## <a name="sharing"></a>**Sharing**
 - [**Imgbb** - (*Upload & Share your images*)](https://imgbb.com/)
