@@ -651,7 +651,7 @@ List of some useful free online tools and sites
 - [**Ascii to Decimal Converter** - (*Ascii text to decimal converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-decimal-converter)
 - [**Ascii to Hexadecimal Converter** - (*Ascii text to hexadecimal converter tool*)](https://www.binaryhexconverter.com/ascii-text-to-hex-converter)
 - [**Base64 Encoder & Decorder** - (*Converts text to Base64 or decode Base64 to text. Supports UTF-8*)](https://www.appdevtools.com/base64-encoder-decoder)
-- [**Nutilz Base64 Encoder & Decoder** - (*Free online Base64 encoder/decoder for text and files, runs entirely in the browser, no signup*)](https://nutilz.com/base64)
+- [**Base64 Encoder & Decoder** - (*Free online Base64 encoder/decoder for text and files, runs entirely in the browser, no signup*)](https://nutilz.com/base64)
 - [**Binary to Ascii Text Converter** - (*Binary to ascii text converter tool*)](https://www.binaryhexconverter.com/binary-to-ascii-text-converter)
 - [**Binary to Decimal Converter** - (*Binary to decimal converter tool*)](https://www.binaryhexconverter.com/binary-to-decimal-converter)
 - [**Binary to Hexadecimal Converter** - (*Binary to hex conversion tool*)](https://www.binaryhexconverter.com/binary-to-hex-converter)
