@@ -877,6 +877,7 @@ List of some useful free online tools and sites
 Thanks to:
 - [99Tools](https://github.com/99tools)
 - [Andy Feliciotti](https://github.com/someguy9/)
+- [Angelo Gallarello](https://github.com/Angtrim)
 - [Bharat Sewani](https://github.com/bharatsewani1993)
 - [Brian Berrios](https://github.com/berriob2)
 - [ccascio](https://github.com/ccascio)
