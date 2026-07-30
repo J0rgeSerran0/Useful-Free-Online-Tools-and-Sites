@@ -924,7 +924,7 @@ Thanks to:
 - [99Tools](https://github.com/99tools)
 - [Andy Feliciotti](https://github.com/someguy9/)
 - [Angelo Gallarello](https://github.com/Angtrim)
-  [bakti](https://github.com/baktipra)
+- [bakti](https://github.com/baktipra)
 - [Bharat Sewani](https://github.com/bharatsewani1993)
 - [bilalquryshi](https://github.com/bilalquryshi)
 - [bilgetekcom](https://github.com/bilgetekcom)
