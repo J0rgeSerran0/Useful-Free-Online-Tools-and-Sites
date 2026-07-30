@@ -904,6 +904,7 @@ Thanks to:
 - [watchdb](https://github.com/watchdb)
 - [webjser](https://github.com/webjser)
 - [xueboyang1985](https://github.com/xueboyang1985)
+- [YIJUN KIM](https://github.com/cateyelow)
 - [Yuyuyanan](https://github.com/Yuyuyanan)
 - [zhenglev](https://github.com/zhenglev)
 
