@@ -943,6 +943,7 @@ Thanks to:
 - [PariSh KhAn](https://github.com/ParishKhan)
 - [Patrick Lurch](https://github.com/plurch)
 - [Peter Hootman](https://github.com/peterhootman)
+- [Pikulin.PW](https://github.com/pikulinpw)
 - [rd0-x](https://github.com/rd0-x)
 - [readjack](https://github.com/readjack)
 - [Robin0725](https://github.com/Robin0725)
