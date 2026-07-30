@@ -232,6 +232,7 @@ List of some useful free online tools and sites
 - [**Simple Sourdough Calculator** - (*A calculator for the Home Baker using Baker's Math. No more mental math in the kitchen.*)](https://sourdoughcalculator.info/)
 
 ## <a name="calculators_and_converters"></a>**Calculators & Converters**
+- [**Mini Tools** - (*Free multilingual tools including UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, image hosting with Markdown links, PDF tools, and developer utilities*)](https://mini-tools.uk)
 - [**Acceleration Converter** - (*Convert between Acceleration units*)](https://convertlive.com/c/convert/acceleration)
 - [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
