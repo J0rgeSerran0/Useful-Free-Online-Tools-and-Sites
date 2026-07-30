@@ -254,6 +254,7 @@ List of some useful free online tools and sites
 - [**Eon Tools** - (*Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.*)](https://eontools.com/)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
+- [**gottrix** - (*Privacy-first browser-based file tools for PDF, image, audio, video and data conversion (500+ tools) — 100% client-side via WebAssembly, no uploads, works offline, 25+ languages. Closed-source, free to use.*)](https://gottrix.app)
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
 - [**Knexio** - (*Free online tools & calculators — AI tools, business calculators, games, formatters, and guides*)](https://knexio.xyz)
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
