@@ -240,6 +240,7 @@ List of some useful free online tools and sites
 - [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**Audiobook Speed Calculator** - (*Free online tool to calculate audiobook listening time and playback speed*)](https://audiobookspeedcalculator.co/)
+- [**CD Calculator** - (*Calculate CD maturity value, interest earned, and true APY for any term and compounding frequency*)](https://nutilz.com/cd-calculator)
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
 - [**Concrete Calculator Hub** - (*Free concrete calculators for slabs, footings, columns, and bags with cost estimates*)](https://concreteestimatorhub.com/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
