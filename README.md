@@ -937,6 +937,7 @@ Thanks to:
 - [mohamed nasreldeen salem](https://github.com/mohnsrmm)
 - [PariSh KhAn](https://github.com/ParishKhan)
 - [Patrick Lurch](https://github.com/plurch)
+- [Peter Hootman](https://github.com/peterhootman)
 - [rd0-x](https://github.com/rd0-x)
 - [readjack](https://github.com/readjack)
 - [Robin0725](https://github.com/Robin0725)
