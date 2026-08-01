@@ -585,6 +585,7 @@ List of some useful free online tools and sites
 - [**Mixcloud Downloader** - (*Download any tracks, sets and playlists from Mixcloud*)](https://www.dlmixcloud.com/)
 - [**Music Mouse** - (*Play music with your mouse*)](https://teropa.info/musicmouse/)
 - [**My Noise** - (*Create immersive and customizable soundscapes*)](https://mynoise.net/)
+- [**Noise Exposure Calculator** - (*Calculate OSHA noise dose and 8-hour Time-Weighted Average (TWA) from multiple noise sources, and check compliance with 29 CFR 1910.95 — free, browser-only*)](https://nutilz.com/noise-exposure-calculator)
 - [**Online Tone Generator** - (*Tuning instruments, science experiments, testing audio equipment, testing your hearing*)](https://www.szynalski.com/tone-generator/)
 - [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Pentatonic Sequencer** - (*A pentatonic step sequencer*)](https://tonematrix.maxlaumeister.com/)
