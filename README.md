@@ -472,6 +472,7 @@ List of some useful free online tools and sites
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
 - [**WEBp to PNG** -(*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
+- [**ToolBench** - (*Free browser-based image converter, compressor, resizer, cropper and watermark tool — no upload, no sign-up*)](https://mytoolsbench.com)
 
 ## <a name="json"></a>**JSON**
 - [**JSON Diff** - (*The semantic JSON compare tool*)](http://jsondiff.com/)
