@@ -263,6 +263,7 @@ List of some useful free online tools and sites
 - [**Morse Code Translator** - (*Translate Morse code from text, images, audio, and light, with support for multiple languages*)](https://www.themorselab.com/)
 - [**Nutilz - Aspect Ratio Calculator** - (*Find or scale aspect ratios for video, photo, and design work — enter dimensions to get the simplified ratio, or scale to a new size preserving the same ratio. Free, no signup*)](https://nutilz.com/aspect-ratio)
 - [**Nutilz - CD Calculator** - (*Calculate CD maturity value, interest earned, and true APY for any term and compounding frequency*)](https://nutilz.com/cd-calculator)
+- [**Nutilz - Ideal Weight Calculator** - (*Calculate ideal body weight using four established clinical formulas — Devine, Robinson, Miller and Hamwi. Metric and imperial units, plus WHO BMI-based healthy range. Free, no signup*)](https://nutilz.com/ideal-weight-calculator)
 - [**Nutilz - Mortgage Calculator** - (*Calculate monthly mortgage payments including principal, interest, PMI, property taxes, and homeowners insurance — enter home price and down payment for an instant estimate. Free, no signup*)](https://nutilz.com/mortgage-calculator)
 - [**Nutilz - Square Footage Calculator** - (*Free browser-based calculator for square footage, room area, and material coverage estimates — no signup, works for rectangular, circular, and irregular spaces*)](https://nutilz.com/square-footage-calculator)
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
