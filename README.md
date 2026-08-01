@@ -274,6 +274,7 @@ List of some useful free online tools and sites
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
 - [**ToolKnit** - (*76 free browser-based tools for PDF, image, video, audio, text, calculators, time, charting and more. No uploads, no sign-up, 100% client-side, no watermarks*)](https://toolknit.com)
+- [**Tooletto**] - (*Free online tools that run entirely in your browser — compress images, edit PDFs, format code and convert files. No upload, no signup, no limits*)](https://tooletto.com)
 - [**ToolsNova** - (*100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup, 100% client-side*)](https://toolsnova.net)
 - [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
 - [**Unit Converter** - (*Converts a value from a unit to another*)](https://www.appdevtools.com/unit-converter)
