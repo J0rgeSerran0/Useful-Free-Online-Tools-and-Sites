@@ -708,6 +708,7 @@ List of some useful free online tools and sites
 - [**QR Code Generator** - (*Generates a QR code image from words or text*)](https://www.appdevtools.com/qrcode-generator)
 - [**QR Code Generator** - (*Create QR codes for URL, text, WhatsApp, WiFi and vCard, entirely in your browser*)](https://www.nasrtech.dev/tools/qr-code-generator/)
 - [**QR Code Reader** - (*Read the text data from a QR code image*)](https://www.appdevtools.com/qrcode-reader)
+- [**Nutilz QR Code Scanner** - (*Scan and decode QR codes from an uploaded image or live webcam, entirely in your browser — reads URLs, WiFi, vCards and text, no upload required*)](https://nutilz.com/qr-scanner)
 - [**QR.io** - (*Generate QR Codes in different formats*)](https://qr.io/)
 - [**JustInBrowser QR Code Generator** - (*Generate QR codes and barcodes with high-resolution downloads*)](https://www.justinbrowser.com/tools/qr-barcode-generator)
 - [**QRCode.show** - (*Generate QR code easily for free*)](https://qrcode.show/)
