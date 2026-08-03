@@ -349,6 +349,7 @@ List of some useful free online tools and sites
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**SheetRender** - (*Split a mail merge PDF into separate, named files in your browser with no upload or signup*)](https://sheetrender.com/tools/split-mail-merge-pdf)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
+- [**Toolerax** - (*Merge, split, compress, rotate and convert PDFs — most tools run in the browser with no upload, no signup and no watermark*)](https://toolerax.com/category/pdf-tools)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
 
 ## <a name="email"></a>**Email**
@@ -450,6 +451,7 @@ List of some useful free online tools and sites
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
 - [**ToolBench** - (*Free browser-based image converter, compressor, resizer, cropper and watermark tool — no upload, no sign-up*)](https://mytoolsbench.com)
+- [**Toolerax** - (*Compress, resize, crop and convert images, and remove backgrounds with an AI model that runs locally in the browser — no upload, no signup*)](https://toolerax.com/category/image-tools)
 - [**Unsplash** - (*Souce images from Internet*)](https://unsplash.com/)
 - [**WEBp to PNG** - (*Convert WEBp to PNG*)](https://www.convertidor.mx/herramientas/convertir-webp-a-png.html)
 
