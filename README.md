@@ -351,6 +351,7 @@ List of some useful free online tools and sites
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 - [**Toolerax** - (*Merge, split, compress, rotate and convert PDFs — most tools run in the browser with no upload, no signup and no watermark*)](https://toolerax.com/category/pdf-tools)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
+- [**Repair PDF** - (*Repair your corrupted PDF*)](https://pdfsstudio.com/repair-pdf)
 
 ## <a name="email"></a>**Email**
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
