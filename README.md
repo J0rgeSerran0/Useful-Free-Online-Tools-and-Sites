@@ -795,8 +795,8 @@ List of some useful free online tools and sites
 - [**Xbox Status** - (*Microsoft Xbox Status - En-us*)](https://support.xbox.com/en-US/xbox-live-status)
 
 ## <a name="strings_and_texts"></a>**Strings and Texts**
-- [**Nutilz - Anagram Solver** - (*Find every valid word hidden in a set of letters, with a minimum word-length filter — useful for Scrabble, Words With Friends, and crosswords. Free, no signup*)](https://nutilz.com/anagram-solver)
 - [**Characters and Symbols** - (*Standard ASCII set, HTML Entity names, ISO 10646, ISO 8879, ISO 8859-1 Latin alphabet No. 1*)](https://ascii.cl/htmlcodes.htm)
+- [**Nutilz - Anagram Solver** - (*Find every valid word hidden in a set of letters, with a minimum word-length filter — useful for Scrabble, Words With Friends, and crosswords. Free, no signup*)](https://nutilz.com/anagram-solver)
 - [**String Utilities** - (*Counts the characters, words, lines, reverts the text, and converts text to lowercase or UPPERCASE*)](https://www.appdevtools.com/string-utilities)
 - [**TextBases** - (*Free browser-based text and developer tools with no signup*)](https://textbases.app/)
 - [**Text Machine** - (*Free, privacy-first suite of 140+ in-browser text tools: classical ciphers, Base64/URL/HTML encoders, CSV/JSON converters, case/format changers, counters. No signup, nothing uploaded*)](https://textmachine.org/)
