@@ -668,6 +668,7 @@ List of some useful free online tools and sites
 - [**Music for Programming** - (*Music to hear when we are programming*)](https://musicforprogramming.net/latest/)
 - [**ngrok** - (*Programmable network edge that adds connectivity, security, and observability to your apps with no code changes*)](https://ngrok.com/)
 - [**Nutilz - Base64 Encoder & Decoder** - (*Free online Base64 encoder/decoder for text and files, runs entirely in the browser, no signup*)](https://nutilz.com/base64)
+- [**Nutilz - Regex Tester** - (*Free online regex tester with live match highlighting, runs entirely in the browser, no signup*)](https://nutilz.com/regex-tester)
 - [**Octal to Binary Converter** - (*Octal to binary converter tool*)](https://www.binaryhexconverter.com/octal-to-binary-converter)
 - [**Octal to Decimal Converter** - (*Octal to decimal converter tool*)](https://www.binaryhexconverter.com/octal-to-decimal-converter)
 - [**Password Generator** - (*Generates a password with multiple options*)](https://www.appdevtools.com/password-generator)
