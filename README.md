@@ -345,13 +345,13 @@ List of some useful free online tools and sites
 - [**I love PDF** - (*Reduce file size while optimizing for maximal PDF quality*)](https://www.ilovepdf.com/compress_pdf)
 - [**Issuu Downloader - New** - (*Download the documents that you can find at Issuu*)](https://issuu.downloader.is/)
 - [**PDF escape** - (*The original online Free PDF editor & form filler*)](https://www.pdfescape.com/)
+- [**PDF Studio - Repair PDF** - (*Repair your corrupted PDF*)](https://pdfsstudio.com/repair-pdf)
 - [**PDF Toolbox** - (*Privacy-first browser-based PDF toolkit — compress, merge, split, convert, encrypt & decrypt PDFs. All processing done locally via WebAssembly, no file uploads*)](https://pdftoolbox.tech)
 - [**Scribd Downloader** - (*Download the Scribd documents in one click*)](https://scribd.downloader.tips/)
 - [**SheetRender** - (*Split a mail merge PDF into separate, named files in your browser with no upload or signup*)](https://sheetrender.com/tools/split-mail-merge-pdf)
 - [**Small PDF** - (*Reduce the size of your PDF online*)](https://smallpdf.com/compress-pdf)
 - [**Toolerax** - (*Merge, split, compress, rotate and convert PDFs — most tools run in the browser with no upload, no signup and no watermark*)](https://toolerax.com/category/pdf-tools)
 - [**Word to PDF** - (*Convert Word documents to PDF*)](https://www.convertidor.mx/herramientas/convertir-docx-a-pdf.html)
-- [**Repair PDF** - (*Repair your corrupted PDF*)](https://pdfsstudio.com/repair-pdf)
 
 ## <a name="email"></a>**Email**
 - [**Correo Temporal** - (*Create a temporal email account during less than one year*)](https://correotemporal.org/)
@@ -927,6 +927,7 @@ Thanks to:
 - [xueboyang1985](https://github.com/xueboyang1985)
 - [YIJUN KIM](https://github.com/cateyelow)
 - [Yuyuyanan](https://github.com/Yuyuyanan)
+- [zaidkhanz0333](https://github.com/zaidkhanz0333)
 - [zhenglev](https://github.com/zhenglev)
 
 <details>
