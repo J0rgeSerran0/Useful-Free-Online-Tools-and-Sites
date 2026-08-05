@@ -257,6 +257,7 @@ List of some useful free online tools and sites
 - [**Mini Tools** - (*Free multilingual tools including UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, image hosting with Markdown links, PDF tools, and developer utilities*)](https://mini-tools.uk)
 - [**Morse Code Translator** - (*Translate Morse code from text, images, audio, and light, with support for multiple languages*)](https://www.themorselab.com/)
 - [**Nutilz - Aspect Ratio Calculator** - (*Find or scale aspect ratios for video, photo, and design work — enter dimensions to get the simplified ratio, or scale to a new size preserving the same ratio. Free, no signup*)](https://nutilz.com/aspect-ratio)
+- [**Nutilz - Body Fat Calculator** - (*Calculate body fat percentage using the U.S. Navy circumference method or the BMI formula. Metric and imperial units. Free, instant, no sign-up*)](https://nutilz.com/body-fat-calculator)
 - [**Nutilz - Budget Calculator** - (*Plan your monthly budget — enter income and expenses, see remaining balance, and compare your spending to the 50/30/20 rule. Free, no signup*)](https://nutilz.com/budget-calculator)
 - [**Nutilz - CD Calculator** - (*Calculate CD maturity value, interest earned, and true APY for any term and compounding frequency*)](https://nutilz.com/cd-calculator)
 - [**Nutilz - Debt Payoff Calculator** - (*Compare snowball vs. avalanche debt payoff strategies side by side — see total interest paid and payoff timeline for each method. Free, no signup*)](https://nutilz.com/debt-payoff-calculator)
