@@ -741,6 +741,7 @@ List of some useful free online tools and sites
 - [**Scholar Google** - (*Search academic information*)](https://scholar.google.com/)
 
 ## <a name="search"></a>**Security**
+- [**Nutilz - CSR Generator** - (*Generate OpenSSL-compatible PKCS#10 Certificate Signing Requests (CSR) and private keys (RSA 2048/4096 & ECDSA), or decode existing CSRs — all client-side via the Web Crypto API. Free, no signup*)](https://nutilz.com/csr-generator)
 - [**SHA 256 Algorithm** - (*Text, Bin, Hex - Sha256 Algorithm Explained*)](https://sha256algorithm.com/)
 - [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
 - [**Static Pinning** - (*add Certificate Pinning to your Mobile Apps*)](https://approov.io/tools/static-pinning/)
