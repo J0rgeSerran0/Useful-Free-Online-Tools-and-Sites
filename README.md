@@ -844,6 +844,7 @@ List of some useful free online tools and sites
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
 - [**Video Size Reducer** - (*Compress MP4 videos to a target file size, entirely in your browser*)](https://videosizereducer.org/)
+- [**VideoKit** - (*54 free video tools to convert, compress, trim, merge, crop, extract audio and add subtitles; the editing tools run in your browser, nothing uploads, no signup, no watermark*)](https://www.videokit.cc/en)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
 - [**What the GIF** - (*Video to GIF converter and editor with trimming and captions, runs entirely in your browser, nothing uploads, no signup, no watermark*)](https://whatthegif.com/)
 
@@ -908,6 +909,7 @@ Thanks to:
 - [Johin](https://github.com/Johin2)
 - [Jose María Estrade](https://github.com/josemalive)
 - [kadefun](https://github.com/kadefun)
+- [karuha-m](https://github.com/karuha-m)
 - [kbmjj123](https://github.com/kbmjj123)
 - [Losang](https://github.com/nineinch99)
 - [mainliufeng](https://github.com/mainliufeng)
