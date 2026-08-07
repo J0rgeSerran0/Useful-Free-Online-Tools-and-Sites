@@ -909,6 +909,7 @@ Thanks to:
 - [Johin](https://github.com/Johin2)
 - [Jose María Estrade](https://github.com/josemalive)
 - [kadefun](https://github.com/kadefun)
+- [karuha-m](https://github.com/karuha-m)
 - [kbmjj123](https://github.com/kbmjj123)
 - [Losang](https://github.com/nineinch99)
 - [mainliufeng](https://github.com/mainliufeng)
