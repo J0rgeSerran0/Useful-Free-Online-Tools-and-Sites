@@ -467,6 +467,7 @@ List of some useful free online tools and sites
 - [**JSON Editor Online** - (*Online editor for JSON files*)](https://jsoneditoronline.org/)
 - [**JSON Minifier** - (*Minify your JSON data online to reduce file size*)](https://99tools.net/json-minifier/)
 - [**JSON to C#** - (*Convert JSON to C# Classes Online*)](https://json2csharp.com/)
+- [**Nutilz JSON to CSV Converter** - (*Convert JSON arrays or objects into downloadable CSV/TSV files with automatic nested object flattening, custom delimiters, and RFC 4180 compliance — 100% client-side, no uploads*)](https://nutilz.com/json-to-csv)
 - [**JSON Validator** - (*Validates a JSON file*)](https://www.appdevtools.com/json-validator)
 - [**JSON Viewer Tool** - (*View, format, validate, minify, compare and convert JSON to CSV/YAML/XML in the browser — 100% client-side, no uploads*)](https://jsonviewertool.com/)
 - [**JustInBrowser JS to JSON** - (*Convert JavaScript objects into strict, valid JSON in the browser*)](https://www.justinbrowser.com/tools/convert-javascript-to-json)
