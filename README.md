@@ -741,6 +741,7 @@ List of some useful free online tools and sites
 - [**Scholar Google** - (*Search academic information*)](https://scholar.google.com/)
 
 ## <a name="search"></a>**Security**
+- [**Nutilz - Bcrypt Generator & Verifier** - (*Generate and verify Bcrypt password hashes client-side, with $2a$/$2b$ prefixes and cost factors from 4 to 14. Free, no signup*)](https://nutilz.com/bcrypt-generator)
 - [**SHA 256 Algorithm** - (*Text, Bin, Hex - Sha256 Algorithm Explained*)](https://sha256algorithm.com/)
 - [**SRI Hash Generator** - (*Subresource Integrity for Web Developers*)](https://www.srihash.org/)
 - [**Static Pinning** - (*add Certificate Pinning to your Mobile Apps*)](https://approov.io/tools/static-pinning/)
