@@ -1,4 +1,4 @@
-# Useful Free Online Tools and Sites
+﻿# Useful Free Online Tools and Sites
 List of some useful free online tools and sites
 
 > [!TIP]
@@ -861,6 +861,7 @@ List of some useful free online tools and sites
 - [**Cyber URL Scanner** - (*Advanced tool for analyzing website security*)](https://www.cyscan.io/)
 - [**Favicon Generator** - (*Create your favicons online*)](https://www.favicon.cc/)
 - [**Free Browser Tools Collection** - (*Process PDFs, images, and data entirely in your browser. No upload. No server. No tracking.*)](https://xueboyang1985.github.io/free-browser-tools/)
+- [**Korelyy** - (*Privacy-first collection of 100+ free online tools: image, PDF, unit, JSON, generators. No signup, runs entirely in your browser. Six languages supported.*)](https://korelyy.com)
 - [**Google PageSpeed Insights** - (*Improve the speed of your web pages on all devices*)](https://pagespeed.web.dev/)
 - [**ScaffoldHub** - (*The javascript/typescript full-stack web application generator*)](https://scaffoldhub.io/)
 - [**Silex** - (*Free Website Builder*)](https://silex.me/)
@@ -942,3 +943,4 @@ Thanks to:
 - [zhenglev](https://github.com/zhenglev)
 
 <details>
+
