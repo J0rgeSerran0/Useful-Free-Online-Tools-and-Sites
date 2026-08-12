@@ -515,6 +515,7 @@ List of some useful free online tools and sites
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 - [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
+- [**PickerSpin** - (_Spin a wheel to pick names or winners, roll dice, call bingo numbers, and make random teams — provably fair, no signup_)](https://pickerspin.co/)
 
 ## <a name="maps"></a>**Museums**
 - [**Basilica di San Pietro** - (*Virtual 3D Tour*)](https://virtual.basilicasanpietro.va/en)
