@@ -267,6 +267,7 @@ List of some useful free online tools and sites
 - [**Nutilz - Ideal Weight Calculator** - (*Calculate ideal body weight using four established clinical formulas — Devine, Robinson, Miller and Hamwi. Metric and imperial units, plus WHO BMI-based healthy range. Free, no signup*)](https://nutilz.com/ideal-weight-calculator)
 - [**Nutilz - Mortgage Calculator** - (*Calculate monthly mortgage payments including principal, interest, PMI, property taxes, and homeowners insurance — enter home price and down payment for an instant estimate. Free, no signup*)](https://nutilz.com/mortgage-calculator)
 - [**Nutilz - Square Footage Calculator** - (*Free browser-based calculator for square footage, room area, and material coverage estimates — no signup, works for rectangular, circular, and irregular spaces*)](https://nutilz.com/square-footage-calculator)
+- [**OCC Tools** - (*354 free calculators and converters in Spanish — maths, finance, health, cooking, construction, unit conversion and text utilities. Runs in your browser, no signup, no watermarks*)](https://tools.occ.center/)
 - [**Percentage Calculator** - (*Calculate Percentages*)](https://www.thecalculator.website/percentage-calculator)
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
