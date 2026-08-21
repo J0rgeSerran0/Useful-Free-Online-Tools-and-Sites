@@ -245,12 +245,14 @@ List of some useful free online tools and sites
 - [**DoItSwift** - (*Privacy-first browser tools — image conversion, PDF editing, HEIC/WebP/AVIF converter, image compressor, 40+ calculators, word counter, Lorem Ipsum generator, and more. No server upload, no signup, 100% browser-based, Unlimited use, No watermarks, Works offline. Everything runs in your browser*)](https://doitswift.com)
 - [**Easy Calculation** - (*Free Calculators and Converters*)](https://www.easycalculation.com/)
 - [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
+- [**Embroidery Pricing Calculator** - (*Free embroidery quote calculator for stitch count, hoop size, garment, and labor. No signup*)](https://embroiderypricingcalculator.com/)
 - [**Eon Tools** - (*Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.*)](https://eontools.com/)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
 - [**gottrix** - (*Privacy-first browser-based file tools for PDF, image, audio, video and data conversion (500+ tools) — 100% client-side via WebAssembly, no uploads, works offline, 25+ languages. Closed-source, free to use.*)](https://gottrix.app)
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
 - [**Knexio** - (*Free online tools & calculators — AI tools, business calculators, games, formatters, and guides*)](https://knexio.xyz)
+- [**Lawn Mowing Cost Calculator** - (*Free lawn mowing cost estimator by lawn size, frequency, and local rates. No signup*)](https://lawnmowingcalculator.com/)
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
 - [**Mac Cable Bandwidth Calculator** - (*Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac*)](https://retinadesk.com/tools/cable-bandwidth-calculator/)
 - [**Mac PPI Calculator & Retina Checker** - (*Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview*)](https://retinadesk.com/tools/ppi-calculator/)
@@ -280,6 +282,7 @@ List of some useful free online tools and sites
 - [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
 - [**UtilGears** - (*100+ free, privacy-first calculators, converters and text/developer tools — no signup, runs in your browser*)](https://utilgears.com)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
+- [**WattsCalc** - (*Free wattage, amp, and kWh electricity calculator for appliances and home energy use. No signup*)](https://wattscalc.com/)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 
 ## <a name="charts"></a>**Charts**
@@ -333,6 +336,7 @@ List of some useful free online tools and sites
 - [**Affinity** - (*All the design and photo editing tools you need in one app*)](https://www.affinity.studio/)
 - [**C4 Model** - (*For Visualising Software Architecture*)](https://c4model.com/)
 - [**Canva** - (*Helps with visual design and document creation*)](https://www.canva.com/)
+- [**Codex Theme Builder** - (*Free browser tool to design and export custom Codex CLI themes. No signup*)](https://codextheme.tools/)
 - [**Coggle** - (*Make mind map documents that flow like your ideas*)](https://coggle.it/)
 - [**DB Diagram** - (*Draw Entity-Relationship Diagrams, Painlessly*)](https://dbdiagram.io/)
 - [**DrawDB** - (*Database design editor, data-modeler, and SQL generator*)](https://www.drawdb.app/)
@@ -442,6 +446,7 @@ List of some useful free online tools and sites
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
+- [**Image to Crochet Pattern** - (*Convert any photo into a free crochet pattern grid. No signup*)](https://imagetocrochetpattern.com/)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
 - [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
 - [**JustInBrowser Favicon Generator** - (*Generate a multi-size favicon.ico from any PNG in the browser*)](https://www.justinbrowser.com/tools/favicon-generator)
@@ -513,6 +518,7 @@ List of some useful free online tools and sites
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**PuzzleGenio** - (*Free online puzzle generator for jigsaw, crossword, word search and sudoku puzzles*)](https://www.puzzlegenio.com/)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
+- [**SkyCOTL Tools** - (*Free Sky: Children of the Light companion tools for candles, quests, and seasons. No signup*)](https://skycotl.tools/)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 - [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
 
@@ -831,6 +837,7 @@ List of some useful free online tools and sites
 - [**Car Recalls** - (*EU - Weekly updated Car Recalls database*)](https://car-recalls.eu/)
 - [**NHTSA** - (*US - Check for Recalls*)](https://www.nhtsa.gov/recalls)
 - [**PartSouq** - (*Auto Parts Around the World*)](https://partsouq.com/)
+- [**Pressure Washer Fix** - (*Free pressure washer troubleshooting guides and repair lookup by symptom, brand, and model. No signup*)](https://pressurewasherfix.com/)
 
 ## <a name="videos"></a>**Videos**
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
