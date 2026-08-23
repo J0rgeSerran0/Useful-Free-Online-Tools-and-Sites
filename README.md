@@ -279,6 +279,7 @@ List of some useful free online tools and sites
 - [**ToolsNova** - (*100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, XAU/USD pip calculator and more. No signup, 100% client-side*)](https://toolsnova.net)
 - [**Torque Converter** - (*Convert between Torque units*)](https://convertlive.com/c/convert/torque)
 - [**UtilGears** - (*100+ free, privacy-first calculators, converters and text/developer tools — no signup, runs in your browser*)](https://utilgears.com)
+- [**WorkroomCalc** - (*Free Roman blind calculator for fabric, lining, rods, rings, and cord estimates — no signup*)](https://workroomcalc.co.uk/)
 - [**Volume Converter** - (*Convert between Volume units*)](https://convertlive.com/c/convert/volume)
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 
