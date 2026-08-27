@@ -841,6 +841,7 @@ List of some useful free online tools and sites
 - [**Ezgif - Video to PNG** - (*MP4 video to PNG converter*)](https://ezgif.com/video-to-png)
 - [**MKV to MP4** - (*MKV to MP4 converter*)](https://www.convertidor.mx/herramientas/convertir-mkv-a-mp4.html)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
+- [**Nutilz - Video Compressor** - (*Compress MP4, MOV, WebM, MKV and AVI files online for free — choose from three quality levels and see the before/after file size saved. No signup, files never stored on the server*)](https://nutilz.com/video-compressor)
 - [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
