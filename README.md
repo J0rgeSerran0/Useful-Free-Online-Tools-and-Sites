@@ -420,6 +420,7 @@ List of some useful free online tools and sites
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
 - [**Avatar Maker** - (*Create your own avatar online*)](https://avatarmaker.com/)
+- [**AVIF to PNG** - (*Convert AVIF images to PNG online, free, no signup*)](https://nutilz.com/avif-to-png)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**BulkPicTools - Blur Faces in Photos** - (*AI auto-detects and blurs faces in batch — pixelate or cover, all locally in browser, no upload*)](https://bulkpictools.com/tools/edit/blur-faces)
