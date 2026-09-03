@@ -712,6 +712,7 @@ List of some useful free online tools and sites
 
 ## <a name="qr"></a>**QR**
 - [**JustInBrowser QR Code Generator** - (*Generate QR codes and barcodes with high-resolution downloads*)](https://www.justinbrowser.com/tools/qr-barcode-generator)
+- [**Naratake QR Code Generator** - (*Create QR codes for a menu, a booking page or a Google review link, entirely in your browser — PNG and SVG download, nothing uploaded*)](https://naratake.com/en/tools/qr-code-generator)
 - [**Nutilz QR Code Scanner** - (*Scan and decode QR codes from an uploaded image or live webcam, entirely in your browser — reads URLs, WiFi, vCards and text, no upload required*)](https://nutilz.com/qr-scanner)
 - [**QR Code Gen** - (*Generate Powerful Dynamic QR Codes*)](https://qrcodeveloper.com/generator)
 - [**QR Code Generator** - (*Create Your QR Code for free*)](https://www.qr-code-generator.com/)
