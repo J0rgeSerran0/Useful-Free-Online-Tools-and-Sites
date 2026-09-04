@@ -454,6 +454,7 @@ List of some useful free online tools and sites
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 - [**Post Images** - (*Get permanent links for Facebook, Twitter, forums and blogs*)](https://postimages.org/)
 - [**Quick Image Kit** - (*Browser-local image compressor, converter, resizer, cropper, and favicon generator without signup*)](https://quickimagekit.com/compress-image)
+- [**Refentra - Remove Image Metadata** - (*Inspect and remove EXIF, GPS, XMP, IPTC and JPEG comments locally in your browser — no upload or account*)](https://refentra.com/tools/remove-image-metadata/)
 - [**Remove Background** - (*Remove the background of an image*)](https://www.remove.bg/es)
 - [**SVG to PNG** - (*SVG to PNG converter*)](https://svgtopng.com/)
 - [**The Spriters Resource** - (*Collection, archival, and appreciation of materials from video games*)](https://www.spriters-resource.com/)
