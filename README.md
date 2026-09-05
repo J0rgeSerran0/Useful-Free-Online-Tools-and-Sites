@@ -529,6 +529,8 @@ List of some useful free online tools and sites
 - [**aQWERTYon** - (*Play notes with your keyboard in the Web*)](https://apps.musedlab.org/aqwertyon/)
 - [**Audio Cutter** - (*Trim and cut audio tracks*)](https://vocalremover.org/cutter)
 - [**Audio Joiner** - (*Join multiple audio tracks into one*)](https://vocalremover.org/joiner)
+- [**AudioForges - Audio to MIDI** - (*Convert any audio to MIDI in the browser, free*)](https://www.audioforges.com/audio-to-midi)
+- [**AudioForges - Key & BPM Finder** - (*Detect the key and tempo of any uploaded track*)](https://www.audioforges.com/key-finder)
 - [**Audiomack** - (*Is aFree limitless music sharing and discovery platform for artists, tastemakers, labels, and fans*)](https://audiomack.com/)
 - [**AutoChords** - (*Chord Progression Generator*)](https://autochords.com/)
 - [**Background Noise Remover** - (*Remove background noise & enhance your voice: any video or audio*)](https://www.waves.com/voice-regen)
