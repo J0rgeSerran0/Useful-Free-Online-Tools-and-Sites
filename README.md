@@ -628,6 +628,7 @@ List of some useful free online tools and sites
 
 ## <a name="productivity"></a>**Productivity**
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- [**CountMetrik Tap Counter** - (*Free touch-first browser counter for repeated manual counting with undo, targets, local saving, fullscreen and offline support. No signup required.*)](https://countmetrik.com/tap-counter)
 - [**JotTools** - (*130+ free browser-based tools: PDF, image, text, color, calculators and developer utilities, all client-side with no signup*)](https://jottools.com)
 - [**Notion** - (*All-in-one workspace*)](https://www.notion.so/)
 - [**Pomodoro Tracker** - (*Online Pomodoro Tool*)](https://pomodoro-tracker.com/)
