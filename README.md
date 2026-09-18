@@ -80,6 +80,8 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Contributors-70db70?style=for-the-badge)](#contributors)
 
 ## <a name="3d_vr_irl"></a>**3D, VR and IRL**
+- [**Normal Map Bench** - (*Create normal maps from images in your browser, with live strength, smoothing, edge and lighting controls*)](https://normalmapbench.com/)
+- [**STL File Converter** - (*Convert between STL, OBJ and other 3D mesh formats directly in your browser*)](https://stlfileconverter.com/)
 - [**Vectary** - (*Free online 3D design*)](https://app.vectary.com/)
 - [**ViewSTL** - (*View 3D STL files directly in your browser*)](https://www.viewstl.com/)
 
@@ -199,6 +201,7 @@ List of some useful free online tools and sites
 - [**Pixabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
 - [**Pre-Delay & Reverb Time Calculator** - (*Find the right time settings for your pre-delay and reverb*)](https://anotherproducer.com/online-tools-for-musicians/delay-reverb-time-calculator/)
 - [**Pro-54** - (*Cmajor port of the Native Instruments Pro-53)*)](https://cmajor.dev/docs/Examples/Pro54/) - [Pro-53](https://www.vintagesynth.com/native-instruments/pro-53) - [Source Code](https://github.com/cmajor-lang/cmajor/tree/main/examples/patches/Pro54)
+- [**Reverse Audio Tool** - (*Reverse audio files online with instant preview and download*)](https://reverseaudiotool.com/)
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Stem Splitter** - (*Turn any song into isolated tracks (piano, vocals, drums, bass, guitar, other)*)](https://eldoraudio.com/products/stem-splitter)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
@@ -420,6 +423,7 @@ List of some useful free online tools and sites
 
 ## <a name="images_and_graphics"></a>**Images and Graphics**
 - [**Avatar Maker** - (*Create your own avatar online*)](https://avatarmaker.com/)
+- [**AVIF Crate** - (*Convert AVIF images to JPG in your browser — files are processed locally, no upload*)](https://avifcrate.com/)
 - [**Base64 Image Encoder & Decoder** - (*Encode an image to Base64, or decode Base64 to an image*)](https://www.appdevtools.com/base64-image-encoder-decoder)
 - [**Base64 Images** - (*Convert to Images to Base64*)](https://www.base64-image.de/)
 - [**BulkPicTools - Blur Faces in Photos** - (*AI auto-detects and blurs faces in batch — pixelate or cover, all locally in browser, no upload*)](https://bulkpictools.com/tools/edit/blur-faces)
@@ -844,6 +848,7 @@ List of some useful free online tools and sites
 - [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
 - [**Trim Video** - (*Trim or cut video of any format*)](https://online-video-cutter.com/es/)
 - [**UnScreen** - (*Remove Video Background [only for videos of 5 seconds]*)](https://unscreen.pro/)
+- [**VHS Filter** - (*Apply an authentic VHS effect to videos and photos online*)](https://vhsfilter.com/vhs-video-filter)
 - [**Video Size Reducer** - (*Compress MP4 videos to a target file size, entirely in your browser*)](https://videosizereducer.org/)
 - [**VideoKit** - (*54 free video tools to convert, compress, trim, merge, crop, extract audio and add subtitles; the editing tools run in your browser, nothing uploads, no signup, no watermark*)](https://www.videokit.cc/en)
 - [**VidMix** - (*Edit videos with your web browser*)](https://vidmix.app/)
