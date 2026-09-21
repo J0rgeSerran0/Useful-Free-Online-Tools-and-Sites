@@ -574,6 +574,7 @@ List of some useful free online tools and sites
 - [**Official SoundCloud Downloader Online** - (*Download High Quality Mp3 (128 & 320 kbps) from Soundcloud Using Soundcloud to Mp3 Converter*)](https://www.klickaud.co/)
 - [**Pentatonic Sequencer** - (*A pentatonic step sequencer*)](https://tonematrix.maxlaumeister.com/)
 - [**Piano Chord Chart** - (*Show all chords selecting the root of the chord*)](https://www.8notes.com/piano_chord_chart/)
+- [**PianoGrid** - (*Piano chords, inversions, and scales on a labeled keyboard*)](https://pianogrid.com/chords)
 - [**Pitch Changer** - (*Change audio pitch without affecting the tempo*)](https://vocalremover.org/pitch)
 - [**PlayPhrase.me** - (*Phrases from Films and Series for music*)](https://www.playphrase.me/#/search?language=en)
 - [**PolyPattern** - (*Polyrhythm Generator*)](https://dustah.com/polypattern/)
