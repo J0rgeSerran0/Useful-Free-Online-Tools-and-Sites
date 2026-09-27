@@ -247,6 +247,7 @@ List of some useful free online tools and sites
 - [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
 - [**Eon Tools** - (*Thousands of tools that run instantly in your browser. No sign ups, no waiting, no unnecessary friction.*)](https://eontools.com/)
 - [**File Converter** - (*Supports nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats*)](https://cloudconvert.com/)
+- [**FileOnTap** - (*Free browser-based image and PDF converter; files stay on your device, with no upload or account required*)](https://fileontap.com/)
 - [**Force Converter** - (*Convert between Force units*)](https://convertlive.com/c/convert/force)
 - [**gottrix** - (*Privacy-first browser-based file tools for PDF, image, audio, video and data conversion (500+ tools) — 100% client-side via WebAssembly, no uploads, works offline, 25+ languages. Closed-source, free to use.*)](https://gottrix.app)
 - [**HNGTools** - (*Free Calculators and Converters*)](https://www.hngtools.com)
