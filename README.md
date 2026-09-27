@@ -437,6 +437,7 @@ List of some useful free online tools and sites
 - [**Dummy Image Generator** - (*Quickly and easily create placeholder images*)](https://www.websiteplanet.com/webtools/dummy-images-generator/)
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 - [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
 - [**Free Image Merger** - (*Merge images side by side, stacked, in a grid, or freestyle in the browser without uploading files*)](https://freeimagemerger.com)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
