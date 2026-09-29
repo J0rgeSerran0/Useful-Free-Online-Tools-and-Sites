@@ -441,6 +441,7 @@ List of some useful free online tools and sites
 - [**Free Image Merger** - (*Merge images side by side, stacked, in a grid, or freestyle in the browser without uploading files*)](https://freeimagemerger.com)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
+- [**Image to ASCII** - (*Convert images into ASCII character art locally in the browser, with width and dithering controls and TXT, PNG and SVG exports. Free, no signup*)](https://imagetoascii.art/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
 - [**Image to PDF** - (*Convert images to PDF*)](https://www.convertidor.mx/herramientas/convertir-imagen-a-pdf.html)
 - [**JPG to PNG** - (*Convert JPEG to PNG*)](https://www.convertidor.mx/herramientas/convertir-jpg-a-png.html)
