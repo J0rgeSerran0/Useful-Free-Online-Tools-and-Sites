@@ -513,6 +513,7 @@ List of some useful free online tools and sites
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**PuzzleGenio** - (*Free online puzzle generator for jigsaw, crossword, word search and sudoku puzzles*)](https://www.puzzlegenio.com/)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
+- [**Subskills** - (*Free sports technique videos sorted by sport, sub-skill and level*)](https://subskills.xyz/)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 - [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
 
