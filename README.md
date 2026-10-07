@@ -182,6 +182,7 @@ List of some useful free online tools and sites
 - [**BBC Sound Effects Explorer** - (*Search engine on the BBC Sound Effect database*)](https://aurelien-herve.com/BBCSounds/)
 - [**Bensound** - (*Here you will find some royalty free music*)](https://www.bensound.com/)
 - [**BPM Calculator** - (*Useful for musicians, for dancers, or whoever wants to know the BPM of a song, a sample, or a backing track*)](https://anotherproducer.com/online-tools-for-musicians/bpm-calculator/)
+- [**ChapterPack** - (*Splits a local audiobook or recording into numbered chapter MP3 files in a ZIP, without uploading the audio*)](https://chapterpack.hexmobius.com/)
 - [**Free Online Metronome** - (*Online Metronome*)](https://www.8notes.com/metronome/)
 - [**Free Sound** - (*Collaborative database of Creative Commons Licensed sounds*)](https://freesound.org/)
 - [**Google Research - Tone/Transfer** - (*Mix and match music and machine learning to unlock new sounds*)](https://sites.research.google/tonetransfer)
