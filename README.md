@@ -254,6 +254,7 @@ List of some useful free online tools and sites
 - [**Length Converter** - (*Convert between Length units*)](https://convertlive.com/c/convert/length)
 - [**Mac Cable Bandwidth Calculator** - (*Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac*)](https://retinadesk.com/tools/cable-bandwidth-calculator/)
 - [**Mac PPI Calculator & Retina Checker** - (*Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview*)](https://retinadesk.com/tools/ppi-calculator/)
+- [**Mini Golf Cost Calculator** - (*Estimate mini golf rounds, parties and group outings from entered prices, fees, taxes, gratuity and deposits. Displays USD, free without signup, and does not supply live venue prices*)](https://minigolfspots.com/mini-golf-cost-calculator)
 - [**Mini Tools** - (*Free multilingual tools including UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, image hosting with Markdown links, PDF tools, and developer utilities*)](https://mini-tools.uk)
 - [**Morse Code Translator** - (*Translate Morse code from text, images, audio, and light, with support for multiple languages*)](https://www.themorselab.com/)
 - [**Nutilz - Aspect Ratio Calculator** - (*Find or scale aspect ratios for video, photo, and design work — enter dimensions to get the simplified ratio, or scale to a new size preserving the same ratio. Free, no signup*)](https://nutilz.com/aspect-ratio)
