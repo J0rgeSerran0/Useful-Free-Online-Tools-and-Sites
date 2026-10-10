@@ -829,6 +829,7 @@ List of some useful free online tools and sites
 
 ## <a name="vehicles"></a>**Vehicles**
 - [**Car Recalls** - (*EU - Weekly updated Car Recalls database*)](https://car-recalls.eu/)
+- [**Ceramic Coating Near Me** - (*Free US ceramic-coating shop directory and independent coating guides*)](https://ceramiccoatingshopsnearme.com/)
 - [**NHTSA** - (*US - Check for Recalls*)](https://www.nhtsa.gov/recalls)
 - [**PartSouq** - (*Auto Parts Around the World*)](https://partsouq.com/)
 
