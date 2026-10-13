@@ -86,6 +86,7 @@ List of some useful free online tools and sites
 ## <a name="aeronautics_and_space"></a>**Aeronautics and Space**
 - [**100.000 Stars** - (*Visit the space, stars, etc*)](https://stars.chromeexperiments.com/)
 - [**NASA - Eyes on Asteroids** - (*Take a deeper dive into Asteroids*)](https://eyes.nasa.gov/apps/asteroids/#/home)
+- [**3D Solar System Simulator** - (*Explore the planets and their orbits in 3D, at real distances or true scale*)](https://3dsolarsystem.net/)
 
 ## <a name="agile"></a>**Agile**
 - [**Reetro** - (*Free Online Retrospectives*)](https://reetro.io/)
