@@ -106,6 +106,7 @@ List of some useful free online tools and sites
 - [**ChordChord** - (*ChordChord makes it easy to start your music*)](https://chordchord.com/)
 - [**ChordSeqAI** - (*Compose Chord Progressions*)](https://chordseqai.com/app) - [Open Source Project](https://github.com/PetrIvan/chord-seq-ai-app)
 - [**ClipDrop** - (*Create stunning visuals in seconds with AI*)](https://clipdrop.co/)
+- [**CheckThatPhoto** - (*Check whether a photo looks AI-generated or manipulated, and say so explicitly when the evidence is inconclusive*)](https://checkthatphoto.com/)
 - [**Craiyon** - (*Create AI Art with our free AI image generator*)](https://www.craiyon.com/)
 - [**CapCut** - (*Free all-in-one video editor for everyone to create anything anywhere*)](https://www.capcut.com/)
 - [**Dall-E 2** - (*Create original, realistic images and art from a text description*)](https://openai.com/product/dall-e-2)
