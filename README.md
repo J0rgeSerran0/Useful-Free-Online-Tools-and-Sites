@@ -785,6 +785,7 @@ List of some useful free online tools and sites
 - [**Twitter Video Downloader** - (*Download Twitter Videos Online*)](https://twsaver.com/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos to Mp4 & Mp3*)](https://www.savetweetvid.com/)
 - [**Twitter Video Downloader** - (*Download Twitter Videos*)](https://toolzu.com/downloader/twitter/)
+- [**twtData X Trends Archive** - (*Past trending topics on X (Twitter) by country, city and date; free to browse, no sign-up*)](https://twtdata.com/twitter-trends/)
 - [**Vidiget Downloader** - (*Donwload a youtube video, instagram post, facebook post or twitter post*)](https://vidiget.com/)
 - [**Vidiget YouTube Downloader** - (*Download Youtube videos*)](https://vidiget.com/youtube_downloader)
 - [**YouTube Downloader** - (*Download Youtube to mp4 & mp3*)](https://youtubedownloader.sh/)
