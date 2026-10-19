@@ -594,6 +594,7 @@ List of some useful free online tools and sites
 - [**The Music Industry Toolkit** - (*Free resource directory to discover tools and resources used by music industry professionals*)](https://themusicindustrytoolkit.com/)
 - [**Tom Hess Calculator** - (*Delay And Frequency Calculator*)](https://tomhess.net/Tools/DelayCalculator.aspx)
 - [**Vocal Remover** - (*Separate voice from music out of a song free with powerful AI algorithms*)](https://vocalremover.org/)
+- [**Vocal Separator Metronome** - (*Free metronome for rhythm practice, running locally in the browser without signup or audio upload*)](https://vocalseparator.com/metronome)
 - [**Voice Recorder** - (*Record your voice and add Reverb and EQ before download it*)](https://vocalremover.org/online-voice-recorder)
 - [**White Noise Generator** - (*Create natural sounds easily*)](https://www.whitenoisegenerator.top/)
 
