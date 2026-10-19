@@ -368,6 +368,7 @@ List of some useful free online tools and sites
 
 ## <a name="excel"></a>**Excel**
 - [**Excel to Markdown** - (*Convert XLSX, XLS, and CSV files to Markdown tables locally in the browser; no account or file upload required*)](https://exceltomd.com/excel-to-markdown)
+- [**CSV Creator** - (*Create, view and convert CSV files to and from Excel, JSON, SQL and more in the browser; no account or file upload required*)](https://csvcreator.com/en)
 
 ## <a name="fonts"></a>**Fonts**
 - [**Bit Font Maker 2** - (*Design and create your own fonts*)](https://www.pentacom.jp/pentacom/bitfontmaker2/)
