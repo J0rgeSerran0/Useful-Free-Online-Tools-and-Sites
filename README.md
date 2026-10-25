@@ -172,6 +172,7 @@ List of some useful free online tools and sites
 - [**REQBIN** - (*Online REST & SOAP API Testing Tool*)](https://reqbin.com/)
 
 ## <a name="audio"></a>**Audio, Music and Sounds**
+- [**ABX Blind Test** - (*Level-matched online ABX test with built-in test pairs, or drag in two files of your own*)](https://theaudiostuff.com/tools/abx-test/)
 - [**Adobe Audition Downloads** - (*Thousands of uncompressed, royalty-free audio sound effects and music loop files*)](https://www.adobe.com/products/audition/offers/audition_dlc.html)
 - [**Audio Converter** - (*Convert audio files to MP3, WAV, OGG*)](https://vocalremover.org/converter)
 - [**Audio Converter Online** - (*Supports MP3, WAV, M4A, FLAC, OGG, AAC, M4R, WMA, OPUS, AIFF and MMF formats*)](https://audio-convert.com/)
@@ -194,6 +195,7 @@ List of some useful free online tools and sites
 - [**Mixkit** - (*Incredible Free Sound Effects*)](https://mixkit.co/free-sound-effects/)
 - [**Mp3Cut** - (*Audio Cutter*)](https://mp3cut.net/)
 - [**Online Metronome** - (*Online metronome to stay in time!*)](https://anotherproducer.com/online-tools-for-musicians/metronome/)
+- [**Online Tone Generator** - (*Sine, square, triangle and sawtooth tones, white/pink/brown noise, frequency sweeps and a polarity check*)](https://theaudiostuff.com/tools/signal-generator/)
 - [**Overtones & Harmonics Calculator** - (*The calculator shows you the even, and the odd harmonics of your fundamental frequency*)](https://anotherproducer.com/online-tools-for-musicians/overtones-harmonics-calculator/)
 - [**Piano Audio to MIDI** - (*Upload an MP3 or WAV to transcribe the piano part into MIDI*)](https://eldoraudio.com/products/piano-audio-to-midi)
 - [**Pixabay Sound Effect** - (*Royalty free sound effects*)](https://pixabay.com/sound-effects/)
@@ -204,6 +206,7 @@ List of some useful free online tools and sites
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
+- [**Speaker & Headphone Test** - (*Check left/right channels, speaker phase, bass and treble extension, and sweep 20 Hz to 20 kHz for rattles*)](https://theaudiostuff.com/tools/speaker-test/)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**TikTok and YouTube Audio Download** - (*Download M4A to MP3 from TikTok and YouTube through URL*)](https://www.convertidor.mx/herramientas/descargar-audio-tiktok-youtube.html)
@@ -546,6 +549,7 @@ List of some useful free online tools and sites
 - [**DAW - WavTool** - (*Make music production more accessible, fun, and fulfilling*)](https://wavtool.com/)
 - [**Sound Decibel Meter Online** - (*Use this sound decibel meter online for quick ambient sound checks in your browser*)](https://sounddecibelmeter.net/)
 - [**Distrokid** - (*Get 7% off using this link - Digital music distribution service*)](https://distrokid.com/vip/seven/4298531)
+- [**EQ Ear Training Game** - (*Train your ears to identify frequencies from 20 Hz to 22 kHz, with five training modes*)](https://theaudiostuff.com/tools/ear-training/)
 - [**EQ Frequency Chart & Cheat Sheet** - (*Find problem frequencies. Fix your mix*)](https://danmurtagh.com/eq-frequency-chart/)
 - [**ER-99 Drum Synth** - (*Web-based instrument based on a famous Japanese drum machine from the 1980s*)](https://extralifeinstruments.com/er-99/)
 - [**Every Noise** - (*Every Noise at Once*)](https://everynoise.com/)
