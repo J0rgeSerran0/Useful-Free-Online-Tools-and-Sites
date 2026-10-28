@@ -202,6 +202,7 @@ List of some useful free online tools and sites
 - [**Song Key finder** - (*Find In What Key A Song Was Composed With Our Online Music Key Analyzer*)](https://getsongkey.com/tools/key-finder)
 - [**Stem Splitter** - (*Turn any song into isolated tracks (piano, vocals, drums, bass, guitar, other)*)](https://eldoraudio.com/products/stem-splitter)
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
+- [**Sound Generator** - (*Browser-based tone and test-signal generator: 1 Hz to 20 kHz tones, sweeps, noise, DTMF, a hearing test and WAV export, free with no account*)](https://soundgenerator.app)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
