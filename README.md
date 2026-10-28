@@ -204,6 +204,7 @@ List of some useful free online tools and sites
 - [**Streaming Royalties Calculator** - (*Find out what most common music streaming platforms are likely to pay you per stream*)](https://anotherproducer.com/online-tools-for-musicians/royalties-calculator/)
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
+- [**Tera Studio Vocal Range Test** - (*Sing from your lowest to your highest note and see your vocal range and voice type. Free, no sign-up, nothing is recorded*)](https://terastudio.co/tools/vocal-range-test/)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**TikTok and YouTube Audio Download** - (*Download M4A to MP3 from TikTok and YouTube through URL*)](https://www.convertidor.mx/herramientas/descargar-audio-tiktok-youtube.html)
