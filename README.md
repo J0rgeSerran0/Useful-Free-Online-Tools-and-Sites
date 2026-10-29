@@ -450,6 +450,7 @@ List of some useful free online tools and sites
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Pixabay Images** - (*Royalty free Images and Royalty-Free stock*)](https://pixabay.com/)
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
+- [**Pic2Vector** - (*Convert PNG, JPG and WebP images to SVG in the browser with vtracer compiled to WebAssembly, no upload, no signup and no watermark*)](https://pic2vector.com/)
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 - [**Post Images** - (*Get permanent links for Facebook, Twitter, forums and blogs*)](https://postimages.org/)
