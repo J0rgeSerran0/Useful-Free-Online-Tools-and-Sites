@@ -439,6 +439,7 @@ List of some useful free online tools and sites
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
 - [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
 - [**Free Image Merger** - (*Merge images side by side, stacked, in a grid, or freestyle in the browser without uploading files*)](https://freeimagemerger.com)
+- [**FreeKitHub** - (*Compress JPG, PNG, WebP under a target KB size and batch convert HEIC to JPG locally in your browser — files never leave your device*)](https://freekithub.com)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
 - [**Image to Base64** - (*Convert image to Base64*)](https://base64.guru/converter/encode/image)
