@@ -205,6 +205,7 @@ List of some useful free online tools and sites
 - [**Sound Wave Maker** - (*Create sound waves based on your music of choice*)](https://www.veed.io/tools/music-visualizer/sound-wave-maker)
 - [**SoundBible** - (*Free sound clips for download in either wav or mp3 format*)](https://soundbible.com/)
 - [**Text to Speech** - (*Text to mp3 or wav*)](https://www.texttospeechfree.com/)
+- [**The Audio Stuff** - (*Free audio tools: room modes, SPL, headphone power, safe listening, ABX*)](https://theaudiostuff.com/tools)
 - [**These Lyrics Do Not Exist** - (*Lyrics generated using Artificial Intelligence*)](https://theselyricsdonotexist.com/)
 - [**TikTok and YouTube Audio Download** - (*Download M4A to MP3 from TikTok and YouTube through URL*)](https://www.convertidor.mx/herramientas/descargar-audio-tiktok-youtube.html)
 - [**Tunebat** - (*Key & BPM Database and Music Finder*)](https://tunebat.com/)
