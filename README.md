@@ -858,6 +858,7 @@ List of some useful free online tools and sites
 - [**Cached View** - (*The Google Cache Browser for any page on Internet*)](http://cachedview.com/)
 - [**Cached Views** - (*Cached view of any page on Internet through multiple cached sources*)](https://cachedviews.com/)
 - [**Cloudflare Radar - URL Scanner** - (*Understand the security, performance, technology, and network details of a URL with a publicly shareable report*)](https://radar.cloudflare.com/scan)
+- [**CurlShot - Full Page Screenshot** - (*Capture a full-page screenshot of any website as an image or PDF, no account needed to try it*)](https://curlshot.com/tools/full-page-screenshot)
 - [**Cyber URL Scanner** - (*Advanced tool for analyzing website security*)](https://www.cyscan.io/)
 - [**Favicon Generator** - (*Create your favicons online*)](https://www.favicon.cc/)
 - [**Free Browser Tools Collection** - (*Process PDFs, images, and data entirely in your browser. No upload. No server. No tracking.*)](https://xueboyang1985.github.io/free-browser-tools/)
