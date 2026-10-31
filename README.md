@@ -477,6 +477,7 @@ List of some useful free online tools and sites
 
 ## <a name="jobs"></a>**Jobs**
 - [**arc** - (*Radically different remote job search where companies apply to you*)](https://arc.dev/)
+- [**Rezloom** - (*Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links*)](https://rezloom.com)
 
 ## <a name="knowledge"></a>**Knowledge**
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
