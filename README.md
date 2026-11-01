@@ -839,6 +839,7 @@ List of some useful free online tools and sites
 - [**Ezgif - Video to GIF** - (*MP4 video to GIF converter*)](https://ezgif.com/video-to-gif) 
 - [**Ezgif - Video to JPG** - (*MP4 video to JPG converter*)](https://ezgif.com/video-to-jpg) 
 - [**Ezgif - Video to PNG** - (*MP4 video to PNG converter*)](https://ezgif.com/video-to-png)
+- [**imgmov Last Frame Extractor** - (*Inspect the end of a local video and export a selected frame as PNG in your browser; free, no account required*)](https://imgmov.com/extract-last-frame-from-video)
 - [**MKV to MP4** - (*MKV to MP4 converter*)](https://www.convertidor.mx/herramientas/convertir-mkv-a-mp4.html)
 - [**MOV to MP4 Converter** - (*Convert MOV to MP4 online, for free*)](https://www.freeconvert.com/mov-to-mp4)
 - [**TikTok Video Downloader** - (*Download TikTok videos in MP4 format*)](https://www.convertidor.mx/herramientas/descargar-videos-tiktok.html)
