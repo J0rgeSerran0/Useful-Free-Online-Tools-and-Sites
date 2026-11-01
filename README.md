@@ -774,6 +774,7 @@ List of some useful free online tools and sites
 - [**Full Emoji List** - (*Emoji List*)](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [**Get YouTube Thumbnail** - (*Get YouTube Video Thumbnail Image*)](http://www.get-youtube-thumbnail.com/)
 - [**Giphy** - (*GIFs & Stickers*)](https://giphy.com/)
+- [**Instagram Engagement Rate Calculator** - (*Check the engagement rate of any public Instagram account, free and no login*)](https://www.outfame.com/free-instagram-tools/instagram-engagement-calculator)
 - [**Instagram Line Break Generator** - (*Create line breaks in your captions, bio, or comments!*)](https://textspacer.com/)
 - [**LinkedIn Text Formatter** - (*Format your LinkedIn text with bold, italic and more styles!*)](https://typefully.com/tools/linkedin-text-formatter)
 - [**LinkedIn Video Downloader** - (*Best Free online Video Downloader for Social Media Videos*)](https://viddownloader.online/linkedin-downloader/)
