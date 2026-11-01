@@ -401,6 +401,7 @@ List of some useful free online tools and sites
 - [**Iconshock** - (*Free icons*)](https://www.iconshock.com/freeicons/)
 - [**ImageClipboard** - (*Discord Emoji, Sticker & GIF Clipboard*)](https://www.imageclipboard.xyz/)
 - [**Noun Project** - (*Icons and Photos for Everything*)](https://thenounproject.com/)
+- [**Pic2SVG SVG checker** - (*Inspect SVG outlines, image elements, live text and document size locally; no account*)](https://pic2svg.com/svg-cut-file-checker/)
 - [**Seek Logo** - (*300.000+ Vector Logos in AI, EPS, CDR, SVG, PDF*)](https://seeklogo.com/)
 - [**Share Icon** - (*Donwload Free Icons in PNG, SVG,...*)](https://www.shareicon.net/)
 - [**SVG Compressor** - (*Online SVG Compressor*)](https://compress-online.com/compress-svg)
