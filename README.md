@@ -97,6 +97,7 @@ List of some useful free online tools and sites
 - [**AI Music Generator** - (*Transform your ideas into songs instantly*)](https://aimusicgen.ai/)
 - [**AI Painter** - (*See your photo turned into artwork in seconds!*)](https://www.instapainting.com/ai-painter)
 - [**AIVA** - (*AI Music Generation Assistant*)](https://www.aiva.ai/)
+- [**AI Story Writer** - (*Free AI story writer for kids—short family-safe stories with illustrations and narration*)](https://aistorywriter.org)
 - [**Basic Pitch** - (*Free audio-to-MIDI converter with pitch bend detection*)](https://basicpitch.spotify.com/)
 - [**Beatoven** - (*Create customisable royalty free music that elevates your story*)](https://www.beatoven.ai/)
 - [**Big Speak** - (*Generate English speech from text with AI*)](https://bigspeak.ai/)
@@ -154,6 +155,7 @@ List of some useful free online tools and sites
 - [**Tiktokenizer** - (*Tool for developers to track users' token usage so that each customer is billed proportionally*)](https://tiktokenizer.vercel.app/)
 - [**TTSMP3.com** - (*Free Text-To-Speech and Text-to-MP3*)](https://ttsmp3.com/)
 - [**Udio** - (*Make your music*)](https://www.udio.com/)
+- [**YouTube Summarizer** - (*Free YouTube video summarizer—paste a link, get a clear summary with key points in seconds*)](https://youtubesummarizer.org)
 - [**ZZZ Code AI** - (*Coding website powered by AI!*)](https://zzzcode.ai/)
 
 ## <a name="air_traffic"></a>**Air Traffic**
@@ -475,6 +477,7 @@ List of some useful free online tools and sites
 
 ## <a name="jobs"></a>**Jobs**
 - [**arc** - (*Radically different remote job search where companies apply to you*)](https://arc.dev/)
+- [**Rezloom** - (*Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links*)](https://rezloom.com)
 
 ## <a name="knowledge"></a>**Knowledge**
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
@@ -512,7 +515,9 @@ List of some useful free online tools and sites
 - [**This Person Not Exist** - (*Creates an image of a person that not exist*)](https://thispersondoesnotexist.com/)
 - [**Paper Sizes** - (*Calculates between Size, PPI/DPI and Width/Height*)](https://www.papersizes.org/a-sizes-in-pixels.htm)
 - [**PuzzleGenio** - (*Free online puzzle generator for jigsaw, crossword, word search and sudoku puzzles*)](https://www.puzzlegenio.com/)
+- [**PuzzlePave** - (*Free packing / polyomino puzzle online—100 levels on an 8×8 board, no download or sign-up*)](https://puzzlepave.com)
 - [**Scrt.link** - (*Share a Secret - Link that only works one time and then self-destructs*)](https://scrt.link/)
+- [**ODLUCK** - (*Free browser random generators—numbers, passwords, colors, cards, animals, countries and more*)](https://odluck.com)
 - [**Ultimate Wheel Spin** (*Randomly pick names by spinning a wheel*)](https://ultimatewheelspin.com/)
 - [**Codeswap** - (*815+ free browser-based developer tools spanning JSON, regex, converters, and more, no signup*)](https://codeswap.net/)
 
@@ -629,6 +634,7 @@ List of some useful free online tools and sites
 ## <a name="productivity"></a>**Productivity**
 - <img src="assets/images/windows.svg" width="20" height="20"> Windows [**Microsoft PowerToys** - (*Set of utilities to tune and streamline their Windows 10 and 11 experience for greater productivity*)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
 - [**JotTools** - (*130+ free browser-based tools: PDF, image, text, color, calculators and developer utilities, all client-side with no signup*)](https://jottools.com)
+- [**Lompu** - (*Build custom random pickers and flashcards from your own lists—free in the browser, no sign-up*)](https://lompu.com)
 - [**Notion** - (*All-in-one workspace*)](https://www.notion.so/)
 - [**Pomodoro Tracker** - (*Online Pomodoro Tool*)](https://pomodoro-tracker.com/)
 - [**Xianyu Netdisk Delivery Checker** - (*Free browser-side checklist for Xianyu digital-product sellers before sending netdisk links; generates buyer instructions, after-sales boundaries, and order-record CSV*)](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/) - [Source Code](https://github.com/Ronnie2025/xianyu-netdisk-delivery-checker)
@@ -767,6 +773,8 @@ List of some useful free online tools and sites
 - [**View PPS Online** - (*Open and view PPS documents online*)](https://products.groupdocs.app/viewer/pps)
 
 ## <a name="social_networks"></a>**Social Networks**
+- [**7emoji** - (*AI emoji translator—paste text and get up to 10 context-matched emoji suggestions to copy*)](https://7emoji.fun)
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators (topic → outline, script, titles). Coming soon; preview live.
 - [**EmojiTerra** - (*Emojis to copy and paste*)](https://emojiterra.com/)
 - [**Fancy Text Decorator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://fancytextdecorator.com/)
 - [**Fancy Text Generator** - (*Generate cool text to be used on Whatsapp, Instagram, Twitter, Youtube, Discord...*)](https://lingojam.com/FancyTextGenerator)
@@ -834,6 +842,7 @@ List of some useful free online tools and sites
 
 ## <a name="videos"></a>**Videos**
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
+- [**Html2MP4** - (*Create MP4 videos from HTML, prompts, templates and websites online*)](https://html2mp4.com)
 - [**Extract Audio From Video** - (*Extract and download the audio from a video, or remove the audio from a video*)](https://www.onlineconverter.com/extract-audio-from-video)
 - [**Ezgif - GIF to Video** - (*GIF to MP4 converter*)](https://ezgif.com/gif-to-mp4) 
 - [**Ezgif - Video to GIF** - (*MP4 video to GIF converter*)](https://ezgif.com/video-to-gif) 
