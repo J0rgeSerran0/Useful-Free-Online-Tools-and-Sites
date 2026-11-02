@@ -271,6 +271,7 @@ List of some useful free online tools and sites
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
 - [**RAID / ZFS / unRAID Storage Calculator** - (*Usable capacity, fault tolerance, and cost per TB across RAID, ZFS, and unRAID*)](https://dalil-tech.com/raid-calculator)
+- [**RMM Migration Cost Calculator** - (*Estimate one-time migration cost, monthly savings, 12-month impact, and break-even from subscription overlap, retained tools, labor, and implementation fees. Free, no signup, browser-only*)](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-migration-cost-calculator.html)
 - [**Self-Hosting vs SaaS Cost Calculator** - (*Compares the real cost of self-hosting against a SaaS subscription over time*)](https://dalil-tech.com/self-hosting-cost-calculator)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
