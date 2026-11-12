@@ -479,6 +479,7 @@ List of some useful free online tools and sites
 ## <a name="knowledge"></a>**Knowledge**
 - [**Academic Torrents** - (*83TB of research data*)](https://academictorrents.com/)
 - [**arXiv.org** - (*Open-access archive*)](https://arxiv.org/)
+- [**ProfScout Professor Directory** - (*Free professor lists by field and country*)](https://profscout.com/professors/directory)
 
 ## <a name="maps_gps"></a>**Maps and GPS**
 - [**Epsg.io** - (*Coordinate Systems Worldwide*)](https://epsg.io/map#srs=4326&x=-3.703406&y=40.416846&z=20&layer=streets)
