@@ -450,6 +450,7 @@ List of some useful free online tools and sites
 - [**Pexels** - (*Free Stock Photos, Royalty Free Images and Videos Shared by creators*)](https://www.pexels.com/)
 - [**Pixabay Images** - (*Royalty free Images and Royalty-Free stock*)](https://pixabay.com/)
 - [**Photopea** - (*Advanced Image Editor Online*)](https://www.photopea.com/)
+- [**PixelArtHive Pixel Art Upscaler** - (*Enlarge pixel-art sprites and icons with sharp edges, free in the browser*)](https://pixelarthive.com/pixel-art-upscaler)
 - [**Placeholder image generator** - (*Create dummy images online*)](https://placeholder.imageonline.co/)
 - [**PNG to ICO Converter** - (*Convert PNG to ICO online, for free*)](https://www.freeconvert.com/png-to-ico)
 - [**Post Images** - (*Get permanent links for Facebook, Twitter, forums and blogs*)](https://postimages.org/)
