@@ -584,6 +584,7 @@ List of some useful free online tools and sites
 - [**RhymeZone** - (*Find rhymes, synonyms, adjectives, and more!*)](https://rhymezone.com/)
 - [**Samplette** - (*Search Samples and get ideas*)](https://samplette.io/)
 - [**Scale Chords** - (*Musician Tools*)](https://www.scales-chords.com/)
+- [**SCloudConvert** - (*Free SoundCloud downloader for public tracks and playlists: M4A keeps the original ~160 kbps AAC stream, MP3 is a 192 kbps copy, playlists as one ZIP. No sign-up*)](https://scloudconvert.com/)
 - [**Show Scale** - (*This tool will help you find the music scale (or key) to your music*)](https://showscale.com/)
 - [**Song Key Finder** - (*Analyzes music and finds musical key, bpm and ms*)](https://vocalremover.org/key-finder)
 - [**Sound (Bartosz Ciechanowski)** - (*This web site explain what sound is, how it’s created and propagated.*)](https://ciechanow.ski/sound/)
