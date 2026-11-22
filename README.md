@@ -239,8 +239,7 @@ List of some useful free online tools and sites
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
 - [**Concrete Calculator Hub** - (*Free concrete calculators for slabs, footings, columns, and bags with cost estimates*)](https://concreteestimatorhub.com/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
-- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no
-- uploads or tracking*)](https://convertprivately.com)
+- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
 - [**Currency Converter** - (*Convert between Currency units*)](https://convertlive.com/c/convert/currency)
 - [**Data Size Converter** - (*Convert between Data size units*)](https://convertlive.com/c/convert/data-size)
