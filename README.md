@@ -271,6 +271,7 @@ List of some useful free online tools and sites
 - [**Power Converter** - (*Convert between Power units*)](https://convertlive.com/c/convert/power)
 - [**Pressure Converter** - (*Convert between Pressure units*)](https://convertlive.com/c/convert/pressure)
 - [**RAID / ZFS / unRAID Storage Calculator** - (*Usable capacity, fault tolerance, and cost per TB across RAID, ZFS, and unRAID*)](https://dalil-tech.com/raid-calculator)
+- [**Recessed Light Calculator** - (*Free browser calculator for preliminary recessed-light counts, spacing and 2D layouts in rectangular rooms, with PNG/CSV export. Planning estimates, not photometric or electrical design.*)](https://canlightcalculator.com/)
 - [**Self-Hosting vs SaaS Cost Calculator** - (*Compares the real cost of self-hosting against a SaaS subscription over time*)](https://dalil-tech.com/self-hosting-cost-calculator)
 - [**Speed Converter** - (*Convert between Speed units*)](https://convertlive.com/c/convert/speed)
 - [**Time Converter** - (*Convert between Time units*)](https://convertlive.com/c/convert/time)
