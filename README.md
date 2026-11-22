@@ -235,10 +235,12 @@ List of some useful free online tools and sites
 - [**Angle Converter** - (*Convert between Angle units*)](https://convertlive.com/c/convert/angle)
 - [**Area Converter** - (*Convert between Area units*)](https://convertlive.com/c/convert/area)
 - [**Audiobook Speed Calculator** - (*Free online tool to calculate audiobook listening time and playback speed*)](https://audiobookspeedcalculator.co/)
+- [**Calculadora de Horas**](https://calculadora-de-horas.app/) - (*Free Brazilian labor calculators — overtime, severance, FGTS, night shift and more. In Portuguese, no signup*)
 - [**CityDistance** - (*Calculate distance between cities*)](https://citydistance.io/)
 - [**Concrete Calculator Hub** - (*Free concrete calculators for slabs, footings, columns, and bags with cost estimates*)](https://concreteestimatorhub.com/)
 - [**Convert to PDF** - (*Converts text files to PDF*)](https://ebook.online-convert.com/convert-to-pdf)
-- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no uploads or tracking*)](https://convertprivately.com)
+- [**ConvertPrivately** - (*Privacy-first file conversion and utility tools for PDFs, images, documents, and data — 250+ tools, almost all run in-browser with no
+- uploads or tracking*)](https://convertprivately.com)
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
 - [**Currency Converter** - (*Convert between Currency units*)](https://convertlive.com/c/convert/currency)
 - [**Data Size Converter** - (*Convert between Data size units*)](https://convertlive.com/c/convert/data-size)
