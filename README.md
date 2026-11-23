@@ -283,6 +283,7 @@ List of some useful free online tools and sites
 - [**Weight Converter** - (*Convert between Weight units*)](https://convertlive.com/c/convert/weight)
 
 ## <a name="charts"></a>**Charts**
+- [**eStockes Stock Chart** - (*Free U.S. stock candlestick chart with Daily and 15-minute views. Open the Microsoft example without an account.*)](https://estockes.com/chart?symbol=MSFT&interval=1d)
 - [**Live Gap Charts** - (*Create your Chart*)](https://charts.livegap.com/app.php?lan=en&gallery=bar)
 
 ## <a name="climatology"></a>**Climatology**
