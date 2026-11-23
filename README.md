@@ -833,6 +833,7 @@ List of some useful free online tools and sites
 - [**PartSouq** - (*Auto Parts Around the World*)](https://partsouq.com/)
 
 ## <a name="videos"></a>**Videos**
+- [**Angry Dance Free Creator Tools** - (*Free browser-based video, GIF, and audio creator utilities including 4K video frame extraction, loopable GIF maker, and audio BPM calculator; no signup, no watermark*)](https://angrydance.com/tools)
 - [**Clideo** - (*Video tools*)](https://clideo.com/tools/)
 - [**Extract Audio From Video** - (*Extract and download the audio from a video, or remove the audio from a video*)](https://www.onlineconverter.com/extract-audio-from-video)
 - [**Ezgif - GIF to Video** - (*GIF to MP4 converter*)](https://ezgif.com/gif-to-mp4) 
