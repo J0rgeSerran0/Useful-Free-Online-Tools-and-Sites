@@ -242,6 +242,7 @@ List of some useful free online tools and sites
 - [**CoordConv - Coordinate Converter** - (*Converter GPS coordinate between DD, DMS, UTM, MGRS, Geohash and more*)](https://coordconv.com/)
 - [**Currency Converter** - (*Convert between Currency units*)](https://convertlive.com/c/convert/currency)
 - [**Data Size Converter** - (*Convert between Data size units*)](https://convertlive.com/c/convert/data-size)
+- [**Debt Payoff Visualizer** - (*Free debt payoff calculator, enter your debts to see a payoff timeline and debt-free date, with a slider for extra monthly payments; no signup, nothing uploaded*)](https://sbp-debt-payoff-visualizer.netlify.app/)
 - [**DoItSwift** - (*Privacy-first browser tools — image conversion, PDF editing, HEIC/WebP/AVIF converter, image compressor, 40+ calculators, word counter, Lorem Ipsum generator, and more. No server upload, no signup, 100% browser-based, Unlimited use, No watermarks, Works offline. Everything runs in your browser*)](https://doitswift.com)
 - [**Easy Calculation** - (*Free Calculators and Converters*)](https://www.easycalculation.com/)
 - [**Energy Converter** - (*Convert between Energy units*)](https://convertlive.com/c/convert/energy)
