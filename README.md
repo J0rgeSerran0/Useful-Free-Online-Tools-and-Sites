@@ -80,6 +80,7 @@ List of some useful free online tools and sites
 [![](https://img.shields.io/badge/Contributors-70db70?style=for-the-badge)](#contributors)
 
 ## <a name="3d_vr_irl"></a>**3D, VR and IRL**
+- [**StagePeek** - (*Free interactive 3D theater seat-view previewer across 201 venues*)](https://stagepeek.live/)
 - [**Vectary** - (*Free online 3D design*)](https://app.vectary.com/)
 - [**ViewSTL** - (*View 3D STL files directly in your browser*)](https://www.viewstl.com/)
 
