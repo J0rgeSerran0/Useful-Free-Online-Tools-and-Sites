@@ -256,6 +256,7 @@ List of some useful free online tools and sites
 - [**Mac PPI Calculator & Retina Checker** - (*Calculate a monitor's pixel density and whether it renders Retina-sharp on macOS, with a HiDPI scaling preview*)](https://retinadesk.com/tools/ppi-calculator/)
 - [**Mini Tools** - (*Free multilingual tools including UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, image hosting with Markdown links, PDF tools, and developer utilities*)](https://mini-tools.uk)
 - [**Morse Code Translator** - (*Translate Morse code from text, images, audio, and light, with support for multiple languages*)](https://www.themorselab.com/)
+- [**MuseTool** - (*1,000+ free online tools: calculators, converters, countdown timers and more, no sign-up*)](https://musetool.online)
 - [**Nutilz - Aspect Ratio Calculator** - (*Find or scale aspect ratios for video, photo, and design work — enter dimensions to get the simplified ratio, or scale to a new size preserving the same ratio. Free, no signup*)](https://nutilz.com/aspect-ratio)
 - [**Nutilz - Body Fat Calculator** - (*Calculate body fat percentage using the U.S. Navy circumference method or the BMI formula. Metric and imperial units. Free, instant, no sign-up*)](https://nutilz.com/body-fat-calculator)
 - [**Nutilz - Budget Calculator** - (*Plan your monthly budget — enter income and expenses, see remaining balance, and compare your spending to the 50/30/20 rule. Free, no signup*)](https://nutilz.com/budget-calculator)
